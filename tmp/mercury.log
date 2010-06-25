@@ -2175,3 +2175,46 @@ Errno::ENOENT: No such file or directory - /Users/jackhq/apps/css-demo/wwwroot/_
 	from /usr/local/lib/ruby/gems/1.8/gems/mercury-0.9.15/bin/mercury:34
 	from /usr/local/bin/mercury:19:in `load'
 	from /usr/local/bin/mercury:19
+127.0.0.1 - - [25/Jun/2010 14:48:53] "GET / HTTP/1.1" 200 4193 0.1149
+127.0.0.1 - - [25/Jun/2010 14:48:53] "GET / HTTP/1.1" 200 4193 0.1272
+127.0.0.1 - - [25/Jun/2010 14:48:53] "GET /stylesheets/960.css HTTP/1.1" 304 - 0.0007
+127.0.0.1 - - [25/Jun/2010 14:48:53] "GET /stylesheets/960.css HTTP/1.1" 304 - 0.0026
+127.0.0.1 - - [25/Jun/2010 14:48:53] "GET /stylesheets/reset.css HTTP/1.1" 304 - 0.0005
+127.0.0.1 - - [25/Jun/2010 14:48:53] "GET /stylesheets/reset.css HTTP/1.1" 304 - 0.0020
+127.0.0.1 - - [25/Jun/2010 14:48:53] "GET /stylesheets/text.css HTTP/1.1" 304 - 0.0006
+127.0.0.1 - - [25/Jun/2010 14:48:53] "GET /stylesheets/text.css HTTP/1.1" 304 - 0.0027
+127.0.0.1 - - [25/Jun/2010 14:48:53] "GET /stylesheets/app.css HTTP/1.1" 304 - 0.0005
+127.0.0.1 - - [25/Jun/2010 14:48:53] "GET /stylesheets/app.css HTTP/1.1" 304 - 0.0019
+127.0.0.1 - - [25/Jun/2010 14:48:53] "GET /stylesheets/smoothness/jquery-ui-1.8.custom.css HTTP/1.1" 304 - 0.0006
+127.0.0.1 - - [25/Jun/2010 14:48:53] "GET /stylesheets/smoothness/jquery-ui-1.8.custom.css HTTP/1.1" 304 - 0.0506
+127.0.0.1 - - [25/Jun/2010 14:48:53] "GET /javascripts/jquery-1.4.2.min.js HTTP/1.1" 304 - 0.0006
+127.0.0.1 - - [25/Jun/2010 14:48:53] "GET /javascripts/jquery-1.4.2.min.js HTTP/1.1" 304 - 0.0021
+127.0.0.1 - - [25/Jun/2010 14:48:53] "GET /javascripts/jquery-ui-1.8.custom.min.js HTTP/1.1" 304 - 0.0006
+127.0.0.1 - - [25/Jun/2010 14:48:53] "GET /javascripts/jquery-ui-1.8.custom.min.js HTTP/1.1" 304 - 0.0019
+127.0.0.1 - - [25/Jun/2010 14:48:53] "GET /javascripts/coffee-script.js HTTP/1.1" 304 - 0.0006
+127.0.0.1 - - [25/Jun/2010 14:48:53] "GET /javascripts/coffee-script.js HTTP/1.1" 304 - 0.0020
+127.0.0.1 - - [25/Jun/2010 14:48:58] "GET /inline HTTP/1.1" 200 4570 0.1129
+127.0.0.1 - - [25/Jun/2010 14:48:58] "GET /inline HTTP/1.1" 200 4570 0.1146
+127.0.0.1 - - [25/Jun/2010 14:49:03] "GET /radius HTTP/1.1" 200 3841 0.1092
+127.0.0.1 - - [25/Jun/2010 14:49:03] "GET /radius HTTP/1.1" 200 3841 0.1108
+127.0.0.1 - - [25/Jun/2010 14:49:07] "GET /text-shadow HTTP/1.1" 200 3804 0.1084
+127.0.0.1 - - [25/Jun/2010 14:49:07] "GET /text-shadow HTTP/1.1" 200 3804 0.1101
+127.0.0.1 - - [25/Jun/2010 14:49:11] "GET /rgba HTTP/1.1" 200 1417 0.0122
+127.0.0.1 - - [25/Jun/2010 14:49:11] "GET /rgba HTTP/1.1" 200 1417 0.0139
+127.0.0.1 - - [25/Jun/2010 14:49:13] "GET /transitions HTTP/1.1" 200 3728 0.1686
+127.0.0.1 - - [25/Jun/2010 14:49:13] "GET /transitions HTTP/1.1" 200 3728 0.1707
+127.0.0.1 - - [25/Jun/2010 14:50:14] "GET / HTTP/1.1" 200 4193 0.1137
+127.0.0.1 - - [25/Jun/2010 14:50:14] "GET / HTTP/1.1" 200 4193 0.1155
+127.0.0.1 - - [25/Jun/2010 14:50:16] "GET /transitions HTTP/1.1" 200 3837 0.1106
+127.0.0.1 - - [25/Jun/2010 14:50:16] "GET /transitions HTTP/1.1" 200 3837 0.1124
+127.0.0.1 - - [25/Jun/2010 14:50:43] "GET /rgba HTTP/1.1" 200 1440 0.0109
+127.0.0.1 - - [25/Jun/2010 14:50:43] "GET /rgba HTTP/1.1" 200 1440 0.0124
+/usr/local/lib/ruby/gems/1.8/gems/rack-1.1.0/lib/rack/handler/mongrel.rb:38:in `join': Interrupt
+	from /usr/local/lib/ruby/gems/1.8/gems/rack-1.1.0/lib/rack/handler/mongrel.rb:38:in `run'
+	from /usr/local/lib/ruby/gems/1.8/gems/rack-1.1.0/lib/rack/server.rb:155:in `start'
+	from /usr/local/lib/ruby/gems/1.8/gems/rack-1.1.0/lib/rack/server.rb:83:in `start'
+	from /usr/local/lib/ruby/gems/1.8/gems/rack-1.1.0/bin/rackup:4
+	from /usr/local/lib/ruby/gems/1.8/gems/mercury-0.9.15/bin/mercury:34:in `load'
+	from /usr/local/lib/ruby/gems/1.8/gems/mercury-0.9.15/bin/mercury:34
+	from /usr/local/bin/mercury:19:in `load'
+	from /usr/local/bin/mercury:19
