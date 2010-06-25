@@ -1,20 +1,23 @@
 
 = sass :app
 #wrap
-  %ul.lst
-    - [['Latte','2.79', '60'],['Cappuccino', '2.99', '68'],['Cafe Americano', '1.80','35'],['Expresso', '2.00','50'],['Caramel Macchiato', '10.49','100']].each do |v|
-      %li
-        %a{:href => '#'}
-          %em= v[1]
-          = v[0]
-        %span{:style => "width: #{v[2]}%"}= v[2]
-
-  .box
-    %img{:src => 'http://jackhq.s3.amazonaws.com/images/jackhq.png'}
-  
-  .more-btn
-    %a{:href => '#'}
-      &larr; News
+  %ul
+    %li
+      %a{:href => '/inline' } Inline Example
+    %li
+      %a{:href => '/radius' } Border Radius
       
-  %h1 Hello World
-  %h2 Jack Russell Software Rocks!
+    %li
+      %a{:href => '/text-shadow' } Text Shadow
+    
+    %li
+      %a{:href => '/box-shadow' } Box Shadow
+    %li
+      %a{:href => '/rgba' } RGBA
+
+    %li
+      %a{:href => '/transitions' } Transisitions
+  
+
+  
+      
