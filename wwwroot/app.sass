@@ -1,0 +1,91 @@
+body
+  background: gray
+  
+ul
+  margin: 0
+  padding: 0
+  li
+    margin: 0
+    padding: 0
+
+h1
+  font-size: 4em
+  color: #037091
+  text-shadow: 2px 2px 2px rgba(0,0,0, .7)
+
+h2
+  text-shadow: 0 -1px 0 rgba(255,255,255, .8)
+
+#wrap
+  width: 960px
+  margin: 0 auto 0
+  padding-top: 20px
+  
+a:link, a:visited
+  font-weight: bold
+  text-decoration: none
+  color: #379263
+
+.box
+  margin-top: 100px
+  background: white
+  width: 250px
+  padding: 20px
+  -webkit-border-radius: 8px
+  -moz-border-radius: 8px
+  border-radius: 8px
+  -webkit-box-shadow: 2px 2px 8px whitesmoke
+  -moz-box-shadow: 2px 2px 8px whitesmoke
+  
+.more-btn
+  margin: 30px
+  a:hover
+    background-color: #a14141
+  a
+    padding: 5px 14px
+    color: #fff
+    border: 1px solid #3792b3
+    background: #3792b3 url(http://jackhq.s3.amazonaws.com/images/glass-btn.png) repeat-x 0 50%
+    -webkit-border-radius: 14px
+    -moz-border-radius: 14px
+    border-radius: 14px
+
+
+ul.lst
+  list-style: none
+  background: whitesmoke
+  width: 250px
+  -webkit-border-radius: 8px
+  -moz-border-radius: 8px
+  border-radius: 8px
+  
+  li 
+    margin-left: 5px
+    margin-right: 5px
+    position: relative
+    a:link, a:visited
+      position: relative
+      display: block
+      padding: 7px
+      border-bottom: 1px solid #f3f2e8
+      z-index: 2
+      -webkit-transition: color .4s linear
+      
+    em
+      float: right
+      font-style: normal
+      font-weight: normal
+      color: #9c836e
+    span
+      position: absolute
+      top: 0
+      left: 0
+      display: block
+      height: 100%
+      text-indent: -9999px
+      background: #f3f2e8
+    a:hover
+      color: rgba(0,0,0,.15)
+  li:hover
+    span
+      background: #ecebe1

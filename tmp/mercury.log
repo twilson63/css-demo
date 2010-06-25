@@ -1,0 +1,2177 @@
+127.0.0.1 - - [25/Jun/2010 08:29:19] "GET / HTTP/1.1" 200 1946 0.0264
+127.0.0.1 - - [25/Jun/2010 08:29:19] "GET / HTTP/1.1" 200 1946 0.3026
+127.0.0.1 - - [25/Jun/2010 08:29:19] "GET /stylesheets/reset.css HTTP/1.1" 200 648 0.0426
+127.0.0.1 - - [25/Jun/2010 08:29:19] "GET /stylesheets/reset.css HTTP/1.1" 200 648 0.0446
+127.0.0.1 - - [25/Jun/2010 08:29:19] "GET /stylesheets/text.css HTTP/1.1" 200 418 0.0013
+127.0.0.1 - - [25/Jun/2010 08:29:19] "GET /stylesheets/text.css HTTP/1.1" 200 418 0.0099
+127.0.0.1 - - [25/Jun/2010 08:29:19] "GET /stylesheets/960.css HTTP/1.1" 200 5961 0.0012
+127.0.0.1 - - [25/Jun/2010 08:29:19] "GET /stylesheets/960.css HTTP/1.1" 200 5961 0.0042
+127.0.0.1 - - [25/Jun/2010 08:29:19] "GET /stylesheets/smoothness/jquery-ui-1.8.custom.css HTTP/1.1" 200 30797 0.0010
+127.0.0.1 - - [25/Jun/2010 08:29:19] "GET /stylesheets/smoothness/jquery-ui-1.8.custom.css HTTP/1.1" 200 30797 0.0029
+127.0.0.1 - - [25/Jun/2010 08:29:19] "GET /stylesheets/app.css HTTP/1.1" 200 581 0.0011
+127.0.0.1 - - [25/Jun/2010 08:29:19] "GET /stylesheets/app.css HTTP/1.1" 200 581 0.0034
+127.0.0.1 - - [25/Jun/2010 08:29:19] "GET /javascripts/jquery-1.4.2.min.js HTTP/1.1" 200 72174 0.0011
+127.0.0.1 - - [25/Jun/2010 08:29:19] "GET /javascripts/jquery-1.4.2.min.js HTTP/1.1" 200 72174 0.0031
+127.0.0.1 - - [25/Jun/2010 08:29:19] "GET /javascripts/jquery-ui-1.8.custom.min.js HTTP/1.1" 200 215547 0.0009
+127.0.0.1 - - [25/Jun/2010 08:29:19] "GET /javascripts/jquery-ui-1.8.custom.min.js HTTP/1.1" 200 215547 0.0030
+127.0.0.1 - - [25/Jun/2010 08:29:19] "GET /javascripts/coffee-script.js HTTP/1.1" 200 293720 0.0039
+127.0.0.1 - - [25/Jun/2010 08:29:19] "GET /javascripts/coffee-script.js HTTP/1.1" 200 293720 0.0728
+127.0.0.1 - - [25/Jun/2010 08:29:20] "GET /favicon.ico HTTP/1.1" 200 3494 0.0009
+127.0.0.1 - - [25/Jun/2010 08:29:20] "GET /favicon.ico HTTP/1.1" 200 3494 0.0026
+127.0.0.1 - - [25/Jun/2010 08:30:58] "GET / HTTP/1.1" 200 2096 0.0214
+127.0.0.1 - - [25/Jun/2010 08:30:58] "GET / HTTP/1.1" 200 2096 0.0236
+127.0.0.1 - - [25/Jun/2010 08:30:58] "GET /stylesheets/reset.css HTTP/1.1" 304 - 0.0006
+127.0.0.1 - - [25/Jun/2010 08:30:58] "GET /stylesheets/reset.css HTTP/1.1" 304 - 0.0026
+127.0.0.1 - - [25/Jun/2010 08:30:58] "GET /stylesheets/text.css HTTP/1.1" 304 - 0.0008
+127.0.0.1 - - [25/Jun/2010 08:30:58] "GET /stylesheets/text.css HTTP/1.1" 304 - 0.0029
+127.0.0.1 - - [25/Jun/2010 08:30:58] "GET /stylesheets/960.css HTTP/1.1" 304 - 0.0006
+127.0.0.1 - - [25/Jun/2010 08:30:58] "GET /stylesheets/960.css HTTP/1.1" 304 - 0.0023
+127.0.0.1 - - [25/Jun/2010 08:30:58] "GET /stylesheets/smoothness/jquery-ui-1.8.custom.css HTTP/1.1" 304 - 0.0007
+127.0.0.1 - - [25/Jun/2010 08:30:58] "GET /stylesheets/smoothness/jquery-ui-1.8.custom.css HTTP/1.1" 304 - 0.0026
+127.0.0.1 - - [25/Jun/2010 08:30:58] "GET /stylesheets/app.css HTTP/1.1" 304 - 0.0006
+127.0.0.1 - - [25/Jun/2010 08:30:58] "GET /stylesheets/app.css HTTP/1.1" 304 - 0.0020
+127.0.0.1 - - [25/Jun/2010 08:30:58] "GET /javascripts/jquery-1.4.2.min.js HTTP/1.1" 304 - 0.0006
+127.0.0.1 - - [25/Jun/2010 08:30:58] "GET /javascripts/jquery-1.4.2.min.js HTTP/1.1" 304 - 0.0421
+127.0.0.1 - - [25/Jun/2010 08:30:58] "GET /javascripts/jquery-ui-1.8.custom.min.js HTTP/1.1" 304 - 0.0006
+127.0.0.1 - - [25/Jun/2010 08:30:58] "GET /javascripts/jquery-ui-1.8.custom.min.js HTTP/1.1" 304 - 0.0023
+127.0.0.1 - - [25/Jun/2010 08:30:58] "GET /javascripts/coffee-script.js HTTP/1.1" 304 - 0.0006
+127.0.0.1 - - [25/Jun/2010 08:30:58] "GET /javascripts/coffee-script.js HTTP/1.1" 304 - 0.0022
+127.0.0.1 - - [25/Jun/2010 08:31:16] "GET / HTTP/1.1" 200 2096 0.0215
+127.0.0.1 - - [25/Jun/2010 08:31:16] "GET / HTTP/1.1" 200 2096 0.0236
+127.0.0.1 - - [25/Jun/2010 08:31:16] "GET /stylesheets/reset.css HTTP/1.1" 304 - 0.0006
+127.0.0.1 - - [25/Jun/2010 08:31:16] "GET /stylesheets/reset.css HTTP/1.1" 304 - 0.0023
+127.0.0.1 - - [25/Jun/2010 08:31:16] "GET /stylesheets/text.css HTTP/1.1" 304 - 0.0006
+127.0.0.1 - - [25/Jun/2010 08:31:16] "GET /stylesheets/text.css HTTP/1.1" 304 - 0.0022
+127.0.0.1 - - [25/Jun/2010 08:31:16] "GET /stylesheets/960.css HTTP/1.1" 304 - 0.0006
+127.0.0.1 - - [25/Jun/2010 08:31:16] "GET /stylesheets/960.css HTTP/1.1" 304 - 0.0023
+127.0.0.1 - - [25/Jun/2010 08:31:16] "GET /stylesheets/smoothness/jquery-ui-1.8.custom.css HTTP/1.1" 304 - 0.0009
+127.0.0.1 - - [25/Jun/2010 08:31:16] "GET /stylesheets/smoothness/jquery-ui-1.8.custom.css HTTP/1.1" 304 - 0.0027
+127.0.0.1 - - [25/Jun/2010 08:31:16] "GET /stylesheets/app.css HTTP/1.1" 304 - 0.0007
+127.0.0.1 - - [25/Jun/2010 08:31:16] "GET /stylesheets/app.css HTTP/1.1" 304 - 0.0024
+127.0.0.1 - - [25/Jun/2010 08:31:16] "GET /javascripts/jquery-1.4.2.min.js HTTP/1.1" 304 - 0.0006
+127.0.0.1 - - [25/Jun/2010 08:31:16] "GET /javascripts/jquery-1.4.2.min.js HTTP/1.1" 304 - 0.0021
+127.0.0.1 - - [25/Jun/2010 08:31:16] "GET /javascripts/jquery-ui-1.8.custom.min.js HTTP/1.1" 304 - 0.0006
+127.0.0.1 - - [25/Jun/2010 08:31:16] "GET /javascripts/jquery-ui-1.8.custom.min.js HTTP/1.1" 304 - 0.0021
+127.0.0.1 - - [25/Jun/2010 08:31:16] "GET /javascripts/coffee-script.js HTTP/1.1" 304 - 0.0006
+127.0.0.1 - - [25/Jun/2010 08:31:16] "GET /javascripts/coffee-script.js HTTP/1.1" 304 - 0.0020
+127.0.0.1 - - [25/Jun/2010 08:31:25] "GET / HTTP/1.1" 200 2096 0.0239
+127.0.0.1 - - [25/Jun/2010 08:31:25] "GET / HTTP/1.1" 200 2096 0.0261
+127.0.0.1 - - [25/Jun/2010 08:31:25] "GET /stylesheets/reset.css HTTP/1.1" 200 648 0.0012
+127.0.0.1 - - [25/Jun/2010 08:31:25] "GET /stylesheets/reset.css HTTP/1.1" 200 648 0.0042
+127.0.0.1 - - [25/Jun/2010 08:31:25] "GET /stylesheets/text.css HTTP/1.1" 200 418 0.0015
+127.0.0.1 - - [25/Jun/2010 08:31:25] "GET /stylesheets/text.css HTTP/1.1" 200 418 0.0034
+127.0.0.1 - - [25/Jun/2010 08:31:25] "GET /stylesheets/960.css HTTP/1.1" 200 5961 0.0010
+127.0.0.1 - - [25/Jun/2010 08:31:25] "GET /stylesheets/960.css HTTP/1.1" 200 5961 0.0029
+127.0.0.1 - - [25/Jun/2010 08:31:25] "GET /stylesheets/smoothness/jquery-ui-1.8.custom.css HTTP/1.1" 200 30797 0.0008
+127.0.0.1 - - [25/Jun/2010 08:31:25] "GET /stylesheets/smoothness/jquery-ui-1.8.custom.css HTTP/1.1" 200 30797 0.0025
+127.0.0.1 - - [25/Jun/2010 08:31:25] "GET /stylesheets/app.css HTTP/1.1" 200 581 0.0008
+127.0.0.1 - - [25/Jun/2010 08:31:25] "GET /stylesheets/app.css HTTP/1.1" 200 581 0.0039
+127.0.0.1 - - [25/Jun/2010 08:31:25] "GET /javascripts/jquery-1.4.2.min.js HTTP/1.1" 200 72174 0.0008
+127.0.0.1 - - [25/Jun/2010 08:31:25] "GET /javascripts/jquery-1.4.2.min.js HTTP/1.1" 200 72174 0.0038
+127.0.0.1 - - [25/Jun/2010 08:31:25] "GET /javascripts/jquery-ui-1.8.custom.min.js HTTP/1.1" 200 215547 0.0015
+127.0.0.1 - - [25/Jun/2010 08:31:25] "GET /javascripts/jquery-ui-1.8.custom.min.js HTTP/1.1" 200 215547 0.0033
+127.0.0.1 - - [25/Jun/2010 08:31:25] "GET /javascripts/coffee-script.js HTTP/1.1" 200 293720 0.0008
+127.0.0.1 - - [25/Jun/2010 08:31:25] "GET /javascripts/coffee-script.js HTTP/1.1" 200 293720 0.0025
+127.0.0.1 - - [25/Jun/2010 08:31:25] "GET /favicon.ico HTTP/1.1" 200 3494 0.0009
+127.0.0.1 - - [25/Jun/2010 08:31:25] "GET /favicon.ico HTTP/1.1" 200 3494 0.0034
+127.0.0.1 - - [25/Jun/2010 08:31:34] "GET / HTTP/1.1" 200 2096 0.0211
+127.0.0.1 - - [25/Jun/2010 08:31:34] "GET / HTTP/1.1" 200 2096 0.0231
+127.0.0.1 - - [25/Jun/2010 08:31:34] "GET /stylesheets/reset.css HTTP/1.1" 304 - 0.0007
+127.0.0.1 - - [25/Jun/2010 08:31:34] "GET /stylesheets/reset.css HTTP/1.1" 304 - 0.0024
+127.0.0.1 - - [25/Jun/2010 08:31:34] "GET /stylesheets/text.css HTTP/1.1" 304 - 0.0006
+127.0.0.1 - - [25/Jun/2010 08:31:34] "GET /stylesheets/text.css HTTP/1.1" 304 - 0.0021
+127.0.0.1 - - [25/Jun/2010 08:31:34] "GET /stylesheets/960.css HTTP/1.1" 304 - 0.0006
+127.0.0.1 - - [25/Jun/2010 08:31:34] "GET /stylesheets/960.css HTTP/1.1" 304 - 0.0022
+127.0.0.1 - - [25/Jun/2010 08:31:34] "GET /stylesheets/smoothness/jquery-ui-1.8.custom.css HTTP/1.1" 304 - 0.0016
+127.0.0.1 - - [25/Jun/2010 08:31:34] "GET /stylesheets/smoothness/jquery-ui-1.8.custom.css HTTP/1.1" 304 - 0.0038
+127.0.0.1 - - [25/Jun/2010 08:31:34] "GET /stylesheets/app.css HTTP/1.1" 304 - 0.0006
+127.0.0.1 - - [25/Jun/2010 08:31:34] "GET /stylesheets/app.css HTTP/1.1" 304 - 0.0025
+127.0.0.1 - - [25/Jun/2010 08:31:34] "GET /javascripts/jquery-1.4.2.min.js HTTP/1.1" 304 - 0.0006
+127.0.0.1 - - [25/Jun/2010 08:31:34] "GET /javascripts/jquery-1.4.2.min.js HTTP/1.1" 304 - 0.0021
+127.0.0.1 - - [25/Jun/2010 08:31:34] "GET /javascripts/jquery-ui-1.8.custom.min.js HTTP/1.1" 304 - 0.0006
+127.0.0.1 - - [25/Jun/2010 08:31:34] "GET /javascripts/jquery-ui-1.8.custom.min.js HTTP/1.1" 304 - 0.0025
+127.0.0.1 - - [25/Jun/2010 08:31:34] "GET /javascripts/coffee-script.js HTTP/1.1" 304 - 0.0006
+127.0.0.1 - - [25/Jun/2010 08:31:34] "GET /javascripts/coffee-script.js HTTP/1.1" 304 - 0.0021
+127.0.0.1 - - [25/Jun/2010 08:32:36] "GET / HTTP/1.1" 200 2203 0.0289
+127.0.0.1 - - [25/Jun/2010 08:32:36] "GET / HTTP/1.1" 200 2203 0.0308
+127.0.0.1 - - [25/Jun/2010 08:32:36] "GET /stylesheets/reset.css HTTP/1.1" 304 - 0.0007
+127.0.0.1 - - [25/Jun/2010 08:32:36] "GET /stylesheets/reset.css HTTP/1.1" 304 - 0.0036
+127.0.0.1 - - [25/Jun/2010 08:32:36] "GET /stylesheets/text.css HTTP/1.1" 304 - 0.0006
+127.0.0.1 - - [25/Jun/2010 08:32:36] "GET /stylesheets/text.css HTTP/1.1" 304 - 0.0023
+127.0.0.1 - - [25/Jun/2010 08:32:36] "GET /stylesheets/960.css HTTP/1.1" 304 - 0.0006
+127.0.0.1 - - [25/Jun/2010 08:32:36] "GET /stylesheets/960.css HTTP/1.1" 304 - 0.0022
+127.0.0.1 - - [25/Jun/2010 08:32:36] "GET /stylesheets/smoothness/jquery-ui-1.8.custom.css HTTP/1.1" 304 - 0.0010
+127.0.0.1 - - [25/Jun/2010 08:32:36] "GET /stylesheets/smoothness/jquery-ui-1.8.custom.css HTTP/1.1" 304 - 0.0504
+127.0.0.1 - - [25/Jun/2010 08:32:36] "GET /stylesheets/app.css HTTP/1.1" 304 - 0.0017
+127.0.0.1 - - [25/Jun/2010 08:32:36] "GET /stylesheets/app.css HTTP/1.1" 304 - 0.0033
+127.0.0.1 - - [25/Jun/2010 08:32:36] "GET /javascripts/jquery-1.4.2.min.js HTTP/1.1" 304 - 0.0007
+127.0.0.1 - - [25/Jun/2010 08:32:36] "GET /javascripts/jquery-1.4.2.min.js HTTP/1.1" 304 - 0.0023
+127.0.0.1 - - [25/Jun/2010 08:32:36] "GET /javascripts/jquery-ui-1.8.custom.min.js HTTP/1.1" 304 - 0.0006
+127.0.0.1 - - [25/Jun/2010 08:32:36] "GET /javascripts/jquery-ui-1.8.custom.min.js HTTP/1.1" 304 - 0.0021
+127.0.0.1 - - [25/Jun/2010 08:32:36] "GET /javascripts/coffee-script.js HTTP/1.1" 304 - 0.0007
+127.0.0.1 - - [25/Jun/2010 08:32:36] "GET /javascripts/coffee-script.js HTTP/1.1" 304 - 0.0027
+127.0.0.1 - - [25/Jun/2010 08:33:12] "GET / HTTP/1.1" 200 2215 0.0294
+127.0.0.1 - - [25/Jun/2010 08:33:12] "GET / HTTP/1.1" 200 2215 0.0313
+127.0.0.1 - - [25/Jun/2010 08:33:12] "GET /stylesheets/reset.css HTTP/1.1" 304 - 0.0009
+127.0.0.1 - - [25/Jun/2010 08:33:12] "GET /stylesheets/reset.css HTTP/1.1" 304 - 0.0036
+127.0.0.1 - - [25/Jun/2010 08:33:12] "GET /stylesheets/text.css HTTP/1.1" 304 - 0.0008
+127.0.0.1 - - [25/Jun/2010 08:33:12] "GET /stylesheets/text.css HTTP/1.1" 304 - 0.0026
+127.0.0.1 - - [25/Jun/2010 08:33:12] "GET /stylesheets/960.css HTTP/1.1" 304 - 0.0006
+127.0.0.1 - - [25/Jun/2010 08:33:12] "GET /stylesheets/960.css HTTP/1.1" 304 - 0.0031
+127.0.0.1 - - [25/Jun/2010 08:33:12] "GET /stylesheets/smoothness/jquery-ui-1.8.custom.css HTTP/1.1" 304 - 0.0007
+127.0.0.1 - - [25/Jun/2010 08:33:12] "GET /stylesheets/smoothness/jquery-ui-1.8.custom.css HTTP/1.1" 304 - 0.0024
+127.0.0.1 - - [25/Jun/2010 08:33:12] "GET /stylesheets/app.css HTTP/1.1" 304 - 0.0006
+127.0.0.1 - - [25/Jun/2010 08:33:12] "GET /stylesheets/app.css HTTP/1.1" 304 - 0.0020
+127.0.0.1 - - [25/Jun/2010 08:33:12] "GET /javascripts/jquery-1.4.2.min.js HTTP/1.1" 304 - 0.0006
+127.0.0.1 - - [25/Jun/2010 08:33:12] "GET /javascripts/jquery-1.4.2.min.js HTTP/1.1" 304 - 0.0024
+127.0.0.1 - - [25/Jun/2010 08:33:12] "GET /javascripts/jquery-ui-1.8.custom.min.js HTTP/1.1" 304 - 0.0009
+127.0.0.1 - - [25/Jun/2010 08:33:12] "GET /javascripts/jquery-ui-1.8.custom.min.js HTTP/1.1" 304 - 0.0025
+127.0.0.1 - - [25/Jun/2010 08:33:12] "GET /javascripts/coffee-script.js HTTP/1.1" 304 - 0.0006
+127.0.0.1 - - [25/Jun/2010 08:33:12] "GET /javascripts/coffee-script.js HTTP/1.1" 304 - 0.0020
+127.0.0.1 - - [25/Jun/2010 08:40:15] "GET / HTTP/1.1" 200 2397 0.0373
+127.0.0.1 - - [25/Jun/2010 08:40:15] "GET / HTTP/1.1" 200 2397 0.0392
+127.0.0.1 - - [25/Jun/2010 08:40:15] "GET /stylesheets/reset.css HTTP/1.1" 304 - 0.0007
+127.0.0.1 - - [25/Jun/2010 08:40:15] "GET /stylesheets/reset.css HTTP/1.1" 304 - 0.0044
+127.0.0.1 - - [25/Jun/2010 08:40:15] "GET /stylesheets/text.css HTTP/1.1" 304 - 0.0007
+127.0.0.1 - - [25/Jun/2010 08:40:15] "GET /stylesheets/text.css HTTP/1.1" 304 - 0.0026
+127.0.0.1 - - [25/Jun/2010 08:40:15] "GET /stylesheets/960.css HTTP/1.1" 304 - 0.0012
+127.0.0.1 - - [25/Jun/2010 08:40:15] "GET /stylesheets/960.css HTTP/1.1" 304 - 0.0028
+127.0.0.1 - - [25/Jun/2010 08:40:15] "GET /stylesheets/smoothness/jquery-ui-1.8.custom.css HTTP/1.1" 304 - 0.0007
+127.0.0.1 - - [25/Jun/2010 08:40:15] "GET /stylesheets/smoothness/jquery-ui-1.8.custom.css HTTP/1.1" 304 - 0.0022
+127.0.0.1 - - [25/Jun/2010 08:40:15] "GET /stylesheets/app.css HTTP/1.1" 304 - 0.0006
+127.0.0.1 - - [25/Jun/2010 08:40:15] "GET /stylesheets/app.css HTTP/1.1" 304 - 0.0021
+127.0.0.1 - - [25/Jun/2010 08:40:15] "GET /javascripts/jquery-1.4.2.min.js HTTP/1.1" 304 - 0.0006
+127.0.0.1 - - [25/Jun/2010 08:40:15] "GET /javascripts/jquery-1.4.2.min.js HTTP/1.1" 304 - 0.0022
+127.0.0.1 - - [25/Jun/2010 08:40:15] "GET /javascripts/jquery-ui-1.8.custom.min.js HTTP/1.1" 304 - 0.0008
+127.0.0.1 - - [25/Jun/2010 08:40:15] "GET /javascripts/jquery-ui-1.8.custom.min.js HTTP/1.1" 304 - 0.0034
+127.0.0.1 - - [25/Jun/2010 08:40:15] "GET /javascripts/coffee-script.js HTTP/1.1" 304 - 0.0008
+127.0.0.1 - - [25/Jun/2010 08:40:15] "GET /javascripts/coffee-script.js HTTP/1.1" 304 - 0.0023
+127.0.0.1 - - [25/Jun/2010 08:41:00] "GET / HTTP/1.1" 200 2456 0.0376
+127.0.0.1 - - [25/Jun/2010 08:41:00] "GET / HTTP/1.1" 200 2456 0.0393
+127.0.0.1 - - [25/Jun/2010 08:41:00] "GET /stylesheets/reset.css HTTP/1.1" 304 - 0.0007
+127.0.0.1 - - [25/Jun/2010 08:41:00] "GET /stylesheets/reset.css HTTP/1.1" 304 - 0.0037
+127.0.0.1 - - [25/Jun/2010 08:41:00] "GET /stylesheets/text.css HTTP/1.1" 304 - 0.0008
+127.0.0.1 - - [25/Jun/2010 08:41:00] "GET /stylesheets/text.css HTTP/1.1" 304 - 0.0028
+127.0.0.1 - - [25/Jun/2010 08:41:00] "GET /stylesheets/960.css HTTP/1.1" 304 - 0.0008
+127.0.0.1 - - [25/Jun/2010 08:41:00] "GET /stylesheets/960.css HTTP/1.1" 304 - 0.0023
+127.0.0.1 - - [25/Jun/2010 08:41:00] "GET /stylesheets/smoothness/jquery-ui-1.8.custom.css HTTP/1.1" 304 - 0.0006
+127.0.0.1 - - [25/Jun/2010 08:41:00] "GET /stylesheets/smoothness/jquery-ui-1.8.custom.css HTTP/1.1" 304 - 0.0021
+127.0.0.1 - - [25/Jun/2010 08:41:00] "GET /stylesheets/app.css HTTP/1.1" 304 - 0.0007
+127.0.0.1 - - [25/Jun/2010 08:41:00] "GET /stylesheets/app.css HTTP/1.1" 304 - 0.0610
+127.0.0.1 - - [25/Jun/2010 08:41:00] "GET /javascripts/jquery-1.4.2.min.js HTTP/1.1" 304 - 0.0008
+127.0.0.1 - - [25/Jun/2010 08:41:00] "GET /javascripts/jquery-1.4.2.min.js HTTP/1.1" 304 - 0.0025
+127.0.0.1 - - [25/Jun/2010 08:41:00] "GET /javascripts/jquery-ui-1.8.custom.min.js HTTP/1.1" 304 - 0.0007
+127.0.0.1 - - [25/Jun/2010 08:41:00] "GET /javascripts/jquery-ui-1.8.custom.min.js HTTP/1.1" 304 - 0.0022
+127.0.0.1 - - [25/Jun/2010 08:41:00] "GET /javascripts/coffee-script.js HTTP/1.1" 304 - 0.0006
+127.0.0.1 - - [25/Jun/2010 08:41:00] "GET /javascripts/coffee-script.js HTTP/1.1" 304 - 0.0022
+127.0.0.1 - - [25/Jun/2010 08:41:42] "GET / HTTP/1.1" 200 2469 0.0399
+127.0.0.1 - - [25/Jun/2010 08:41:42] "GET / HTTP/1.1" 200 2469 0.0415
+127.0.0.1 - - [25/Jun/2010 08:41:42] "GET /stylesheets/reset.css HTTP/1.1" 304 - 0.0007
+127.0.0.1 - - [25/Jun/2010 08:41:42] "GET /stylesheets/reset.css HTTP/1.1" 304 - 0.0034
+127.0.0.1 - - [25/Jun/2010 08:41:42] "GET /stylesheets/text.css HTTP/1.1" 304 - 0.0006
+127.0.0.1 - - [25/Jun/2010 08:41:42] "GET /stylesheets/text.css HTTP/1.1" 304 - 0.0022
+127.0.0.1 - - [25/Jun/2010 08:41:42] "GET /stylesheets/960.css HTTP/1.1" 304 - 0.0006
+127.0.0.1 - - [25/Jun/2010 08:41:42] "GET /stylesheets/960.css HTTP/1.1" 304 - 0.0020
+127.0.0.1 - - [25/Jun/2010 08:41:42] "GET /stylesheets/smoothness/jquery-ui-1.8.custom.css HTTP/1.1" 304 - 0.0008
+127.0.0.1 - - [25/Jun/2010 08:41:42] "GET /stylesheets/smoothness/jquery-ui-1.8.custom.css HTTP/1.1" 304 - 0.0026
+127.0.0.1 - - [25/Jun/2010 08:41:42] "GET /stylesheets/app.css HTTP/1.1" 304 - 0.0009
+127.0.0.1 - - [25/Jun/2010 08:41:42] "GET /stylesheets/app.css HTTP/1.1" 304 - 0.0029
+127.0.0.1 - - [25/Jun/2010 08:41:42] "GET /javascripts/jquery-1.4.2.min.js HTTP/1.1" 304 - 0.0009
+127.0.0.1 - - [25/Jun/2010 08:41:42] "GET /javascripts/jquery-1.4.2.min.js HTTP/1.1" 304 - 0.0026
+127.0.0.1 - - [25/Jun/2010 08:41:42] "GET /javascripts/jquery-ui-1.8.custom.min.js HTTP/1.1" 304 - 0.0006
+127.0.0.1 - - [25/Jun/2010 08:41:42] "GET /javascripts/jquery-ui-1.8.custom.min.js HTTP/1.1" 304 - 0.0031
+127.0.0.1 - - [25/Jun/2010 08:41:42] "GET /javascripts/coffee-script.js HTTP/1.1" 304 - 0.0006
+127.0.0.1 - - [25/Jun/2010 08:41:42] "GET /javascripts/coffee-script.js HTTP/1.1" 304 - 0.0022
+127.0.0.1 - - [25/Jun/2010 08:41:58] "GET / HTTP/1.1" 200 2468 0.0384
+127.0.0.1 - - [25/Jun/2010 08:41:58] "GET / HTTP/1.1" 200 2468 0.0411
+127.0.0.1 - - [25/Jun/2010 08:41:58] "GET /stylesheets/reset.css HTTP/1.1" 304 - 0.0009
+127.0.0.1 - - [25/Jun/2010 08:41:58] "GET /stylesheets/reset.css HTTP/1.1" 304 - 0.0037
+127.0.0.1 - - [25/Jun/2010 08:41:58] "GET /stylesheets/text.css HTTP/1.1" 304 - 0.0008
+127.0.0.1 - - [25/Jun/2010 08:41:58] "GET /stylesheets/text.css HTTP/1.1" 304 - 0.0026
+127.0.0.1 - - [25/Jun/2010 08:41:58] "GET /stylesheets/960.css HTTP/1.1" 304 - 0.0008
+127.0.0.1 - - [25/Jun/2010 08:41:58] "GET /stylesheets/960.css HTTP/1.1" 304 - 0.0023
+127.0.0.1 - - [25/Jun/2010 08:41:58] "GET /stylesheets/smoothness/jquery-ui-1.8.custom.css HTTP/1.1" 304 - 0.0006
+127.0.0.1 - - [25/Jun/2010 08:41:58] "GET /stylesheets/smoothness/jquery-ui-1.8.custom.css HTTP/1.1" 304 - 0.0025
+127.0.0.1 - - [25/Jun/2010 08:41:58] "GET /stylesheets/app.css HTTP/1.1" 304 - 0.0006
+127.0.0.1 - - [25/Jun/2010 08:41:58] "GET /stylesheets/app.css HTTP/1.1" 304 - 0.0021
+127.0.0.1 - - [25/Jun/2010 08:41:58] "GET /javascripts/jquery-1.4.2.min.js HTTP/1.1" 304 - 0.0010
+127.0.0.1 - - [25/Jun/2010 08:41:58] "GET /javascripts/jquery-1.4.2.min.js HTTP/1.1" 304 - 0.0030
+127.0.0.1 - - [25/Jun/2010 08:41:58] "GET /javascripts/jquery-ui-1.8.custom.min.js HTTP/1.1" 304 - 0.0007
+127.0.0.1 - - [25/Jun/2010 08:41:58] "GET /javascripts/jquery-ui-1.8.custom.min.js HTTP/1.1" 304 - 0.0023
+127.0.0.1 - - [25/Jun/2010 08:41:58] "GET /javascripts/coffee-script.js HTTP/1.1" 304 - 0.0006
+127.0.0.1 - - [25/Jun/2010 08:41:58] "GET /javascripts/coffee-script.js HTTP/1.1" 304 - 0.0021
+127.0.0.1 - - [25/Jun/2010 08:42:04] "GET / HTTP/1.1" 200 2468 0.0394
+127.0.0.1 - - [25/Jun/2010 08:42:04] "GET / HTTP/1.1" 200 2468 0.0413
+127.0.0.1 - - [25/Jun/2010 08:42:04] "GET /stylesheets/reset.css HTTP/1.1" 304 - 0.0008
+127.0.0.1 - - [25/Jun/2010 08:42:04] "GET /stylesheets/reset.css HTTP/1.1" 304 - 0.0050
+127.0.0.1 - - [25/Jun/2010 08:42:04] "GET /stylesheets/text.css HTTP/1.1" 304 - 0.0006
+127.0.0.1 - - [25/Jun/2010 08:42:04] "GET /stylesheets/text.css HTTP/1.1" 304 - 0.0025
+127.0.0.1 - - [25/Jun/2010 08:42:04] "GET /stylesheets/960.css HTTP/1.1" 304 - 0.0006
+127.0.0.1 - - [25/Jun/2010 08:42:04] "GET /stylesheets/960.css HTTP/1.1" 304 - 0.0021
+127.0.0.1 - - [25/Jun/2010 08:42:04] "GET /stylesheets/smoothness/jquery-ui-1.8.custom.css HTTP/1.1" 304 - 0.0006
+127.0.0.1 - - [25/Jun/2010 08:42:04] "GET /stylesheets/smoothness/jquery-ui-1.8.custom.css HTTP/1.1" 304 - 0.0021
+127.0.0.1 - - [25/Jun/2010 08:42:04] "GET /stylesheets/app.css HTTP/1.1" 304 - 0.0007
+127.0.0.1 - - [25/Jun/2010 08:42:04] "GET /stylesheets/app.css HTTP/1.1" 304 - 0.0613
+127.0.0.1 - - [25/Jun/2010 08:42:04] "GET /javascripts/jquery-1.4.2.min.js HTTP/1.1" 304 - 0.0006
+127.0.0.1 - - [25/Jun/2010 08:42:04] "GET /javascripts/jquery-1.4.2.min.js HTTP/1.1" 304 - 0.0022
+127.0.0.1 - - [25/Jun/2010 08:42:04] "GET /javascripts/jquery-ui-1.8.custom.min.js HTTP/1.1" 304 - 0.0006
+127.0.0.1 - - [25/Jun/2010 08:42:04] "GET /javascripts/jquery-ui-1.8.custom.min.js HTTP/1.1" 304 - 0.0026
+127.0.0.1 - - [25/Jun/2010 08:42:04] "GET /javascripts/coffee-script.js HTTP/1.1" 304 - 0.0007
+127.0.0.1 - - [25/Jun/2010 08:42:04] "GET /javascripts/coffee-script.js HTTP/1.1" 304 - 0.0022
+127.0.0.1 - - [25/Jun/2010 08:47:02] "GET / HTTP/1.1" 200 2396 0.0367
+127.0.0.1 - - [25/Jun/2010 08:47:02] "GET / HTTP/1.1" 200 2396 0.0386
+127.0.0.1 - - [25/Jun/2010 08:47:02] "GET /stylesheets/reset.css HTTP/1.1" 304 - 0.0008
+127.0.0.1 - - [25/Jun/2010 08:47:02] "GET /stylesheets/reset.css HTTP/1.1" 304 - 0.0043
+127.0.0.1 - - [25/Jun/2010 08:47:02] "GET /stylesheets/text.css HTTP/1.1" 304 - 0.0009
+127.0.0.1 - - [25/Jun/2010 08:47:02] "GET /stylesheets/text.css HTTP/1.1" 304 - 0.0028
+127.0.0.1 - - [25/Jun/2010 08:47:02] "GET /stylesheets/960.css HTTP/1.1" 304 - 0.0006
+127.0.0.1 - - [25/Jun/2010 08:47:02] "GET /stylesheets/960.css HTTP/1.1" 304 - 0.0032
+127.0.0.1 - - [25/Jun/2010 08:47:02] "GET /stylesheets/smoothness/jquery-ui-1.8.custom.css HTTP/1.1" 304 - 0.0006
+127.0.0.1 - - [25/Jun/2010 08:47:02] "GET /stylesheets/smoothness/jquery-ui-1.8.custom.css HTTP/1.1" 304 - 0.0022
+127.0.0.1 - - [25/Jun/2010 08:47:02] "GET /stylesheets/app.css HTTP/1.1" 304 - 0.0006
+127.0.0.1 - - [25/Jun/2010 08:47:02] "GET /stylesheets/app.css HTTP/1.1" 304 - 0.0021
+127.0.0.1 - - [25/Jun/2010 08:47:02] "GET /javascripts/jquery-1.4.2.min.js HTTP/1.1" 304 - 0.0006
+127.0.0.1 - - [25/Jun/2010 08:47:02] "GET /javascripts/jquery-1.4.2.min.js HTTP/1.1" 304 - 0.0021
+127.0.0.1 - - [25/Jun/2010 08:47:02] "GET /javascripts/jquery-ui-1.8.custom.min.js HTTP/1.1" 304 - 0.0009
+127.0.0.1 - - [25/Jun/2010 08:47:02] "GET /javascripts/jquery-ui-1.8.custom.min.js HTTP/1.1" 304 - 0.0024
+127.0.0.1 - - [25/Jun/2010 08:47:02] "GET /javascripts/coffee-script.js HTTP/1.1" 304 - 0.0006
+127.0.0.1 - - [25/Jun/2010 08:47:02] "GET /javascripts/coffee-script.js HTTP/1.1" 304 - 0.0024
+127.0.0.1 - - [25/Jun/2010 08:47:33] "GET / HTTP/1.1" 200 2384 0.0349
+127.0.0.1 - - [25/Jun/2010 08:47:33] "GET / HTTP/1.1" 200 2384 0.0367
+127.0.0.1 - - [25/Jun/2010 08:47:33] "GET /stylesheets/reset.css HTTP/1.1" 304 - 0.0008
+127.0.0.1 - - [25/Jun/2010 08:47:33] "GET /stylesheets/reset.css HTTP/1.1" 304 - 0.0042
+127.0.0.1 - - [25/Jun/2010 08:47:33] "GET /stylesheets/text.css HTTP/1.1" 304 - 0.0008
+127.0.0.1 - - [25/Jun/2010 08:47:33] "GET /stylesheets/text.css HTTP/1.1" 304 - 0.0023
+127.0.0.1 - - [25/Jun/2010 08:47:33] "GET /stylesheets/960.css HTTP/1.1" 304 - 0.0007
+127.0.0.1 - - [25/Jun/2010 08:47:33] "GET /stylesheets/960.css HTTP/1.1" 304 - 0.0023
+127.0.0.1 - - [25/Jun/2010 08:47:33] "GET /stylesheets/smoothness/jquery-ui-1.8.custom.css HTTP/1.1" 304 - 0.0006
+127.0.0.1 - - [25/Jun/2010 08:47:33] "GET /stylesheets/smoothness/jquery-ui-1.8.custom.css HTTP/1.1" 304 - 0.0020
+127.0.0.1 - - [25/Jun/2010 08:47:33] "GET /stylesheets/app.css HTTP/1.1" 304 - 0.0006
+127.0.0.1 - - [25/Jun/2010 08:47:33] "GET /stylesheets/app.css HTTP/1.1" 304 - 0.0020
+127.0.0.1 - - [25/Jun/2010 08:47:33] "GET /javascripts/jquery-1.4.2.min.js HTTP/1.1" 304 - 0.0017
+127.0.0.1 - - [25/Jun/2010 08:47:33] "GET /javascripts/jquery-1.4.2.min.js HTTP/1.1" 304 - 0.0031
+127.0.0.1 - - [25/Jun/2010 08:47:33] "GET /javascripts/jquery-ui-1.8.custom.min.js HTTP/1.1" 304 - 0.0007
+127.0.0.1 - - [25/Jun/2010 08:47:33] "GET /javascripts/jquery-ui-1.8.custom.min.js HTTP/1.1" 304 - 0.0032
+127.0.0.1 - - [25/Jun/2010 08:47:33] "GET /javascripts/coffee-script.js HTTP/1.1" 304 - 0.0006
+127.0.0.1 - - [25/Jun/2010 08:47:33] "GET /javascripts/coffee-script.js HTTP/1.1" 304 - 0.0025
+127.0.0.1 - - [25/Jun/2010 08:49:16] "GET / HTTP/1.1" 200 2515 0.0326
+127.0.0.1 - - [25/Jun/2010 08:49:16] "GET / HTTP/1.1" 200 2515 0.0343
+127.0.0.1 - - [25/Jun/2010 08:49:16] "GET /stylesheets/reset.css HTTP/1.1" 304 - 0.0007
+127.0.0.1 - - [25/Jun/2010 08:49:16] "GET /stylesheets/reset.css HTTP/1.1" 304 - 0.0034
+127.0.0.1 - - [25/Jun/2010 08:49:16] "GET /stylesheets/text.css HTTP/1.1" 304 - 0.0006
+127.0.0.1 - - [25/Jun/2010 08:49:16] "GET /stylesheets/text.css HTTP/1.1" 304 - 0.0022
+127.0.0.1 - - [25/Jun/2010 08:49:16] "GET /stylesheets/960.css HTTP/1.1" 304 - 0.0006
+127.0.0.1 - - [25/Jun/2010 08:49:16] "GET /stylesheets/960.css HTTP/1.1" 304 - 0.0020
+127.0.0.1 - - [25/Jun/2010 08:49:16] "GET /stylesheets/smoothness/jquery-ui-1.8.custom.css HTTP/1.1" 304 - 0.0009
+127.0.0.1 - - [25/Jun/2010 08:49:16] "GET /stylesheets/smoothness/jquery-ui-1.8.custom.css HTTP/1.1" 304 - 0.0055
+127.0.0.1 - - [25/Jun/2010 08:49:16] "GET /stylesheets/app.css HTTP/1.1" 304 - 0.0571
+127.0.0.1 - - [25/Jun/2010 08:49:16] "GET /stylesheets/app.css HTTP/1.1" 304 - 0.0590
+127.0.0.1 - - [25/Jun/2010 08:49:16] "GET /javascripts/jquery-1.4.2.min.js HTTP/1.1" 304 - 0.0007
+127.0.0.1 - - [25/Jun/2010 08:49:16] "GET /javascripts/jquery-1.4.2.min.js HTTP/1.1" 304 - 0.0022
+127.0.0.1 - - [25/Jun/2010 08:49:16] "GET /javascripts/jquery-ui-1.8.custom.min.js HTTP/1.1" 304 - 0.0007
+127.0.0.1 - - [25/Jun/2010 08:49:16] "GET /javascripts/jquery-ui-1.8.custom.min.js HTTP/1.1" 304 - 0.0022
+127.0.0.1 - - [25/Jun/2010 08:49:16] "GET /javascripts/coffee-script.js HTTP/1.1" 304 - 0.0007
+127.0.0.1 - - [25/Jun/2010 08:49:16] "GET /javascripts/coffee-script.js HTTP/1.1" 304 - 0.0025
+127.0.0.1 - - [25/Jun/2010 08:50:54] "GET / HTTP/1.1" 200 2580 0.0383
+127.0.0.1 - - [25/Jun/2010 08:50:54] "GET / HTTP/1.1" 200 2580 0.0402
+127.0.0.1 - - [25/Jun/2010 08:50:54] "GET /stylesheets/reset.css HTTP/1.1" 304 - 0.0007
+127.0.0.1 - - [25/Jun/2010 08:50:54] "GET /stylesheets/reset.css HTTP/1.1" 304 - 0.0034
+127.0.0.1 - - [25/Jun/2010 08:50:54] "GET /stylesheets/text.css HTTP/1.1" 304 - 0.0006
+127.0.0.1 - - [25/Jun/2010 08:50:54] "GET /stylesheets/text.css HTTP/1.1" 304 - 0.0021
+127.0.0.1 - - [25/Jun/2010 08:50:54] "GET /stylesheets/960.css HTTP/1.1" 304 - 0.0006
+127.0.0.1 - - [25/Jun/2010 08:50:54] "GET /stylesheets/960.css HTTP/1.1" 304 - 0.0034
+127.0.0.1 - - [25/Jun/2010 08:50:54] "GET /stylesheets/smoothness/jquery-ui-1.8.custom.css HTTP/1.1" 304 - 0.0011
+127.0.0.1 - - [25/Jun/2010 08:50:54] "GET /stylesheets/smoothness/jquery-ui-1.8.custom.css HTTP/1.1" 304 - 0.0028
+127.0.0.1 - - [25/Jun/2010 08:50:54] "GET /stylesheets/app.css HTTP/1.1" 304 - 0.0018
+127.0.0.1 - - [25/Jun/2010 08:50:54] "GET /stylesheets/app.css HTTP/1.1" 304 - 0.0035
+127.0.0.1 - - [25/Jun/2010 08:50:54] "GET /javascripts/jquery-1.4.2.min.js HTTP/1.1" 304 - 0.0010
+127.0.0.1 - - [25/Jun/2010 08:50:54] "GET /javascripts/jquery-1.4.2.min.js HTTP/1.1" 304 - 0.0026
+127.0.0.1 - - [25/Jun/2010 08:50:54] "GET /javascripts/jquery-ui-1.8.custom.min.js HTTP/1.1" 304 - 0.0006
+127.0.0.1 - - [25/Jun/2010 08:50:54] "GET /javascripts/jquery-ui-1.8.custom.min.js HTTP/1.1" 304 - 0.0021
+127.0.0.1 - - [25/Jun/2010 08:50:54] "GET /javascripts/coffee-script.js HTTP/1.1" 304 - 0.0006
+127.0.0.1 - - [25/Jun/2010 08:50:54] "GET /javascripts/coffee-script.js HTTP/1.1" 304 - 0.0028
+127.0.0.1 - - [25/Jun/2010 08:51:33] "GET / HTTP/1.1" 200 2536 0.0355
+127.0.0.1 - - [25/Jun/2010 08:51:33] "GET / HTTP/1.1" 200 2536 0.0374
+127.0.0.1 - - [25/Jun/2010 08:51:33] "GET /stylesheets/reset.css HTTP/1.1" 304 - 0.0009
+127.0.0.1 - - [25/Jun/2010 08:51:33] "GET /stylesheets/reset.css HTTP/1.1" 304 - 0.0036
+127.0.0.1 - - [25/Jun/2010 08:51:33] "GET /stylesheets/text.css HTTP/1.1" 304 - 0.0010
+127.0.0.1 - - [25/Jun/2010 08:51:33] "GET /stylesheets/text.css HTTP/1.1" 304 - 0.0027
+127.0.0.1 - - [25/Jun/2010 08:51:33] "GET /stylesheets/960.css HTTP/1.1" 304 - 0.0007
+127.0.0.1 - - [25/Jun/2010 08:51:33] "GET /stylesheets/960.css HTTP/1.1" 304 - 0.0022
+127.0.0.1 - - [25/Jun/2010 08:51:33] "GET /stylesheets/smoothness/jquery-ui-1.8.custom.css HTTP/1.1" 304 - 0.0006
+127.0.0.1 - - [25/Jun/2010 08:51:33] "GET /stylesheets/smoothness/jquery-ui-1.8.custom.css HTTP/1.1" 304 - 0.0022
+127.0.0.1 - - [25/Jun/2010 08:51:33] "GET /stylesheets/app.css HTTP/1.1" 304 - 0.0006
+127.0.0.1 - - [25/Jun/2010 08:51:33] "GET /stylesheets/app.css HTTP/1.1" 304 - 0.0020
+127.0.0.1 - - [25/Jun/2010 08:51:33] "GET /javascripts/jquery-1.4.2.min.js HTTP/1.1" 304 - 0.0006
+127.0.0.1 - - [25/Jun/2010 08:51:33] "GET /javascripts/jquery-1.4.2.min.js HTTP/1.1" 304 - 0.0029
+127.0.0.1 - - [25/Jun/2010 08:51:33] "GET /javascripts/jquery-ui-1.8.custom.min.js HTTP/1.1" 304 - 0.0007
+127.0.0.1 - - [25/Jun/2010 08:51:33] "GET /javascripts/jquery-ui-1.8.custom.min.js HTTP/1.1" 304 - 0.0026
+127.0.0.1 - - [25/Jun/2010 08:51:33] "GET /javascripts/coffee-script.js HTTP/1.1" 304 - 0.0006
+127.0.0.1 - - [25/Jun/2010 08:51:33] "GET /javascripts/coffee-script.js HTTP/1.1" 304 - 0.0022
+127.0.0.1 - - [25/Jun/2010 08:52:20] "GET / HTTP/1.1" 200 2676 0.0382
+127.0.0.1 - - [25/Jun/2010 08:52:20] "GET / HTTP/1.1" 200 2676 0.0399
+127.0.0.1 - - [25/Jun/2010 08:52:20] "GET /stylesheets/reset.css HTTP/1.1" 304 - 0.0009
+127.0.0.1 - - [25/Jun/2010 08:52:20] "GET /stylesheets/reset.css HTTP/1.1" 304 - 0.0036
+127.0.0.1 - - [25/Jun/2010 08:52:20] "GET /stylesheets/text.css HTTP/1.1" 304 - 0.0006
+127.0.0.1 - - [25/Jun/2010 08:52:20] "GET /stylesheets/text.css HTTP/1.1" 304 - 0.0020
+127.0.0.1 - - [25/Jun/2010 08:52:20] "GET /stylesheets/960.css HTTP/1.1" 304 - 0.0006
+127.0.0.1 - - [25/Jun/2010 08:52:20] "GET /stylesheets/960.css HTTP/1.1" 304 - 0.0020
+127.0.0.1 - - [25/Jun/2010 08:52:20] "GET /stylesheets/smoothness/jquery-ui-1.8.custom.css HTTP/1.1" 304 - 0.0009
+127.0.0.1 - - [25/Jun/2010 08:52:20] "GET /stylesheets/smoothness/jquery-ui-1.8.custom.css HTTP/1.1" 304 - 0.0026
+127.0.0.1 - - [25/Jun/2010 08:52:20] "GET /stylesheets/app.css HTTP/1.1" 304 - 0.0007
+127.0.0.1 - - [25/Jun/2010 08:52:20] "GET /stylesheets/app.css HTTP/1.1" 304 - 0.0600
+127.0.0.1 - - [25/Jun/2010 08:52:20] "GET /javascripts/jquery-1.4.2.min.js HTTP/1.1" 304 - 0.0007
+127.0.0.1 - - [25/Jun/2010 08:52:20] "GET /javascripts/jquery-1.4.2.min.js HTTP/1.1" 304 - 0.0024
+127.0.0.1 - - [25/Jun/2010 08:52:20] "GET /javascripts/jquery-ui-1.8.custom.min.js HTTP/1.1" 304 - 0.0008
+127.0.0.1 - - [25/Jun/2010 08:52:20] "GET /javascripts/jquery-ui-1.8.custom.min.js HTTP/1.1" 304 - 0.0024
+127.0.0.1 - - [25/Jun/2010 08:52:20] "GET /javascripts/coffee-script.js HTTP/1.1" 304 - 0.0006
+127.0.0.1 - - [25/Jun/2010 08:52:20] "GET /javascripts/coffee-script.js HTTP/1.1" 304 - 0.0033
+127.0.0.1 - - [25/Jun/2010 08:53:02] "GET / HTTP/1.1" 200 2734 0.0378
+127.0.0.1 - - [25/Jun/2010 08:53:02] "GET / HTTP/1.1" 200 2734 0.0395
+127.0.0.1 - - [25/Jun/2010 08:53:02] "GET /stylesheets/reset.css HTTP/1.1" 304 - 0.0010
+127.0.0.1 - - [25/Jun/2010 08:53:02] "GET /stylesheets/reset.css HTTP/1.1" 304 - 0.0037
+127.0.0.1 - - [25/Jun/2010 08:53:02] "GET /stylesheets/text.css HTTP/1.1" 304 - 0.0009
+127.0.0.1 - - [25/Jun/2010 08:53:02] "GET /stylesheets/text.css HTTP/1.1" 304 - 0.0026
+127.0.0.1 - - [25/Jun/2010 08:53:02] "GET /stylesheets/960.css HTTP/1.1" 304 - 0.0006
+127.0.0.1 - - [25/Jun/2010 08:53:02] "GET /stylesheets/960.css HTTP/1.1" 304 - 0.0027
+127.0.0.1 - - [25/Jun/2010 08:53:02] "GET /stylesheets/smoothness/jquery-ui-1.8.custom.css HTTP/1.1" 304 - 0.0006
+127.0.0.1 - - [25/Jun/2010 08:53:02] "GET /stylesheets/smoothness/jquery-ui-1.8.custom.css HTTP/1.1" 304 - 0.0023
+127.0.0.1 - - [25/Jun/2010 08:53:02] "GET /stylesheets/app.css HTTP/1.1" 304 - 0.0014
+127.0.0.1 - - [25/Jun/2010 08:53:02] "GET /stylesheets/app.css HTTP/1.1" 304 - 0.0033
+127.0.0.1 - - [25/Jun/2010 08:53:02] "GET /javascripts/jquery-1.4.2.min.js HTTP/1.1" 304 - 0.0006
+127.0.0.1 - - [25/Jun/2010 08:53:02] "GET /javascripts/jquery-1.4.2.min.js HTTP/1.1" 304 - 0.0020
+127.0.0.1 - - [25/Jun/2010 08:53:02] "GET /javascripts/jquery-ui-1.8.custom.min.js HTTP/1.1" 304 - 0.0007
+127.0.0.1 - - [25/Jun/2010 08:53:02] "GET /javascripts/jquery-ui-1.8.custom.min.js HTTP/1.1" 304 - 0.0024
+127.0.0.1 - - [25/Jun/2010 08:53:02] "GET /javascripts/coffee-script.js HTTP/1.1" 304 - 0.0006
+127.0.0.1 - - [25/Jun/2010 08:53:02] "GET /javascripts/coffee-script.js HTTP/1.1" 304 - 0.0032
+127.0.0.1 - - [25/Jun/2010 08:56:15] "GET / HTTP/1.1" 200 2941 0.0478
+127.0.0.1 - - [25/Jun/2010 08:56:15] "GET / HTTP/1.1" 200 2941 0.0493
+127.0.0.1 - - [25/Jun/2010 08:56:15] "GET /stylesheets/reset.css HTTP/1.1" 304 - 0.0007
+127.0.0.1 - - [25/Jun/2010 08:56:15] "GET /stylesheets/reset.css HTTP/1.1" 304 - 0.0034
+127.0.0.1 - - [25/Jun/2010 08:56:15] "GET /stylesheets/text.css HTTP/1.1" 304 - 0.0006
+127.0.0.1 - - [25/Jun/2010 08:56:15] "GET /stylesheets/text.css HTTP/1.1" 304 - 0.0025
+127.0.0.1 - - [25/Jun/2010 08:56:15] "GET /stylesheets/960.css HTTP/1.1" 304 - 0.0006
+127.0.0.1 - - [25/Jun/2010 08:56:15] "GET /stylesheets/960.css HTTP/1.1" 304 - 0.0021
+127.0.0.1 - - [25/Jun/2010 08:56:15] "GET /stylesheets/smoothness/jquery-ui-1.8.custom.css HTTP/1.1" 304 - 0.0007
+127.0.0.1 - - [25/Jun/2010 08:56:15] "GET /stylesheets/smoothness/jquery-ui-1.8.custom.css HTTP/1.1" 304 - 0.0023
+127.0.0.1 - - [25/Jun/2010 08:56:15] "GET /stylesheets/app.css HTTP/1.1" 304 - 0.0006
+127.0.0.1 - - [25/Jun/2010 08:56:15] "GET /stylesheets/app.css HTTP/1.1" 304 - 0.0022
+127.0.0.1 - - [25/Jun/2010 08:56:15] "GET /javascripts/jquery-1.4.2.min.js HTTP/1.1" 304 - 0.0006
+127.0.0.1 - - [25/Jun/2010 08:56:15] "GET /javascripts/jquery-1.4.2.min.js HTTP/1.1" 304 - 0.0021
+127.0.0.1 - - [25/Jun/2010 08:56:15] "GET /javascripts/jquery-ui-1.8.custom.min.js HTTP/1.1" 304 - 0.0006
+127.0.0.1 - - [25/Jun/2010 08:56:15] "GET /javascripts/jquery-ui-1.8.custom.min.js HTTP/1.1" 304 - 0.0021
+127.0.0.1 - - [25/Jun/2010 08:56:15] "GET /javascripts/coffee-script.js HTTP/1.1" 304 - 0.0006
+127.0.0.1 - - [25/Jun/2010 08:56:15] "GET /javascripts/coffee-script.js HTTP/1.1" 304 - 0.0025
+127.0.0.1 - - [25/Jun/2010 08:56:33] "GET / HTTP/1.1" 200 2963 0.0497
+127.0.0.1 - - [25/Jun/2010 08:56:33] "GET / HTTP/1.1" 200 2963 0.0518
+127.0.0.1 - - [25/Jun/2010 08:56:33] "GET /stylesheets/reset.css HTTP/1.1" 304 - 0.0007
+127.0.0.1 - - [25/Jun/2010 08:56:33] "GET /stylesheets/reset.css HTTP/1.1" 304 - 0.0039
+127.0.0.1 - - [25/Jun/2010 08:56:33] "GET /stylesheets/text.css HTTP/1.1" 304 - 0.0007
+127.0.0.1 - - [25/Jun/2010 08:56:33] "GET /stylesheets/text.css HTTP/1.1" 304 - 0.0021
+127.0.0.1 - - [25/Jun/2010 08:56:33] "GET /stylesheets/960.css HTTP/1.1" 304 - 0.0006
+127.0.0.1 - - [25/Jun/2010 08:56:33] "GET /stylesheets/960.css HTTP/1.1" 304 - 0.0020
+127.0.0.1 - - [25/Jun/2010 08:56:33] "GET /stylesheets/smoothness/jquery-ui-1.8.custom.css HTTP/1.1" 304 - 0.0007
+127.0.0.1 - - [25/Jun/2010 08:56:33] "GET /stylesheets/smoothness/jquery-ui-1.8.custom.css HTTP/1.1" 304 - 0.0599
+127.0.0.1 - - [25/Jun/2010 08:56:33] "GET /stylesheets/app.css HTTP/1.1" 304 - 0.0006
+127.0.0.1 - - [25/Jun/2010 08:56:33] "GET /stylesheets/app.css HTTP/1.1" 304 - 0.0022
+127.0.0.1 - - [25/Jun/2010 08:56:33] "GET /javascripts/jquery-1.4.2.min.js HTTP/1.1" 304 - 0.0007
+127.0.0.1 - - [25/Jun/2010 08:56:33] "GET /javascripts/jquery-1.4.2.min.js HTTP/1.1" 304 - 0.0023
+127.0.0.1 - - [25/Jun/2010 08:56:33] "GET /javascripts/jquery-ui-1.8.custom.min.js HTTP/1.1" 304 - 0.0007
+127.0.0.1 - - [25/Jun/2010 08:56:33] "GET /javascripts/jquery-ui-1.8.custom.min.js HTTP/1.1" 304 - 0.0032
+127.0.0.1 - - [25/Jun/2010 08:56:33] "GET /javascripts/coffee-script.js HTTP/1.1" 304 - 0.0006
+127.0.0.1 - - [25/Jun/2010 08:56:33] "GET /javascripts/coffee-script.js HTTP/1.1" 304 - 0.0023
+127.0.0.1 - - [25/Jun/2010 08:57:02] "GET / HTTP/1.1" 200 2953 0.0498
+127.0.0.1 - - [25/Jun/2010 08:57:02] "GET / HTTP/1.1" 200 2953 0.0517
+127.0.0.1 - - [25/Jun/2010 08:57:02] "GET /stylesheets/reset.css HTTP/1.1" 304 - 0.0007
+127.0.0.1 - - [25/Jun/2010 08:57:02] "GET /stylesheets/reset.css HTTP/1.1" 304 - 0.0039
+127.0.0.1 - - [25/Jun/2010 08:57:02] "GET /stylesheets/text.css HTTP/1.1" 304 - 0.0006
+127.0.0.1 - - [25/Jun/2010 08:57:02] "GET /stylesheets/text.css HTTP/1.1" 304 - 0.0021
+127.0.0.1 - - [25/Jun/2010 08:57:02] "GET /stylesheets/960.css HTTP/1.1" 304 - 0.0006
+127.0.0.1 - - [25/Jun/2010 08:57:02] "GET /stylesheets/960.css HTTP/1.1" 304 - 0.0020
+127.0.0.1 - - [25/Jun/2010 08:57:02] "GET /stylesheets/smoothness/jquery-ui-1.8.custom.css HTTP/1.1" 304 - 0.0008
+127.0.0.1 - - [25/Jun/2010 08:57:02] "GET /stylesheets/smoothness/jquery-ui-1.8.custom.css HTTP/1.1" 304 - 0.0042
+127.0.0.1 - - [25/Jun/2010 08:57:02] "GET /stylesheets/app.css HTTP/1.1" 304 - 0.0006
+127.0.0.1 - - [25/Jun/2010 08:57:02] "GET /stylesheets/app.css HTTP/1.1" 304 - 0.0020
+127.0.0.1 - - [25/Jun/2010 08:57:02] "GET /javascripts/jquery-1.4.2.min.js HTTP/1.1" 304 - 0.0007
+127.0.0.1 - - [25/Jun/2010 08:57:02] "GET /javascripts/jquery-1.4.2.min.js HTTP/1.1" 304 - 0.0021
+127.0.0.1 - - [25/Jun/2010 08:57:02] "GET /javascripts/jquery-ui-1.8.custom.min.js HTTP/1.1" 304 - 0.0006
+127.0.0.1 - - [25/Jun/2010 08:57:02] "GET /javascripts/jquery-ui-1.8.custom.min.js HTTP/1.1" 304 - 0.0032
+127.0.0.1 - - [25/Jun/2010 08:57:02] "GET /javascripts/coffee-script.js HTTP/1.1" 304 - 0.0006
+127.0.0.1 - - [25/Jun/2010 08:57:02] "GET /javascripts/coffee-script.js HTTP/1.1" 304 - 0.0022
+127.0.0.1 - - [25/Jun/2010 08:57:37] "GET / HTTP/1.1" 200 2953 0.0489
+127.0.0.1 - - [25/Jun/2010 08:57:37] "GET / HTTP/1.1" 200 2953 0.0506
+127.0.0.1 - - [25/Jun/2010 08:57:37] "GET /stylesheets/reset.css HTTP/1.1" 304 - 0.0007
+127.0.0.1 - - [25/Jun/2010 08:57:37] "GET /stylesheets/reset.css HTTP/1.1" 304 - 0.0038
+127.0.0.1 - - [25/Jun/2010 08:57:37] "GET /stylesheets/text.css HTTP/1.1" 304 - 0.0006
+127.0.0.1 - - [25/Jun/2010 08:57:37] "GET /stylesheets/text.css HTTP/1.1" 304 - 0.0020
+127.0.0.1 - - [25/Jun/2010 08:57:37] "GET /stylesheets/960.css HTTP/1.1" 304 - 0.0006
+127.0.0.1 - - [25/Jun/2010 08:57:37] "GET /stylesheets/960.css HTTP/1.1" 304 - 0.0022
+127.0.0.1 - - [25/Jun/2010 08:57:37] "GET /stylesheets/smoothness/jquery-ui-1.8.custom.css HTTP/1.1" 304 - 0.0007
+127.0.0.1 - - [25/Jun/2010 08:57:37] "GET /stylesheets/smoothness/jquery-ui-1.8.custom.css HTTP/1.1" 304 - 0.0047
+127.0.0.1 - - [25/Jun/2010 08:57:37] "GET /stylesheets/app.css HTTP/1.1" 304 - 0.0006
+127.0.0.1 - - [25/Jun/2010 08:57:37] "GET /stylesheets/app.css HTTP/1.1" 304 - 0.0022
+127.0.0.1 - - [25/Jun/2010 08:57:37] "GET /javascripts/jquery-1.4.2.min.js HTTP/1.1" 304 - 0.0006
+127.0.0.1 - - [25/Jun/2010 08:57:37] "GET /javascripts/jquery-1.4.2.min.js HTTP/1.1" 304 - 0.0024
+127.0.0.1 - - [25/Jun/2010 08:57:37] "GET /javascripts/jquery-ui-1.8.custom.min.js HTTP/1.1" 304 - 0.0006
+127.0.0.1 - - [25/Jun/2010 08:57:37] "GET /javascripts/jquery-ui-1.8.custom.min.js HTTP/1.1" 304 - 0.0029
+127.0.0.1 - - [25/Jun/2010 08:57:37] "GET /javascripts/coffee-script.js HTTP/1.1" 304 - 0.0006
+127.0.0.1 - - [25/Jun/2010 08:57:37] "GET /javascripts/coffee-script.js HTTP/1.1" 304 - 0.0022
+127.0.0.1 - - [25/Jun/2010 08:57:52] "GET / HTTP/1.1" 200 2953 0.0491
+127.0.0.1 - - [25/Jun/2010 08:57:52] "GET / HTTP/1.1" 200 2953 0.0509
+127.0.0.1 - - [25/Jun/2010 08:57:52] "GET /stylesheets/reset.css HTTP/1.1" 304 - 0.0008
+127.0.0.1 - - [25/Jun/2010 08:57:52] "GET /stylesheets/reset.css HTTP/1.1" 304 - 0.0036
+127.0.0.1 - - [25/Jun/2010 08:57:52] "GET /stylesheets/text.css HTTP/1.1" 304 - 0.0006
+127.0.0.1 - - [25/Jun/2010 08:57:52] "GET /stylesheets/text.css HTTP/1.1" 304 - 0.0592
+127.0.0.1 - - [25/Jun/2010 08:57:52] "GET /stylesheets/960.css HTTP/1.1" 304 - 0.0005
+127.0.0.1 - - [25/Jun/2010 08:57:52] "GET /stylesheets/960.css HTTP/1.1" 304 - 0.0020
+127.0.0.1 - - [25/Jun/2010 08:57:52] "GET /stylesheets/smoothness/jquery-ui-1.8.custom.css HTTP/1.1" 304 - 0.0006
+127.0.0.1 - - [25/Jun/2010 08:57:52] "GET /stylesheets/smoothness/jquery-ui-1.8.custom.css HTTP/1.1" 304 - 0.0021
+127.0.0.1 - - [25/Jun/2010 08:57:52] "GET /stylesheets/app.css HTTP/1.1" 304 - 0.0006
+127.0.0.1 - - [25/Jun/2010 08:57:52] "GET /stylesheets/app.css HTTP/1.1" 304 - 0.0027
+127.0.0.1 - - [25/Jun/2010 08:57:52] "GET /javascripts/jquery-1.4.2.min.js HTTP/1.1" 304 - 0.0006
+127.0.0.1 - - [25/Jun/2010 08:57:52] "GET /javascripts/jquery-1.4.2.min.js HTTP/1.1" 304 - 0.0023
+127.0.0.1 - - [25/Jun/2010 08:57:52] "GET /javascripts/jquery-ui-1.8.custom.min.js HTTP/1.1" 304 - 0.0006
+127.0.0.1 - - [25/Jun/2010 08:57:52] "GET /javascripts/jquery-ui-1.8.custom.min.js HTTP/1.1" 304 - 0.0021
+127.0.0.1 - - [25/Jun/2010 08:57:52] "GET /javascripts/coffee-script.js HTTP/1.1" 304 - 0.0037
+127.0.0.1 - - [25/Jun/2010 08:57:52] "GET /javascripts/coffee-script.js HTTP/1.1" 304 - 0.0059
+127.0.0.1 - - [25/Jun/2010 08:59:05] "GET / HTTP/1.1" 200 3013 0.0515
+127.0.0.1 - - [25/Jun/2010 08:59:05] "GET / HTTP/1.1" 200 3013 0.0533
+127.0.0.1 - - [25/Jun/2010 08:59:05] "GET /stylesheets/reset.css HTTP/1.1" 304 - 0.0007
+127.0.0.1 - - [25/Jun/2010 08:59:05] "GET /stylesheets/reset.css HTTP/1.1" 304 - 0.0034
+127.0.0.1 - - [25/Jun/2010 08:59:05] "GET /stylesheets/text.css HTTP/1.1" 304 - 0.0009
+127.0.0.1 - - [25/Jun/2010 08:59:05] "GET /stylesheets/text.css HTTP/1.1" 304 - 0.0034
+127.0.0.1 - - [25/Jun/2010 08:59:05] "GET /stylesheets/960.css HTTP/1.1" 304 - 0.0006
+127.0.0.1 - - [25/Jun/2010 08:59:05] "GET /stylesheets/960.css HTTP/1.1" 304 - 0.0025
+127.0.0.1 - - [25/Jun/2010 08:59:05] "GET /stylesheets/smoothness/jquery-ui-1.8.custom.css HTTP/1.1" 304 - 0.0006
+127.0.0.1 - - [25/Jun/2010 08:59:05] "GET /stylesheets/smoothness/jquery-ui-1.8.custom.css HTTP/1.1" 304 - 0.0021
+127.0.0.1 - - [25/Jun/2010 08:59:05] "GET /stylesheets/app.css HTTP/1.1" 304 - 0.0006
+127.0.0.1 - - [25/Jun/2010 08:59:05] "GET /stylesheets/app.css HTTP/1.1" 304 - 0.0027
+127.0.0.1 - - [25/Jun/2010 08:59:05] "GET /javascripts/jquery-1.4.2.min.js HTTP/1.1" 304 - 0.0006
+127.0.0.1 - - [25/Jun/2010 08:59:05] "GET /javascripts/jquery-1.4.2.min.js HTTP/1.1" 304 - 0.0021
+127.0.0.1 - - [25/Jun/2010 08:59:05] "GET /javascripts/jquery-ui-1.8.custom.min.js HTTP/1.1" 304 - 0.0007
+127.0.0.1 - - [25/Jun/2010 08:59:05] "GET /javascripts/jquery-ui-1.8.custom.min.js HTTP/1.1" 304 - 0.0022
+127.0.0.1 - - [25/Jun/2010 08:59:05] "GET /javascripts/coffee-script.js HTTP/1.1" 304 - 0.0006
+127.0.0.1 - - [25/Jun/2010 08:59:05] "GET /javascripts/coffee-script.js HTTP/1.1" 304 - 0.0021
+Sass::SyntaxError - Invalid CSS after "": expected expression (e.g. 1px, bold), was "#gray":
+ (sass):2
+ /usr/local/lib/ruby/gems/1.8/gems/haml-3.0.0/lib/sass/scss/parser.rb:782:in `expected'
+ /usr/local/lib/ruby/gems/1.8/gems/haml-3.0.0/lib/sass/script/lexer.rb:188:in `expected!'
+ /usr/local/lib/ruby/gems/1.8/gems/haml-3.0.0/lib/sass/script/parser.rb:340:in `assert_expr'
+ /usr/local/lib/ruby/gems/1.8/gems/haml-3.0.0/lib/sass/script/parser.rb:49:in `parse'
+ /usr/local/lib/ruby/gems/1.8/gems/haml-3.0.0/lib/sass/script/parser.rb:120:in `parse'
+ /usr/local/lib/ruby/gems/1.8/gems/haml-3.0.0/lib/sass/script.rb:32:in `parse'
+ /usr/local/lib/ruby/gems/1.8/gems/haml-3.0.0/lib/sass/engine.rb:594:in `parse_script'
+ /usr/local/lib/ruby/gems/1.8/gems/haml-3.0.0/lib/sass/engine.rb:428:in `parse_property'
+ /usr/local/lib/ruby/gems/1.8/gems/haml-3.0.0/lib/sass/engine.rb:417:in `parse_property_or_rule'
+ /usr/local/lib/ruby/gems/1.8/gems/haml-3.0.0/lib/sass/engine.rb:398:in `parse_line'
+ /usr/local/lib/ruby/gems/1.8/gems/haml-3.0.0/lib/sass/engine.rb:286:in `build_tree'
+ /usr/local/lib/ruby/gems/1.8/gems/haml-3.0.0/lib/sass/engine.rb:305:in `append_children'
+ /usr/local/lib/ruby/gems/1.8/gems/haml-3.0.0/lib/sass/engine.rb:304:in `each'
+ /usr/local/lib/ruby/gems/1.8/gems/haml-3.0.0/lib/sass/engine.rb:304:in `append_children'
+ /usr/local/lib/ruby/gems/1.8/gems/haml-3.0.0/lib/sass/engine.rb:295:in `build_tree'
+ /usr/local/lib/ruby/gems/1.8/gems/haml-3.0.0/lib/sass/engine.rb:288:in `each'
+ /usr/local/lib/ruby/gems/1.8/gems/haml-3.0.0/lib/sass/engine.rb:288:in `build_tree'
+ /usr/local/lib/ruby/gems/1.8/gems/haml-3.0.0/lib/sass/engine.rb:305:in `append_children'
+ /usr/local/lib/ruby/gems/1.8/gems/haml-3.0.0/lib/sass/engine.rb:304:in `each'
+ /usr/local/lib/ruby/gems/1.8/gems/haml-3.0.0/lib/sass/engine.rb:304:in `append_children'
+ /usr/local/lib/ruby/gems/1.8/gems/haml-3.0.0/lib/sass/engine.rb:182:in `_to_tree'
+ /usr/local/lib/ruby/gems/1.8/gems/haml-3.0.0/lib/sass/engine.rb:159:in `render'
+ /usr/local/lib/ruby/gems/1.8/gems/mercury-0.9.15/lib/mercury/helpers.rb:28:in `sass'
+ /usr/local/lib/ruby/gems/1.8/gems/sinatra-1.0/lib/sinatra/tilt.rb:327:in `__tilt_cfad4e3a4ad6b48f95ae5eb1d7b59830'
+ /usr/local/lib/ruby/gems/1.8/gems/sinatra-1.0/lib/sinatra/tilt.rb:195:in `send'
+ /usr/local/lib/ruby/gems/1.8/gems/sinatra-1.0/lib/sinatra/tilt.rb:195:in `evaluate'
+ /usr/local/lib/ruby/gems/1.8/gems/sinatra-1.0/lib/sinatra/tilt.rb:449:in `evaluate'
+ /usr/local/lib/ruby/gems/1.8/gems/sinatra-1.0/lib/sinatra/tilt.rb:131:in `render'
+ /usr/local/lib/ruby/gems/1.8/gems/sinatra-1.0/lib/sinatra/base.rb:343:in `render'
+ /usr/local/lib/ruby/gems/1.8/gems/sinatra-1.0/lib/sinatra/base.rb:311:in `haml'
+ /usr/local/lib/ruby/gems/1.8/gems/mercury-0.9.15/lib/mercury.rb:26:in `GET /*'
+ /usr/local/lib/ruby/gems/1.8/gems/sinatra-1.0/lib/sinatra/base.rb:863:in `call'
+ /usr/local/lib/ruby/gems/1.8/gems/sinatra-1.0/lib/sinatra/base.rb:863:in `route'
+ /usr/local/lib/ruby/gems/1.8/gems/sinatra-1.0/lib/sinatra/base.rb:521:in `instance_eval'
+ /usr/local/lib/ruby/gems/1.8/gems/sinatra-1.0/lib/sinatra/base.rb:521:in `route_eval'
+ /usr/local/lib/ruby/gems/1.8/gems/sinatra-1.0/lib/sinatra/base.rb:500:in `route!'
+ /usr/local/lib/ruby/gems/1.8/gems/sinatra-1.0/lib/sinatra/base.rb:497:in `catch'
+ /usr/local/lib/ruby/gems/1.8/gems/sinatra-1.0/lib/sinatra/base.rb:497:in `route!'
+ /usr/local/lib/ruby/gems/1.8/gems/sinatra-1.0/lib/sinatra/base.rb:476:in `each'
+ /usr/local/lib/ruby/gems/1.8/gems/sinatra-1.0/lib/sinatra/base.rb:476:in `route!'
+ /usr/local/lib/ruby/gems/1.8/gems/sinatra-1.0/lib/sinatra/base.rb:601:in `dispatch!'
+ /usr/local/lib/ruby/gems/1.8/gems/sinatra-1.0/lib/sinatra/base.rb:411:in `call!'
+ /usr/local/lib/ruby/gems/1.8/gems/sinatra-1.0/lib/sinatra/base.rb:566:in `instance_eval'
+ /usr/local/lib/ruby/gems/1.8/gems/sinatra-1.0/lib/sinatra/base.rb:566:in `invoke'
+ /usr/local/lib/ruby/gems/1.8/gems/sinatra-1.0/lib/sinatra/base.rb:566:in `catch'
+ /usr/local/lib/ruby/gems/1.8/gems/sinatra-1.0/lib/sinatra/base.rb:566:in `invoke'
+ /usr/local/lib/ruby/gems/1.8/gems/sinatra-1.0/lib/sinatra/base.rb:411:in `call!'
+ /usr/local/lib/ruby/gems/1.8/gems/sinatra-1.0/lib/sinatra/base.rb:399:in `call'
+ /usr/local/lib/ruby/gems/1.8/gems/haml-3.0.0/lib/sass/plugin/rack.rb:43:in `call'
+ /usr/local/lib/ruby/gems/1.8/gems/rack-1.1.0/lib/rack/showexceptions.rb:24:in `call'
+ /usr/local/lib/ruby/gems/1.8/gems/rack-1.1.0/lib/rack/methodoverride.rb:24:in `call'
+ /usr/local/lib/ruby/gems/1.8/gems/rack-1.1.0/lib/rack/commonlogger.rb:18:in `call'
+ /usr/local/lib/ruby/gems/1.8/gems/sinatra-1.0/lib/sinatra/base.rb:979:in `call'
+ /usr/local/lib/ruby/gems/1.8/gems/sinatra-1.0/lib/sinatra/base.rb:1005:in `synchronize'
+ /usr/local/lib/ruby/gems/1.8/gems/sinatra-1.0/lib/sinatra/base.rb:979:in `call'
+ /usr/local/lib/ruby/gems/1.8/gems/rack-1.1.0/lib/rack/lint.rb:47:in `_call'
+ /usr/local/lib/ruby/gems/1.8/gems/rack-1.1.0/lib/rack/lint.rb:35:in `call'
+ /usr/local/lib/ruby/gems/1.8/gems/rack-1.1.0/lib/rack/showexceptions.rb:24:in `call'
+ /usr/local/lib/ruby/gems/1.8/gems/rack-1.1.0/lib/rack/commonlogger.rb:18:in `call'
+ /usr/local/lib/ruby/gems/1.8/gems/rack-1.1.0/lib/rack/content_length.rb:13:in `call'
+ /usr/local/lib/ruby/gems/1.8/gems/rack-1.1.0/lib/rack/chunked.rb:15:in `call'
+ /usr/local/lib/ruby/gems/1.8/gems/rack-1.1.0/lib/rack/handler/mongrel.rb:67:in `process'
+ /usr/local/lib/ruby/gems/1.8/gems/mongrel-1.1.5/lib/mongrel.rb:159:in `process_client'
+ /usr/local/lib/ruby/gems/1.8/gems/mongrel-1.1.5/lib/mongrel.rb:158:in `each'
+ /usr/local/lib/ruby/gems/1.8/gems/mongrel-1.1.5/lib/mongrel.rb:158:in `process_client'
+ /usr/local/lib/ruby/gems/1.8/gems/mongrel-1.1.5/lib/mongrel.rb:285:in `run'
+ /usr/local/lib/ruby/gems/1.8/gems/mongrel-1.1.5/lib/mongrel.rb:285:in `initialize'
+ /usr/local/lib/ruby/gems/1.8/gems/mongrel-1.1.5/lib/mongrel.rb:285:in `new'
+ /usr/local/lib/ruby/gems/1.8/gems/mongrel-1.1.5/lib/mongrel.rb:285:in `run'
+ /usr/local/lib/ruby/gems/1.8/gems/mongrel-1.1.5/lib/mongrel.rb:268:in `initialize'
+ /usr/local/lib/ruby/gems/1.8/gems/mongrel-1.1.5/lib/mongrel.rb:268:in `new'
+ /usr/local/lib/ruby/gems/1.8/gems/mongrel-1.1.5/lib/mongrel.rb:268:in `run'
+ /usr/local/lib/ruby/gems/1.8/gems/rack-1.1.0/lib/rack/handler/mongrel.rb:38:in `run'
+ /usr/local/lib/ruby/gems/1.8/gems/rack-1.1.0/lib/rack/server.rb:155:in `start'
+ /usr/local/lib/ruby/gems/1.8/gems/rack-1.1.0/lib/rack/server.rb:83:in `start'
+ /usr/local/lib/ruby/gems/1.8/gems/rack-1.1.0/bin/rackup:4
+ /usr/local/lib/ruby/gems/1.8/gems/mercury-0.9.15/bin/mercury:34:in `load'
+ /usr/local/lib/ruby/gems/1.8/gems/mercury-0.9.15/bin/mercury:34
+ /usr/local/bin/mercury:19:in `load'
+ /usr/local/bin/mercury:19
+Sass::SyntaxError: Invalid CSS after "": expected expression (e.g. 1px, bold), was "#gray"
+	(sass):2
+	/usr/local/lib/ruby/gems/1.8/gems/haml-3.0.0/lib/sass/scss/parser.rb:782:in `expected'
+	/usr/local/lib/ruby/gems/1.8/gems/haml-3.0.0/lib/sass/script/lexer.rb:188:in `expected!'
+	/usr/local/lib/ruby/gems/1.8/gems/haml-3.0.0/lib/sass/script/parser.rb:340:in `assert_expr'
+	/usr/local/lib/ruby/gems/1.8/gems/haml-3.0.0/lib/sass/script/parser.rb:49:in `parse'
+	/usr/local/lib/ruby/gems/1.8/gems/haml-3.0.0/lib/sass/script/parser.rb:120:in `parse'
+	/usr/local/lib/ruby/gems/1.8/gems/haml-3.0.0/lib/sass/script.rb:32:in `parse'
+	/usr/local/lib/ruby/gems/1.8/gems/haml-3.0.0/lib/sass/engine.rb:594:in `parse_script'
+	/usr/local/lib/ruby/gems/1.8/gems/haml-3.0.0/lib/sass/engine.rb:428:in `parse_property'
+	/usr/local/lib/ruby/gems/1.8/gems/haml-3.0.0/lib/sass/engine.rb:417:in `parse_property_or_rule'
+	/usr/local/lib/ruby/gems/1.8/gems/haml-3.0.0/lib/sass/engine.rb:398:in `parse_line'
+	/usr/local/lib/ruby/gems/1.8/gems/haml-3.0.0/lib/sass/engine.rb:286:in `build_tree'
+	/usr/local/lib/ruby/gems/1.8/gems/haml-3.0.0/lib/sass/engine.rb:305:in `append_children'
+	/usr/local/lib/ruby/gems/1.8/gems/haml-3.0.0/lib/sass/engine.rb:304:in `each'
+	/usr/local/lib/ruby/gems/1.8/gems/haml-3.0.0/lib/sass/engine.rb:304:in `append_children'
+	/usr/local/lib/ruby/gems/1.8/gems/haml-3.0.0/lib/sass/engine.rb:295:in `build_tree'
+	/usr/local/lib/ruby/gems/1.8/gems/haml-3.0.0/lib/sass/engine.rb:288:in `each'
+	/usr/local/lib/ruby/gems/1.8/gems/haml-3.0.0/lib/sass/engine.rb:288:in `build_tree'
+	/usr/local/lib/ruby/gems/1.8/gems/haml-3.0.0/lib/sass/engine.rb:305:in `append_children'
+	/usr/local/lib/ruby/gems/1.8/gems/haml-3.0.0/lib/sass/engine.rb:304:in `each'
+	/usr/local/lib/ruby/gems/1.8/gems/haml-3.0.0/lib/sass/engine.rb:304:in `append_children'
+	/usr/local/lib/ruby/gems/1.8/gems/haml-3.0.0/lib/sass/engine.rb:182:in `_to_tree'
+	/usr/local/lib/ruby/gems/1.8/gems/haml-3.0.0/lib/sass/engine.rb:159:in `render'
+	/usr/local/lib/ruby/gems/1.8/gems/mercury-0.9.15/lib/mercury/helpers.rb:28:in `sass'
+	/usr/local/lib/ruby/gems/1.8/gems/sinatra-1.0/lib/sinatra/tilt.rb:327:in `__tilt_cfad4e3a4ad6b48f95ae5eb1d7b59830'
+	/usr/local/lib/ruby/gems/1.8/gems/sinatra-1.0/lib/sinatra/tilt.rb:195:in `send'
+	/usr/local/lib/ruby/gems/1.8/gems/sinatra-1.0/lib/sinatra/tilt.rb:195:in `evaluate'
+	/usr/local/lib/ruby/gems/1.8/gems/sinatra-1.0/lib/sinatra/tilt.rb:449:in `evaluate'
+	/usr/local/lib/ruby/gems/1.8/gems/sinatra-1.0/lib/sinatra/tilt.rb:131:in `render'
+	/usr/local/lib/ruby/gems/1.8/gems/sinatra-1.0/lib/sinatra/base.rb:343:in `render'
+	/usr/local/lib/ruby/gems/1.8/gems/sinatra-1.0/lib/sinatra/base.rb:311:in `haml'
+	/usr/local/lib/ruby/gems/1.8/gems/mercury-0.9.15/lib/mercury.rb:26:in `GET /*'
+	/usr/local/lib/ruby/gems/1.8/gems/sinatra-1.0/lib/sinatra/base.rb:863:in `call'
+	/usr/local/lib/ruby/gems/1.8/gems/sinatra-1.0/lib/sinatra/base.rb:863:in `route'
+	/usr/local/lib/ruby/gems/1.8/gems/sinatra-1.0/lib/sinatra/base.rb:521:in `instance_eval'
+	/usr/local/lib/ruby/gems/1.8/gems/sinatra-1.0/lib/sinatra/base.rb:521:in `route_eval'
+	/usr/local/lib/ruby/gems/1.8/gems/sinatra-1.0/lib/sinatra/base.rb:500:in `route!'
+	/usr/local/lib/ruby/gems/1.8/gems/sinatra-1.0/lib/sinatra/base.rb:497:in `catch'
+	/usr/local/lib/ruby/gems/1.8/gems/sinatra-1.0/lib/sinatra/base.rb:497:in `route!'
+	/usr/local/lib/ruby/gems/1.8/gems/sinatra-1.0/lib/sinatra/base.rb:476:in `each'
+	/usr/local/lib/ruby/gems/1.8/gems/sinatra-1.0/lib/sinatra/base.rb:476:in `route!'
+	/usr/local/lib/ruby/gems/1.8/gems/sinatra-1.0/lib/sinatra/base.rb:601:in `dispatch!'
+	/usr/local/lib/ruby/gems/1.8/gems/sinatra-1.0/lib/sinatra/base.rb:411:in `call!'
+	/usr/local/lib/ruby/gems/1.8/gems/sinatra-1.0/lib/sinatra/base.rb:566:in `instance_eval'
+	/usr/local/lib/ruby/gems/1.8/gems/sinatra-1.0/lib/sinatra/base.rb:566:in `invoke'
+	/usr/local/lib/ruby/gems/1.8/gems/sinatra-1.0/lib/sinatra/base.rb:566:in `catch'
+	/usr/local/lib/ruby/gems/1.8/gems/sinatra-1.0/lib/sinatra/base.rb:566:in `invoke'
+	/usr/local/lib/ruby/gems/1.8/gems/sinatra-1.0/lib/sinatra/base.rb:411:in `call!'
+	/usr/local/lib/ruby/gems/1.8/gems/sinatra-1.0/lib/sinatra/base.rb:399:in `call'
+	/usr/local/lib/ruby/gems/1.8/gems/haml-3.0.0/lib/sass/plugin/rack.rb:43:in `call'
+	/usr/local/lib/ruby/gems/1.8/gems/rack-1.1.0/lib/rack/showexceptions.rb:24:in `call'
+	/usr/local/lib/ruby/gems/1.8/gems/rack-1.1.0/lib/rack/methodoverride.rb:24:in `call'
+	/usr/local/lib/ruby/gems/1.8/gems/rack-1.1.0/lib/rack/commonlogger.rb:18:in `call'
+	/usr/local/lib/ruby/gems/1.8/gems/sinatra-1.0/lib/sinatra/base.rb:979:in `call'
+	/usr/local/lib/ruby/gems/1.8/gems/sinatra-1.0/lib/sinatra/base.rb:1005:in `synchronize'
+	/usr/local/lib/ruby/gems/1.8/gems/sinatra-1.0/lib/sinatra/base.rb:979:in `call'
+	/usr/local/lib/ruby/gems/1.8/gems/rack-1.1.0/lib/rack/lint.rb:47:in `_call'
+	/usr/local/lib/ruby/gems/1.8/gems/rack-1.1.0/lib/rack/lint.rb:35:in `call'
+	/usr/local/lib/ruby/gems/1.8/gems/rack-1.1.0/lib/rack/showexceptions.rb:24:in `call'
+	/usr/local/lib/ruby/gems/1.8/gems/rack-1.1.0/lib/rack/commonlogger.rb:18:in `call'
+	/usr/local/lib/ruby/gems/1.8/gems/rack-1.1.0/lib/rack/content_length.rb:13:in `call'
+	/usr/local/lib/ruby/gems/1.8/gems/rack-1.1.0/lib/rack/chunked.rb:15:in `call'
+	/usr/local/lib/ruby/gems/1.8/gems/rack-1.1.0/lib/rack/handler/mongrel.rb:67:in `process'
+	/usr/local/lib/ruby/gems/1.8/gems/mongrel-1.1.5/lib/mongrel.rb:159:in `process_client'
+	/usr/local/lib/ruby/gems/1.8/gems/mongrel-1.1.5/lib/mongrel.rb:158:in `each'
+	/usr/local/lib/ruby/gems/1.8/gems/mongrel-1.1.5/lib/mongrel.rb:158:in `process_client'
+	/usr/local/lib/ruby/gems/1.8/gems/mongrel-1.1.5/lib/mongrel.rb:285:in `run'
+	/usr/local/lib/ruby/gems/1.8/gems/mongrel-1.1.5/lib/mongrel.rb:285:in `initialize'
+	/usr/local/lib/ruby/gems/1.8/gems/mongrel-1.1.5/lib/mongrel.rb:285:in `new'
+	/usr/local/lib/ruby/gems/1.8/gems/mongrel-1.1.5/lib/mongrel.rb:285:in `run'
+	/usr/local/lib/ruby/gems/1.8/gems/mongrel-1.1.5/lib/mongrel.rb:268:in `initialize'
+	/usr/local/lib/ruby/gems/1.8/gems/mongrel-1.1.5/lib/mongrel.rb:268:in `new'
+	/usr/local/lib/ruby/gems/1.8/gems/mongrel-1.1.5/lib/mongrel.rb:268:in `run'
+	/usr/local/lib/ruby/gems/1.8/gems/rack-1.1.0/lib/rack/handler/mongrel.rb:38:in `run'
+	/usr/local/lib/ruby/gems/1.8/gems/rack-1.1.0/lib/rack/server.rb:155:in `start'
+	/usr/local/lib/ruby/gems/1.8/gems/rack-1.1.0/lib/rack/server.rb:83:in `start'
+	/usr/local/lib/ruby/gems/1.8/gems/rack-1.1.0/bin/rackup:4
+	/usr/local/lib/ruby/gems/1.8/gems/mercury-0.9.15/bin/mercury:34:in `load'
+	/usr/local/lib/ruby/gems/1.8/gems/mercury-0.9.15/bin/mercury:34
+	/usr/local/bin/mercury:19:in `load'
+	/usr/local/bin/mercury:19
+127.0.0.1 - - [25/Jun/2010 09:34:14] "GET / HTTP/1.1" 500 209224 0.4208
+127.0.0.1 - - [25/Jun/2010 09:34:14] "GET / HTTP/1.1" 500 209224 0.4228
+Errno::ENOENT - No such file or directory - /Users/jackhq/apps/css-demo/wwwroot/__sinatra__/500.png:
+ /usr/local/lib/ruby/gems/1.8/gems/mercury-0.9.15/lib/mercury/images.rb:8:in `initialize'
+ /usr/local/lib/ruby/gems/1.8/gems/mercury-0.9.15/lib/mercury/images.rb:8:in `open'
+ /usr/local/lib/ruby/gems/1.8/gems/mercury-0.9.15/lib/mercury/images.rb:8:in `GET (?-mix:(gif|jpg|png|jpeg)$)'
+ /usr/local/lib/ruby/gems/1.8/gems/sinatra-1.0/lib/sinatra/base.rb:863:in `call'
+ /usr/local/lib/ruby/gems/1.8/gems/sinatra-1.0/lib/sinatra/base.rb:863:in `route'
+ /usr/local/lib/ruby/gems/1.8/gems/sinatra-1.0/lib/sinatra/base.rb:521:in `instance_eval'
+ /usr/local/lib/ruby/gems/1.8/gems/sinatra-1.0/lib/sinatra/base.rb:521:in `route_eval'
+ /usr/local/lib/ruby/gems/1.8/gems/sinatra-1.0/lib/sinatra/base.rb:500:in `route!'
+ /usr/local/lib/ruby/gems/1.8/gems/sinatra-1.0/lib/sinatra/base.rb:497:in `catch'
+ /usr/local/lib/ruby/gems/1.8/gems/sinatra-1.0/lib/sinatra/base.rb:497:in `route!'
+ /usr/local/lib/ruby/gems/1.8/gems/sinatra-1.0/lib/sinatra/base.rb:476:in `each'
+ /usr/local/lib/ruby/gems/1.8/gems/sinatra-1.0/lib/sinatra/base.rb:476:in `route!'
+ /usr/local/lib/ruby/gems/1.8/gems/sinatra-1.0/lib/sinatra/base.rb:601:in `dispatch!'
+ /usr/local/lib/ruby/gems/1.8/gems/sinatra-1.0/lib/sinatra/base.rb:411:in `call!'
+ /usr/local/lib/ruby/gems/1.8/gems/sinatra-1.0/lib/sinatra/base.rb:566:in `instance_eval'
+ /usr/local/lib/ruby/gems/1.8/gems/sinatra-1.0/lib/sinatra/base.rb:566:in `invoke'
+ /usr/local/lib/ruby/gems/1.8/gems/sinatra-1.0/lib/sinatra/base.rb:566:in `catch'
+ /usr/local/lib/ruby/gems/1.8/gems/sinatra-1.0/lib/sinatra/base.rb:566:in `invoke'
+ /usr/local/lib/ruby/gems/1.8/gems/sinatra-1.0/lib/sinatra/base.rb:411:in `call!'
+ /usr/local/lib/ruby/gems/1.8/gems/sinatra-1.0/lib/sinatra/base.rb:399:in `call'
+ /usr/local/lib/ruby/gems/1.8/gems/haml-3.0.0/lib/sass/plugin/rack.rb:43:in `call'
+ /usr/local/lib/ruby/gems/1.8/gems/rack-1.1.0/lib/rack/showexceptions.rb:24:in `call'
+ /usr/local/lib/ruby/gems/1.8/gems/rack-1.1.0/lib/rack/methodoverride.rb:24:in `call'
+ /usr/local/lib/ruby/gems/1.8/gems/rack-1.1.0/lib/rack/commonlogger.rb:18:in `call'
+ /usr/local/lib/ruby/gems/1.8/gems/sinatra-1.0/lib/sinatra/base.rb:979:in `call'
+ /usr/local/lib/ruby/gems/1.8/gems/sinatra-1.0/lib/sinatra/base.rb:1005:in `synchronize'
+ /usr/local/lib/ruby/gems/1.8/gems/sinatra-1.0/lib/sinatra/base.rb:979:in `call'
+ /usr/local/lib/ruby/gems/1.8/gems/rack-1.1.0/lib/rack/lint.rb:47:in `_call'
+ /usr/local/lib/ruby/gems/1.8/gems/rack-1.1.0/lib/rack/lint.rb:35:in `call'
+ /usr/local/lib/ruby/gems/1.8/gems/rack-1.1.0/lib/rack/showexceptions.rb:24:in `call'
+ /usr/local/lib/ruby/gems/1.8/gems/rack-1.1.0/lib/rack/commonlogger.rb:18:in `call'
+ /usr/local/lib/ruby/gems/1.8/gems/rack-1.1.0/lib/rack/content_length.rb:13:in `call'
+ /usr/local/lib/ruby/gems/1.8/gems/rack-1.1.0/lib/rack/chunked.rb:15:in `call'
+ /usr/local/lib/ruby/gems/1.8/gems/rack-1.1.0/lib/rack/handler/mongrel.rb:67:in `process'
+ /usr/local/lib/ruby/gems/1.8/gems/mongrel-1.1.5/lib/mongrel.rb:159:in `process_client'
+ /usr/local/lib/ruby/gems/1.8/gems/mongrel-1.1.5/lib/mongrel.rb:158:in `each'
+ /usr/local/lib/ruby/gems/1.8/gems/mongrel-1.1.5/lib/mongrel.rb:158:in `process_client'
+ /usr/local/lib/ruby/gems/1.8/gems/mongrel-1.1.5/lib/mongrel.rb:285:in `run'
+ /usr/local/lib/ruby/gems/1.8/gems/mongrel-1.1.5/lib/mongrel.rb:285:in `initialize'
+ /usr/local/lib/ruby/gems/1.8/gems/mongrel-1.1.5/lib/mongrel.rb:285:in `new'
+ /usr/local/lib/ruby/gems/1.8/gems/mongrel-1.1.5/lib/mongrel.rb:285:in `run'
+ /usr/local/lib/ruby/gems/1.8/gems/mongrel-1.1.5/lib/mongrel.rb:268:in `initialize'
+ /usr/local/lib/ruby/gems/1.8/gems/mongrel-1.1.5/lib/mongrel.rb:268:in `new'
+ /usr/local/lib/ruby/gems/1.8/gems/mongrel-1.1.5/lib/mongrel.rb:268:in `run'
+ /usr/local/lib/ruby/gems/1.8/gems/rack-1.1.0/lib/rack/handler/mongrel.rb:38:in `run'
+ /usr/local/lib/ruby/gems/1.8/gems/rack-1.1.0/lib/rack/server.rb:155:in `start'
+ /usr/local/lib/ruby/gems/1.8/gems/rack-1.1.0/lib/rack/server.rb:83:in `start'
+ /usr/local/lib/ruby/gems/1.8/gems/rack-1.1.0/bin/rackup:4
+ /usr/local/lib/ruby/gems/1.8/gems/mercury-0.9.15/bin/mercury:34:in `load'
+ /usr/local/lib/ruby/gems/1.8/gems/mercury-0.9.15/bin/mercury:34
+ /usr/local/bin/mercury:19:in `load'
+ /usr/local/bin/mercury:19
+Errno::ENOENT: No such file or directory - /Users/jackhq/apps/css-demo/wwwroot/__sinatra__/500.png
+	/usr/local/lib/ruby/gems/1.8/gems/mercury-0.9.15/lib/mercury/images.rb:8:in `initialize'
+	/usr/local/lib/ruby/gems/1.8/gems/mercury-0.9.15/lib/mercury/images.rb:8:in `open'
+	/usr/local/lib/ruby/gems/1.8/gems/mercury-0.9.15/lib/mercury/images.rb:8:in `GET (?-mix:(gif|jpg|png|jpeg)$)'
+	/usr/local/lib/ruby/gems/1.8/gems/sinatra-1.0/lib/sinatra/base.rb:863:in `call'
+	/usr/local/lib/ruby/gems/1.8/gems/sinatra-1.0/lib/sinatra/base.rb:863:in `route'
+	/usr/local/lib/ruby/gems/1.8/gems/sinatra-1.0/lib/sinatra/base.rb:521:in `instance_eval'
+	/usr/local/lib/ruby/gems/1.8/gems/sinatra-1.0/lib/sinatra/base.rb:521:in `route_eval'
+	/usr/local/lib/ruby/gems/1.8/gems/sinatra-1.0/lib/sinatra/base.rb:500:in `route!'
+	/usr/local/lib/ruby/gems/1.8/gems/sinatra-1.0/lib/sinatra/base.rb:497:in `catch'
+	/usr/local/lib/ruby/gems/1.8/gems/sinatra-1.0/lib/sinatra/base.rb:497:in `route!'
+	/usr/local/lib/ruby/gems/1.8/gems/sinatra-1.0/lib/sinatra/base.rb:476:in `each'
+	/usr/local/lib/ruby/gems/1.8/gems/sinatra-1.0/lib/sinatra/base.rb:476:in `route!'
+	/usr/local/lib/ruby/gems/1.8/gems/sinatra-1.0/lib/sinatra/base.rb:601:in `dispatch!'
+	/usr/local/lib/ruby/gems/1.8/gems/sinatra-1.0/lib/sinatra/base.rb:411:in `call!'
+	/usr/local/lib/ruby/gems/1.8/gems/sinatra-1.0/lib/sinatra/base.rb:566:in `instance_eval'
+	/usr/local/lib/ruby/gems/1.8/gems/sinatra-1.0/lib/sinatra/base.rb:566:in `invoke'
+	/usr/local/lib/ruby/gems/1.8/gems/sinatra-1.0/lib/sinatra/base.rb:566:in `catch'
+	/usr/local/lib/ruby/gems/1.8/gems/sinatra-1.0/lib/sinatra/base.rb:566:in `invoke'
+	/usr/local/lib/ruby/gems/1.8/gems/sinatra-1.0/lib/sinatra/base.rb:411:in `call!'
+	/usr/local/lib/ruby/gems/1.8/gems/sinatra-1.0/lib/sinatra/base.rb:399:in `call'
+	/usr/local/lib/ruby/gems/1.8/gems/haml-3.0.0/lib/sass/plugin/rack.rb:43:in `call'
+	/usr/local/lib/ruby/gems/1.8/gems/rack-1.1.0/lib/rack/showexceptions.rb:24:in `call'
+	/usr/local/lib/ruby/gems/1.8/gems/rack-1.1.0/lib/rack/methodoverride.rb:24:in `call'
+	/usr/local/lib/ruby/gems/1.8/gems/rack-1.1.0/lib/rack/commonlogger.rb:18:in `call'
+	/usr/local/lib/ruby/gems/1.8/gems/sinatra-1.0/lib/sinatra/base.rb:979:in `call'
+	/usr/local/lib/ruby/gems/1.8/gems/sinatra-1.0/lib/sinatra/base.rb:1005:in `synchronize'
+	/usr/local/lib/ruby/gems/1.8/gems/sinatra-1.0/lib/sinatra/base.rb:979:in `call'
+	/usr/local/lib/ruby/gems/1.8/gems/rack-1.1.0/lib/rack/lint.rb:47:in `_call'
+	/usr/local/lib/ruby/gems/1.8/gems/rack-1.1.0/lib/rack/lint.rb:35:in `call'
+	/usr/local/lib/ruby/gems/1.8/gems/rack-1.1.0/lib/rack/showexceptions.rb:24:in `call'
+	/usr/local/lib/ruby/gems/1.8/gems/rack-1.1.0/lib/rack/commonlogger.rb:18:in `call'
+	/usr/local/lib/ruby/gems/1.8/gems/rack-1.1.0/lib/rack/content_length.rb:13:in `call'
+	/usr/local/lib/ruby/gems/1.8/gems/rack-1.1.0/lib/rack/chunked.rb:15:in `call'
+	/usr/local/lib/ruby/gems/1.8/gems/rack-1.1.0/lib/rack/handler/mongrel.rb:67:in `process'
+	/usr/local/lib/ruby/gems/1.8/gems/mongrel-1.1.5/lib/mongrel.rb:159:in `process_client'
+	/usr/local/lib/ruby/gems/1.8/gems/mongrel-1.1.5/lib/mongrel.rb:158:in `each'
+	/usr/local/lib/ruby/gems/1.8/gems/mongrel-1.1.5/lib/mongrel.rb:158:in `process_client'
+	/usr/local/lib/ruby/gems/1.8/gems/mongrel-1.1.5/lib/mongrel.rb:285:in `run'
+	/usr/local/lib/ruby/gems/1.8/gems/mongrel-1.1.5/lib/mongrel.rb:285:in `initialize'
+	/usr/local/lib/ruby/gems/1.8/gems/mongrel-1.1.5/lib/mongrel.rb:285:in `new'
+	/usr/local/lib/ruby/gems/1.8/gems/mongrel-1.1.5/lib/mongrel.rb:285:in `run'
+	/usr/local/lib/ruby/gems/1.8/gems/mongrel-1.1.5/lib/mongrel.rb:268:in `initialize'
+	/usr/local/lib/ruby/gems/1.8/gems/mongrel-1.1.5/lib/mongrel.rb:268:in `new'
+	/usr/local/lib/ruby/gems/1.8/gems/mongrel-1.1.5/lib/mongrel.rb:268:in `run'
+	/usr/local/lib/ruby/gems/1.8/gems/rack-1.1.0/lib/rack/handler/mongrel.rb:38:in `run'
+	/usr/local/lib/ruby/gems/1.8/gems/rack-1.1.0/lib/rack/server.rb:155:in `start'
+	/usr/local/lib/ruby/gems/1.8/gems/rack-1.1.0/lib/rack/server.rb:83:in `start'
+	/usr/local/lib/ruby/gems/1.8/gems/rack-1.1.0/bin/rackup:4
+	/usr/local/lib/ruby/gems/1.8/gems/mercury-0.9.15/bin/mercury:34:in `load'
+	/usr/local/lib/ruby/gems/1.8/gems/mercury-0.9.15/bin/mercury:34
+	/usr/local/bin/mercury:19:in `load'
+	/usr/local/bin/mercury:19
+127.0.0.1 - - [25/Jun/2010 09:34:14] "GET /__sinatra__/500.png HTTP/1.1" 500 138197 0.1585
+127.0.0.1 - - [25/Jun/2010 09:34:14] "GET /__sinatra__/500.png HTTP/1.1" 500 138197 0.1602
+127.0.0.1 - - [25/Jun/2010 09:34:20] "GET / HTTP/1.1" 200 3055 0.0535
+127.0.0.1 - - [25/Jun/2010 09:34:20] "GET / HTTP/1.1" 200 3055 0.0555
+127.0.0.1 - - [25/Jun/2010 09:34:20] "GET /stylesheets/reset.css HTTP/1.1" 304 - 0.0015
+127.0.0.1 - - [25/Jun/2010 09:34:20] "GET /stylesheets/reset.css HTTP/1.1" 304 - 0.0050
+127.0.0.1 - - [25/Jun/2010 09:34:20] "GET /stylesheets/text.css HTTP/1.1" 304 - 0.0006
+127.0.0.1 - - [25/Jun/2010 09:34:20] "GET /stylesheets/text.css HTTP/1.1" 304 - 0.0023
+127.0.0.1 - - [25/Jun/2010 09:34:20] "GET /stylesheets/960.css HTTP/1.1" 304 - 0.0016
+127.0.0.1 - - [25/Jun/2010 09:34:20] "GET /stylesheets/960.css HTTP/1.1" 304 - 0.0032
+127.0.0.1 - - [25/Jun/2010 09:34:20] "GET /stylesheets/smoothness/jquery-ui-1.8.custom.css HTTP/1.1" 304 - 0.0007
+127.0.0.1 - - [25/Jun/2010 09:34:20] "GET /stylesheets/smoothness/jquery-ui-1.8.custom.css HTTP/1.1" 304 - 0.0027
+127.0.0.1 - - [25/Jun/2010 09:34:20] "GET /stylesheets/app.css HTTP/1.1" 304 - 0.0006
+127.0.0.1 - - [25/Jun/2010 09:34:20] "GET /stylesheets/app.css HTTP/1.1" 304 - 0.0021
+127.0.0.1 - - [25/Jun/2010 09:34:20] "GET /javascripts/jquery-1.4.2.min.js HTTP/1.1" 304 - 0.0006
+127.0.0.1 - - [25/Jun/2010 09:34:20] "GET /javascripts/jquery-1.4.2.min.js HTTP/1.1" 304 - 0.0020
+127.0.0.1 - - [25/Jun/2010 09:34:20] "GET /javascripts/jquery-ui-1.8.custom.min.js HTTP/1.1" 304 - 0.0015
+127.0.0.1 - - [25/Jun/2010 09:34:20] "GET /javascripts/jquery-ui-1.8.custom.min.js HTTP/1.1" 304 - 0.0032
+127.0.0.1 - - [25/Jun/2010 09:34:20] "GET /javascripts/coffee-script.js HTTP/1.1" 304 - 0.0006
+127.0.0.1 - - [25/Jun/2010 09:34:20] "GET /javascripts/coffee-script.js HTTP/1.1" 304 - 0.0021
+127.0.0.1 - - [25/Jun/2010 09:34:35] "GET / HTTP/1.1" 200 3056 0.0511
+127.0.0.1 - - [25/Jun/2010 09:34:35] "GET / HTTP/1.1" 200 3056 0.0529
+127.0.0.1 - - [25/Jun/2010 09:34:35] "GET /stylesheets/reset.css HTTP/1.1" 304 - 0.0011
+127.0.0.1 - - [25/Jun/2010 09:34:35] "GET /stylesheets/reset.css HTTP/1.1" 304 - 0.0036
+127.0.0.1 - - [25/Jun/2010 09:34:35] "GET /stylesheets/text.css HTTP/1.1" 304 - 0.0007
+127.0.0.1 - - [25/Jun/2010 09:34:35] "GET /stylesheets/text.css HTTP/1.1" 304 - 0.0024
+127.0.0.1 - - [25/Jun/2010 09:34:35] "GET /stylesheets/960.css HTTP/1.1" 304 - 0.0006
+127.0.0.1 - - [25/Jun/2010 09:34:35] "GET /stylesheets/960.css HTTP/1.1" 304 - 0.0021
+127.0.0.1 - - [25/Jun/2010 09:34:35] "GET /stylesheets/smoothness/jquery-ui-1.8.custom.css HTTP/1.1" 304 - 0.0006
+127.0.0.1 - - [25/Jun/2010 09:34:35] "GET /stylesheets/smoothness/jquery-ui-1.8.custom.css HTTP/1.1" 304 - 0.0021
+127.0.0.1 - - [25/Jun/2010 09:34:35] "GET /stylesheets/app.css HTTP/1.1" 304 - 0.0006
+127.0.0.1 - - [25/Jun/2010 09:34:35] "GET /stylesheets/app.css HTTP/1.1" 304 - 0.0021
+127.0.0.1 - - [25/Jun/2010 09:34:35] "GET /javascripts/jquery-1.4.2.min.js HTTP/1.1" 304 - 0.0006
+127.0.0.1 - - [25/Jun/2010 09:34:35] "GET /javascripts/jquery-1.4.2.min.js HTTP/1.1" 304 - 0.0022
+127.0.0.1 - - [25/Jun/2010 09:34:35] "GET /javascripts/jquery-ui-1.8.custom.min.js HTTP/1.1" 304 - 0.0018
+127.0.0.1 - - [25/Jun/2010 09:34:35] "GET /javascripts/jquery-ui-1.8.custom.min.js HTTP/1.1" 304 - 0.0033
+127.0.0.1 - - [25/Jun/2010 09:34:35] "GET /javascripts/coffee-script.js HTTP/1.1" 304 - 0.0007
+127.0.0.1 - - [25/Jun/2010 09:34:35] "GET /javascripts/coffee-script.js HTTP/1.1" 304 - 0.0021
+127.0.0.1 - - [25/Jun/2010 09:34:43] "GET / HTTP/1.1" 200 3068 0.0534
+127.0.0.1 - - [25/Jun/2010 09:34:43] "GET / HTTP/1.1" 200 3068 0.0553
+127.0.0.1 - - [25/Jun/2010 09:34:43] "GET /stylesheets/reset.css HTTP/1.1" 304 - 0.0012
+127.0.0.1 - - [25/Jun/2010 09:34:43] "GET /stylesheets/reset.css HTTP/1.1" 304 - 0.0043
+127.0.0.1 - - [25/Jun/2010 09:34:43] "GET /stylesheets/text.css HTTP/1.1" 304 - 0.0007
+127.0.0.1 - - [25/Jun/2010 09:34:43] "GET /stylesheets/text.css HTTP/1.1" 304 - 0.0025
+127.0.0.1 - - [25/Jun/2010 09:34:43] "GET /stylesheets/960.css HTTP/1.1" 304 - 0.0006
+127.0.0.1 - - [25/Jun/2010 09:34:43] "GET /stylesheets/960.css HTTP/1.1" 304 - 0.0022
+127.0.0.1 - - [25/Jun/2010 09:34:43] "GET /stylesheets/smoothness/jquery-ui-1.8.custom.css HTTP/1.1" 304 - 0.0007
+127.0.0.1 - - [25/Jun/2010 09:34:43] "GET /stylesheets/smoothness/jquery-ui-1.8.custom.css HTTP/1.1" 304 - 0.0685
+127.0.0.1 - - [25/Jun/2010 09:34:43] "GET /stylesheets/app.css HTTP/1.1" 304 - 0.0014
+127.0.0.1 - - [25/Jun/2010 09:34:43] "GET /stylesheets/app.css HTTP/1.1" 304 - 0.0030
+127.0.0.1 - - [25/Jun/2010 09:34:43] "GET /javascripts/jquery-1.4.2.min.js HTTP/1.1" 304 - 0.0006
+127.0.0.1 - - [25/Jun/2010 09:34:43] "GET /javascripts/jquery-1.4.2.min.js HTTP/1.1" 304 - 0.0022
+127.0.0.1 - - [25/Jun/2010 09:34:43] "GET /javascripts/jquery-ui-1.8.custom.min.js HTTP/1.1" 304 - 0.0006
+127.0.0.1 - - [25/Jun/2010 09:34:43] "GET /javascripts/jquery-ui-1.8.custom.min.js HTTP/1.1" 304 - 0.0021
+127.0.0.1 - - [25/Jun/2010 09:34:43] "GET /javascripts/coffee-script.js HTTP/1.1" 304 - 0.0006
+127.0.0.1 - - [25/Jun/2010 09:34:43] "GET /javascripts/coffee-script.js HTTP/1.1" 304 - 0.0030
+127.0.0.1 - - [25/Jun/2010 09:34:49] "GET / HTTP/1.1" 200 3013 0.0517
+127.0.0.1 - - [25/Jun/2010 09:34:49] "GET / HTTP/1.1" 200 3013 0.0540
+127.0.0.1 - - [25/Jun/2010 09:34:49] "GET /stylesheets/reset.css HTTP/1.1" 304 - 0.0011
+127.0.0.1 - - [25/Jun/2010 09:34:49] "GET /stylesheets/reset.css HTTP/1.1" 304 - 0.0051
+127.0.0.1 - - [25/Jun/2010 09:34:49] "GET /stylesheets/text.css HTTP/1.1" 304 - 0.0006
+127.0.0.1 - - [25/Jun/2010 09:34:49] "GET /stylesheets/text.css HTTP/1.1" 304 - 0.0021
+127.0.0.1 - - [25/Jun/2010 09:34:49] "GET /stylesheets/960.css HTTP/1.1" 304 - 0.0007
+127.0.0.1 - - [25/Jun/2010 09:34:49] "GET /stylesheets/960.css HTTP/1.1" 304 - 0.0029
+127.0.0.1 - - [25/Jun/2010 09:34:49] "GET /stylesheets/smoothness/jquery-ui-1.8.custom.css HTTP/1.1" 304 - 0.0008
+127.0.0.1 - - [25/Jun/2010 09:34:49] "GET /stylesheets/smoothness/jquery-ui-1.8.custom.css HTTP/1.1" 304 - 0.0027
+127.0.0.1 - - [25/Jun/2010 09:34:49] "GET /stylesheets/app.css HTTP/1.1" 304 - 0.0006
+127.0.0.1 - - [25/Jun/2010 09:34:49] "GET /stylesheets/app.css HTTP/1.1" 304 - 0.0020
+127.0.0.1 - - [25/Jun/2010 09:34:49] "GET /javascripts/jquery-1.4.2.min.js HTTP/1.1" 304 - 0.0006
+127.0.0.1 - - [25/Jun/2010 09:34:49] "GET /javascripts/jquery-1.4.2.min.js HTTP/1.1" 304 - 0.0020
+127.0.0.1 - - [25/Jun/2010 09:34:49] "GET /javascripts/jquery-ui-1.8.custom.min.js HTTP/1.1" 304 - 0.0006
+127.0.0.1 - - [25/Jun/2010 09:34:49] "GET /javascripts/jquery-ui-1.8.custom.min.js HTTP/1.1" 304 - 0.0021
+127.0.0.1 - - [25/Jun/2010 09:34:49] "GET /javascripts/coffee-script.js HTTP/1.1" 304 - 0.0006
+127.0.0.1 - - [25/Jun/2010 09:34:49] "GET /javascripts/coffee-script.js HTTP/1.1" 304 - 0.0020
+127.0.0.1 - - [25/Jun/2010 09:35:01] "GET / HTTP/1.1" 200 3067 0.0527
+127.0.0.1 - - [25/Jun/2010 09:35:01] "GET / HTTP/1.1" 200 3067 0.0558
+127.0.0.1 - - [25/Jun/2010 09:35:01] "GET /stylesheets/reset.css HTTP/1.1" 304 - 0.0011
+127.0.0.1 - - [25/Jun/2010 09:35:01] "GET /stylesheets/reset.css HTTP/1.1" 304 - 0.0037
+127.0.0.1 - - [25/Jun/2010 09:35:01] "GET /stylesheets/text.css HTTP/1.1" 304 - 0.0006
+127.0.0.1 - - [25/Jun/2010 09:35:01] "GET /stylesheets/text.css HTTP/1.1" 304 - 0.0023
+127.0.0.1 - - [25/Jun/2010 09:35:01] "GET /stylesheets/960.css HTTP/1.1" 304 - 0.0006
+127.0.0.1 - - [25/Jun/2010 09:35:01] "GET /stylesheets/960.css HTTP/1.1" 304 - 0.0021
+127.0.0.1 - - [25/Jun/2010 09:35:01] "GET /stylesheets/smoothness/jquery-ui-1.8.custom.css HTTP/1.1" 304 - 0.0007
+127.0.0.1 - - [25/Jun/2010 09:35:01] "GET /stylesheets/smoothness/jquery-ui-1.8.custom.css HTTP/1.1" 304 - 0.0034
+127.0.0.1 - - [25/Jun/2010 09:35:01] "GET /stylesheets/app.css HTTP/1.1" 304 - 0.0007
+127.0.0.1 - - [25/Jun/2010 09:35:01] "GET /stylesheets/app.css HTTP/1.1" 304 - 0.0022
+127.0.0.1 - - [25/Jun/2010 09:35:01] "GET /javascripts/jquery-1.4.2.min.js HTTP/1.1" 304 - 0.0007
+127.0.0.1 - - [25/Jun/2010 09:35:01] "GET /javascripts/jquery-1.4.2.min.js HTTP/1.1" 304 - 0.0021
+127.0.0.1 - - [25/Jun/2010 09:35:01] "GET /javascripts/jquery-ui-1.8.custom.min.js HTTP/1.1" 304 - 0.0006
+127.0.0.1 - - [25/Jun/2010 09:35:01] "GET /javascripts/jquery-ui-1.8.custom.min.js HTTP/1.1" 304 - 0.0021
+127.0.0.1 - - [25/Jun/2010 09:35:01] "GET /javascripts/coffee-script.js HTTP/1.1" 304 - 0.0006
+127.0.0.1 - - [25/Jun/2010 09:35:01] "GET /javascripts/coffee-script.js HTTP/1.1" 304 - 0.0021
+127.0.0.1 - - [25/Jun/2010 09:35:11] "GET / HTTP/1.1" 200 3055 0.0512
+127.0.0.1 - - [25/Jun/2010 09:35:11] "GET / HTTP/1.1" 200 3055 0.0528
+127.0.0.1 - - [25/Jun/2010 09:35:11] "GET /stylesheets/reset.css HTTP/1.1" 304 - 0.0011
+127.0.0.1 - - [25/Jun/2010 09:35:11] "GET /stylesheets/reset.css HTTP/1.1" 304 - 0.0044
+127.0.0.1 - - [25/Jun/2010 09:35:11] "GET /stylesheets/text.css HTTP/1.1" 304 - 0.0006
+127.0.0.1 - - [25/Jun/2010 09:35:11] "GET /stylesheets/text.css HTTP/1.1" 304 - 0.0682
+127.0.0.1 - - [25/Jun/2010 09:35:11] "GET /stylesheets/960.css HTTP/1.1" 304 - 0.0006
+127.0.0.1 - - [25/Jun/2010 09:35:11] "GET /stylesheets/960.css HTTP/1.1" 304 - 0.0020
+127.0.0.1 - - [25/Jun/2010 09:35:11] "GET /stylesheets/smoothness/jquery-ui-1.8.custom.css HTTP/1.1" 304 - 0.0006
+127.0.0.1 - - [25/Jun/2010 09:35:11] "GET /stylesheets/smoothness/jquery-ui-1.8.custom.css HTTP/1.1" 304 - 0.0021
+127.0.0.1 - - [25/Jun/2010 09:35:11] "GET /stylesheets/app.css HTTP/1.1" 304 - 0.0006
+127.0.0.1 - - [25/Jun/2010 09:35:11] "GET /stylesheets/app.css HTTP/1.1" 304 - 0.0022
+127.0.0.1 - - [25/Jun/2010 09:35:11] "GET /javascripts/jquery-1.4.2.min.js HTTP/1.1" 304 - 0.0006
+127.0.0.1 - - [25/Jun/2010 09:35:11] "GET /javascripts/jquery-1.4.2.min.js HTTP/1.1" 304 - 0.0033
+127.0.0.1 - - [25/Jun/2010 09:35:11] "GET /javascripts/jquery-ui-1.8.custom.min.js HTTP/1.1" 304 - 0.0006
+127.0.0.1 - - [25/Jun/2010 09:35:11] "GET /javascripts/jquery-ui-1.8.custom.min.js HTTP/1.1" 304 - 0.0021
+127.0.0.1 - - [25/Jun/2010 09:35:11] "GET /javascripts/coffee-script.js HTTP/1.1" 304 - 0.0006
+127.0.0.1 - - [25/Jun/2010 09:35:11] "GET /javascripts/coffee-script.js HTTP/1.1" 304 - 0.0022
+127.0.0.1 - - [25/Jun/2010 09:35:28] "GET / HTTP/1.1" 200 3085 0.0537
+127.0.0.1 - - [25/Jun/2010 09:35:28] "GET / HTTP/1.1" 200 3085 0.0571
+127.0.0.1 - - [25/Jun/2010 09:35:28] "GET /stylesheets/reset.css HTTP/1.1" 304 - 0.0011
+127.0.0.1 - - [25/Jun/2010 09:35:28] "GET /stylesheets/reset.css HTTP/1.1" 304 - 0.0035
+127.0.0.1 - - [25/Jun/2010 09:35:28] "GET /stylesheets/text.css HTTP/1.1" 304 - 0.0008
+127.0.0.1 - - [25/Jun/2010 09:35:28] "GET /stylesheets/text.css HTTP/1.1" 304 - 0.0027
+127.0.0.1 - - [25/Jun/2010 09:35:28] "GET /stylesheets/960.css HTTP/1.1" 304 - 0.0006
+127.0.0.1 - - [25/Jun/2010 09:35:28] "GET /stylesheets/960.css HTTP/1.1" 304 - 0.0022
+127.0.0.1 - - [25/Jun/2010 09:35:28] "GET /stylesheets/smoothness/jquery-ui-1.8.custom.css HTTP/1.1" 304 - 0.0006
+127.0.0.1 - - [25/Jun/2010 09:35:28] "GET /stylesheets/smoothness/jquery-ui-1.8.custom.css HTTP/1.1" 304 - 0.0021
+127.0.0.1 - - [25/Jun/2010 09:35:28] "GET /stylesheets/app.css HTTP/1.1" 304 - 0.0006
+127.0.0.1 - - [25/Jun/2010 09:35:28] "GET /stylesheets/app.css HTTP/1.1" 304 - 0.0021
+127.0.0.1 - - [25/Jun/2010 09:35:28] "GET /javascripts/jquery-1.4.2.min.js HTTP/1.1" 304 - 0.0006
+127.0.0.1 - - [25/Jun/2010 09:35:28] "GET /javascripts/jquery-1.4.2.min.js HTTP/1.1" 304 - 0.0025
+127.0.0.1 - - [25/Jun/2010 09:35:28] "GET /javascripts/jquery-ui-1.8.custom.min.js HTTP/1.1" 304 - 0.0006
+127.0.0.1 - - [25/Jun/2010 09:35:28] "GET /javascripts/jquery-ui-1.8.custom.min.js HTTP/1.1" 304 - 0.0021
+127.0.0.1 - - [25/Jun/2010 09:35:28] "GET /javascripts/coffee-script.js HTTP/1.1" 304 - 0.0006
+127.0.0.1 - - [25/Jun/2010 09:35:28] "GET /javascripts/coffee-script.js HTTP/1.1" 304 - 0.0029
+127.0.0.1 - - [25/Jun/2010 09:35:48] "GET / HTTP/1.1" 200 3110 0.0589
+127.0.0.1 - - [25/Jun/2010 09:35:48] "GET / HTTP/1.1" 200 3110 0.0610
+127.0.0.1 - - [25/Jun/2010 09:35:48] "GET /stylesheets/reset.css HTTP/1.1" 304 - 0.0011
+127.0.0.1 - - [25/Jun/2010 09:35:48] "GET /stylesheets/reset.css HTTP/1.1" 304 - 0.0038
+127.0.0.1 - - [25/Jun/2010 09:35:48] "GET /stylesheets/text.css HTTP/1.1" 304 - 0.0006
+127.0.0.1 - - [25/Jun/2010 09:35:48] "GET /stylesheets/text.css HTTP/1.1" 304 - 0.0024
+127.0.0.1 - - [25/Jun/2010 09:35:48] "GET /stylesheets/960.css HTTP/1.1" 304 - 0.0007
+127.0.0.1 - - [25/Jun/2010 09:35:48] "GET /stylesheets/960.css HTTP/1.1" 304 - 0.0022
+127.0.0.1 - - [25/Jun/2010 09:35:48] "GET /stylesheets/smoothness/jquery-ui-1.8.custom.css HTTP/1.1" 304 - 0.0037
+127.0.0.1 - - [25/Jun/2010 09:35:48] "GET /stylesheets/smoothness/jquery-ui-1.8.custom.css HTTP/1.1" 304 - 0.0052
+127.0.0.1 - - [25/Jun/2010 09:35:48] "GET /stylesheets/app.css HTTP/1.1" 304 - 0.0006
+127.0.0.1 - - [25/Jun/2010 09:35:48] "GET /stylesheets/app.css HTTP/1.1" 304 - 0.0020
+127.0.0.1 - - [25/Jun/2010 09:35:48] "GET /javascripts/jquery-1.4.2.min.js HTTP/1.1" 304 - 0.0006
+127.0.0.1 - - [25/Jun/2010 09:35:48] "GET /javascripts/jquery-1.4.2.min.js HTTP/1.1" 304 - 0.0020
+127.0.0.1 - - [25/Jun/2010 09:35:48] "GET /javascripts/jquery-ui-1.8.custom.min.js HTTP/1.1" 304 - 0.0010
+127.0.0.1 - - [25/Jun/2010 09:35:48] "GET /javascripts/jquery-ui-1.8.custom.min.js HTTP/1.1" 304 - 0.0026
+127.0.0.1 - - [25/Jun/2010 09:35:48] "GET /javascripts/coffee-script.js HTTP/1.1" 304 - 0.0006
+127.0.0.1 - - [25/Jun/2010 09:35:48] "GET /javascripts/coffee-script.js HTTP/1.1" 304 - 0.0021
+127.0.0.1 - - [25/Jun/2010 09:36:03] "GET / HTTP/1.1" 200 3134 0.1189
+127.0.0.1 - - [25/Jun/2010 09:36:03] "GET / HTTP/1.1" 200 3134 0.1207
+127.0.0.1 - - [25/Jun/2010 09:36:03] "GET /stylesheets/reset.css HTTP/1.1" 304 - 0.0009
+127.0.0.1 - - [25/Jun/2010 09:36:03] "GET /stylesheets/reset.css HTTP/1.1" 304 - 0.0036
+127.0.0.1 - - [25/Jun/2010 09:36:03] "GET /stylesheets/text.css HTTP/1.1" 304 - 0.0021
+127.0.0.1 - - [25/Jun/2010 09:36:03] "GET /stylesheets/text.css HTTP/1.1" 304 - 0.0039
+127.0.0.1 - - [25/Jun/2010 09:36:03] "GET /stylesheets/960.css HTTP/1.1" 304 - 0.0006
+127.0.0.1 - - [25/Jun/2010 09:36:03] "GET /stylesheets/960.css HTTP/1.1" 304 - 0.0020
+127.0.0.1 - - [25/Jun/2010 09:36:03] "GET /stylesheets/smoothness/jquery-ui-1.8.custom.css HTTP/1.1" 304 - 0.0006
+127.0.0.1 - - [25/Jun/2010 09:36:03] "GET /stylesheets/smoothness/jquery-ui-1.8.custom.css HTTP/1.1" 304 - 0.0020
+127.0.0.1 - - [25/Jun/2010 09:36:03] "GET /stylesheets/app.css HTTP/1.1" 304 - 0.0023
+127.0.0.1 - - [25/Jun/2010 09:36:03] "GET /stylesheets/app.css HTTP/1.1" 304 - 0.0046
+127.0.0.1 - - [25/Jun/2010 09:36:03] "GET /javascripts/jquery-1.4.2.min.js HTTP/1.1" 304 - 0.0006
+127.0.0.1 - - [25/Jun/2010 09:36:03] "GET /javascripts/jquery-1.4.2.min.js HTTP/1.1" 304 - 0.0021
+127.0.0.1 - - [25/Jun/2010 09:36:03] "GET /javascripts/jquery-ui-1.8.custom.min.js HTTP/1.1" 304 - 0.0006
+127.0.0.1 - - [25/Jun/2010 09:36:03] "GET /javascripts/jquery-ui-1.8.custom.min.js HTTP/1.1" 304 - 0.0021
+127.0.0.1 - - [25/Jun/2010 09:36:03] "GET /javascripts/coffee-script.js HTTP/1.1" 304 - 0.0006
+127.0.0.1 - - [25/Jun/2010 09:36:03] "GET /javascripts/coffee-script.js HTTP/1.1" 304 - 0.0023
+127.0.0.1 - - [25/Jun/2010 09:36:17] "GET / HTTP/1.1" 200 3160 0.0567
+127.0.0.1 - - [25/Jun/2010 09:36:17] "GET / HTTP/1.1" 200 3160 0.0584
+127.0.0.1 - - [25/Jun/2010 09:36:17] "GET /stylesheets/reset.css HTTP/1.1" 304 - 0.0007
+127.0.0.1 - - [25/Jun/2010 09:36:17] "GET /stylesheets/reset.css HTTP/1.1" 304 - 0.0032
+127.0.0.1 - - [25/Jun/2010 09:36:17] "GET /stylesheets/text.css HTTP/1.1" 304 - 0.0008
+127.0.0.1 - - [25/Jun/2010 09:36:17] "GET /stylesheets/text.css HTTP/1.1" 304 - 0.0023
+127.0.0.1 - - [25/Jun/2010 09:36:17] "GET /stylesheets/960.css HTTP/1.1" 304 - 0.0006
+127.0.0.1 - - [25/Jun/2010 09:36:17] "GET /stylesheets/960.css HTTP/1.1" 304 - 0.0021
+127.0.0.1 - - [25/Jun/2010 09:36:17] "GET /stylesheets/smoothness/jquery-ui-1.8.custom.css HTTP/1.1" 304 - 0.0006
+127.0.0.1 - - [25/Jun/2010 09:36:17] "GET /stylesheets/smoothness/jquery-ui-1.8.custom.css HTTP/1.1" 304 - 0.0021
+127.0.0.1 - - [25/Jun/2010 09:36:17] "GET /stylesheets/app.css HTTP/1.1" 304 - 0.0006
+127.0.0.1 - - [25/Jun/2010 09:36:17] "GET /stylesheets/app.css HTTP/1.1" 304 - 0.0020
+127.0.0.1 - - [25/Jun/2010 09:36:17] "GET /javascripts/jquery-1.4.2.min.js HTTP/1.1" 304 - 0.0016
+127.0.0.1 - - [25/Jun/2010 09:36:17] "GET /javascripts/jquery-1.4.2.min.js HTTP/1.1" 304 - 0.0032
+127.0.0.1 - - [25/Jun/2010 09:36:17] "GET /javascripts/jquery-ui-1.8.custom.min.js HTTP/1.1" 304 - 0.0006
+127.0.0.1 - - [25/Jun/2010 09:36:17] "GET /javascripts/jquery-ui-1.8.custom.min.js HTTP/1.1" 304 - 0.0022
+127.0.0.1 - - [25/Jun/2010 09:36:17] "GET /javascripts/coffee-script.js HTTP/1.1" 304 - 0.0006
+127.0.0.1 - - [25/Jun/2010 09:36:17] "GET /javascripts/coffee-script.js HTTP/1.1" 304 - 0.0021
+127.0.0.1 - - [25/Jun/2010 09:36:39] "GET / HTTP/1.1" 200 3168 0.0566
+127.0.0.1 - - [25/Jun/2010 09:36:39] "GET / HTTP/1.1" 200 3168 0.0594
+127.0.0.1 - - [25/Jun/2010 09:36:39] "GET /stylesheets/reset.css HTTP/1.1" 304 - 0.0009
+127.0.0.1 - - [25/Jun/2010 09:36:39] "GET /stylesheets/reset.css HTTP/1.1" 304 - 0.0036
+127.0.0.1 - - [25/Jun/2010 09:36:39] "GET /stylesheets/text.css HTTP/1.1" 304 - 0.0008
+127.0.0.1 - - [25/Jun/2010 09:36:39] "GET /stylesheets/text.css HTTP/1.1" 304 - 0.0025
+127.0.0.1 - - [25/Jun/2010 09:36:39] "GET /stylesheets/960.css HTTP/1.1" 304 - 0.0006
+127.0.0.1 - - [25/Jun/2010 09:36:39] "GET /stylesheets/960.css HTTP/1.1" 304 - 0.0020
+127.0.0.1 - - [25/Jun/2010 09:36:39] "GET /stylesheets/smoothness/jquery-ui-1.8.custom.css HTTP/1.1" 304 - 0.0006
+127.0.0.1 - - [25/Jun/2010 09:36:39] "GET /stylesheets/smoothness/jquery-ui-1.8.custom.css HTTP/1.1" 304 - 0.0021
+127.0.0.1 - - [25/Jun/2010 09:36:39] "GET /stylesheets/app.css HTTP/1.1" 304 - 0.0006
+127.0.0.1 - - [25/Jun/2010 09:36:39] "GET /stylesheets/app.css HTTP/1.1" 304 - 0.0020
+127.0.0.1 - - [25/Jun/2010 09:36:39] "GET /javascripts/jquery-1.4.2.min.js HTTP/1.1" 304 - 0.0015
+127.0.0.1 - - [25/Jun/2010 09:36:39] "GET /javascripts/jquery-1.4.2.min.js HTTP/1.1" 304 - 0.0030
+127.0.0.1 - - [25/Jun/2010 09:36:40] "GET /javascripts/coffee-script.js HTTP/1.1" 304 - 0.0006
+127.0.0.1 - - [25/Jun/2010 09:36:40] "GET /javascripts/coffee-script.js HTTP/1.1" 304 - 0.0022
+127.0.0.1 - - [25/Jun/2010 09:36:40] "GET /javascripts/jquery-ui-1.8.custom.min.js HTTP/1.1" 304 - 0.0688
+127.0.0.1 - - [25/Jun/2010 09:36:40] "GET /javascripts/jquery-ui-1.8.custom.min.js HTTP/1.1" 304 - 0.0709
+127.0.0.1 - - [25/Jun/2010 09:36:58] "GET / HTTP/1.1" 200 3199 0.0589
+127.0.0.1 - - [25/Jun/2010 09:36:58] "GET / HTTP/1.1" 200 3199 0.0610
+127.0.0.1 - - [25/Jun/2010 09:36:58] "GET /stylesheets/reset.css HTTP/1.1" 304 - 0.0007
+127.0.0.1 - - [25/Jun/2010 09:36:58] "GET /stylesheets/reset.css HTTP/1.1" 304 - 0.0040
+127.0.0.1 - - [25/Jun/2010 09:36:58] "GET /stylesheets/text.css HTTP/1.1" 304 - 0.0006
+127.0.0.1 - - [25/Jun/2010 09:36:58] "GET /stylesheets/text.css HTTP/1.1" 304 - 0.0021
+127.0.0.1 - - [25/Jun/2010 09:36:58] "GET /stylesheets/960.css HTTP/1.1" 304 - 0.0006
+127.0.0.1 - - [25/Jun/2010 09:36:58] "GET /stylesheets/960.css HTTP/1.1" 304 - 0.0021
+127.0.0.1 - - [25/Jun/2010 09:36:58] "GET /stylesheets/smoothness/jquery-ui-1.8.custom.css HTTP/1.1" 304 - 0.0008
+127.0.0.1 - - [25/Jun/2010 09:36:58] "GET /stylesheets/smoothness/jquery-ui-1.8.custom.css HTTP/1.1" 304 - 0.0025
+127.0.0.1 - - [25/Jun/2010 09:36:58] "GET /stylesheets/app.css HTTP/1.1" 304 - 0.0006
+127.0.0.1 - - [25/Jun/2010 09:36:58] "GET /stylesheets/app.css HTTP/1.1" 304 - 0.0021
+127.0.0.1 - - [25/Jun/2010 09:36:58] "GET /javascripts/jquery-1.4.2.min.js HTTP/1.1" 304 - 0.0006
+127.0.0.1 - - [25/Jun/2010 09:36:58] "GET /javascripts/jquery-1.4.2.min.js HTTP/1.1" 304 - 0.0021
+127.0.0.1 - - [25/Jun/2010 09:36:58] "GET /javascripts/jquery-ui-1.8.custom.min.js HTTP/1.1" 304 - 0.0007
+127.0.0.1 - - [25/Jun/2010 09:36:58] "GET /javascripts/jquery-ui-1.8.custom.min.js HTTP/1.1" 304 - 0.0026
+127.0.0.1 - - [25/Jun/2010 09:36:58] "GET /javascripts/coffee-script.js HTTP/1.1" 304 - 0.0006
+127.0.0.1 - - [25/Jun/2010 09:36:58] "GET /javascripts/coffee-script.js HTTP/1.1" 304 - 0.0023
+127.0.0.1 - - [25/Jun/2010 09:37:49] "GET / HTTP/1.1" 200 3200 0.0587
+127.0.0.1 - - [25/Jun/2010 09:37:49] "GET / HTTP/1.1" 200 3200 0.0605
+127.0.0.1 - - [25/Jun/2010 09:37:49] "GET /stylesheets/reset.css HTTP/1.1" 304 - 0.0009
+127.0.0.1 - - [25/Jun/2010 09:37:49] "GET /stylesheets/reset.css HTTP/1.1" 304 - 0.0036
+127.0.0.1 - - [25/Jun/2010 09:37:49] "GET /stylesheets/text.css HTTP/1.1" 304 - 0.0021
+127.0.0.1 - - [25/Jun/2010 09:37:49] "GET /stylesheets/text.css HTTP/1.1" 304 - 0.0040
+127.0.0.1 - - [25/Jun/2010 09:37:49] "GET /stylesheets/960.css HTTP/1.1" 304 - 0.0006
+127.0.0.1 - - [25/Jun/2010 09:37:49] "GET /stylesheets/960.css HTTP/1.1" 304 - 0.0020
+127.0.0.1 - - [25/Jun/2010 09:37:49] "GET /stylesheets/smoothness/jquery-ui-1.8.custom.css HTTP/1.1" 304 - 0.0006
+127.0.0.1 - - [25/Jun/2010 09:37:49] "GET /stylesheets/smoothness/jquery-ui-1.8.custom.css HTTP/1.1" 304 - 0.0021
+127.0.0.1 - - [25/Jun/2010 09:37:49] "GET /stylesheets/app.css HTTP/1.1" 304 - 0.0006
+127.0.0.1 - - [25/Jun/2010 09:37:49] "GET /stylesheets/app.css HTTP/1.1" 304 - 0.0024
+127.0.0.1 - - [25/Jun/2010 09:37:49] "GET /javascripts/jquery-1.4.2.min.js HTTP/1.1" 304 - 0.0006
+127.0.0.1 - - [25/Jun/2010 09:37:49] "GET /javascripts/jquery-1.4.2.min.js HTTP/1.1" 304 - 0.0022
+127.0.0.1 - - [25/Jun/2010 09:37:49] "GET /javascripts/jquery-ui-1.8.custom.min.js HTTP/1.1" 304 - 0.0006
+127.0.0.1 - - [25/Jun/2010 09:37:49] "GET /javascripts/jquery-ui-1.8.custom.min.js HTTP/1.1" 304 - 0.0024
+127.0.0.1 - - [25/Jun/2010 09:37:49] "GET /javascripts/coffee-script.js HTTP/1.1" 304 - 0.0007
+127.0.0.1 - - [25/Jun/2010 09:37:49] "GET /javascripts/coffee-script.js HTTP/1.1" 304 - 0.0022
+127.0.0.1 - - [25/Jun/2010 09:38:27] "GET / HTTP/1.1" 200 3237 0.0578
+127.0.0.1 - - [25/Jun/2010 09:38:27] "GET / HTTP/1.1" 200 3237 0.0607
+127.0.0.1 - - [25/Jun/2010 09:38:27] "GET /stylesheets/reset.css HTTP/1.1" 304 - 0.0009
+127.0.0.1 - - [25/Jun/2010 09:38:27] "GET /stylesheets/reset.css HTTP/1.1" 304 - 0.0036
+127.0.0.1 - - [25/Jun/2010 09:38:27] "GET /stylesheets/text.css HTTP/1.1" 304 - 0.0008
+127.0.0.1 - - [25/Jun/2010 09:38:27] "GET /stylesheets/text.css HTTP/1.1" 304 - 0.0028
+127.0.0.1 - - [25/Jun/2010 09:38:27] "GET /stylesheets/960.css HTTP/1.1" 304 - 0.0006
+127.0.0.1 - - [25/Jun/2010 09:38:28] "GET /stylesheets/960.css HTTP/1.1" 304 - 0.0693
+127.0.0.1 - - [25/Jun/2010 09:38:28] "GET /stylesheets/smoothness/jquery-ui-1.8.custom.css HTTP/1.1" 304 - 0.0007
+127.0.0.1 - - [25/Jun/2010 09:38:28] "GET /stylesheets/smoothness/jquery-ui-1.8.custom.css HTTP/1.1" 304 - 0.0028
+127.0.0.1 - - [25/Jun/2010 09:38:28] "GET /stylesheets/app.css HTTP/1.1" 304 - 0.0006
+127.0.0.1 - - [25/Jun/2010 09:38:28] "GET /stylesheets/app.css HTTP/1.1" 304 - 0.0021
+127.0.0.1 - - [25/Jun/2010 09:38:28] "GET /javascripts/jquery-1.4.2.min.js HTTP/1.1" 304 - 0.0006
+127.0.0.1 - - [25/Jun/2010 09:38:28] "GET /javascripts/jquery-1.4.2.min.js HTTP/1.1" 304 - 0.0023
+127.0.0.1 - - [25/Jun/2010 09:38:28] "GET /javascripts/jquery-ui-1.8.custom.min.js HTTP/1.1" 304 - 0.0006
+127.0.0.1 - - [25/Jun/2010 09:38:28] "GET /javascripts/jquery-ui-1.8.custom.min.js HTTP/1.1" 304 - 0.0022
+127.0.0.1 - - [25/Jun/2010 09:38:28] "GET /javascripts/coffee-script.js HTTP/1.1" 304 - 0.0006
+127.0.0.1 - - [25/Jun/2010 09:38:28] "GET /javascripts/coffee-script.js HTTP/1.1" 304 - 0.0031
+127.0.0.1 - - [25/Jun/2010 09:40:54] "GET / HTTP/1.1" 200 3237 0.0609
+127.0.0.1 - - [25/Jun/2010 09:40:54] "GET / HTTP/1.1" 200 3237 0.0626
+127.0.0.1 - - [25/Jun/2010 09:41:10] "GET / HTTP/1.1" 200 3220 0.0588
+127.0.0.1 - - [25/Jun/2010 09:41:10] "GET / HTTP/1.1" 200 3220 0.0605
+127.0.0.1 - - [25/Jun/2010 09:41:10] "GET /stylesheets/reset.css HTTP/1.1" 304 - 0.0007
+127.0.0.1 - - [25/Jun/2010 09:41:10] "GET /stylesheets/reset.css HTTP/1.1" 304 - 0.0032
+127.0.0.1 - - [25/Jun/2010 09:41:10] "GET /stylesheets/text.css HTTP/1.1" 304 - 0.0006
+127.0.0.1 - - [25/Jun/2010 09:41:10] "GET /stylesheets/text.css HTTP/1.1" 304 - 0.0020
+127.0.0.1 - - [25/Jun/2010 09:41:10] "GET /stylesheets/960.css HTTP/1.1" 304 - 0.0006
+127.0.0.1 - - [25/Jun/2010 09:41:10] "GET /stylesheets/960.css HTTP/1.1" 304 - 0.0020
+127.0.0.1 - - [25/Jun/2010 09:41:10] "GET /stylesheets/smoothness/jquery-ui-1.8.custom.css HTTP/1.1" 304 - 0.0011
+127.0.0.1 - - [25/Jun/2010 09:41:10] "GET /stylesheets/smoothness/jquery-ui-1.8.custom.css HTTP/1.1" 304 - 0.0029
+127.0.0.1 - - [25/Jun/2010 09:41:10] "GET /stylesheets/app.css HTTP/1.1" 304 - 0.0009
+127.0.0.1 - - [25/Jun/2010 09:41:10] "GET /stylesheets/app.css HTTP/1.1" 304 - 0.0025
+127.0.0.1 - - [25/Jun/2010 09:41:10] "GET /javascripts/jquery-1.4.2.min.js HTTP/1.1" 304 - 0.0007
+127.0.0.1 - - [25/Jun/2010 09:41:10] "GET /javascripts/jquery-1.4.2.min.js HTTP/1.1" 304 - 0.0022
+127.0.0.1 - - [25/Jun/2010 09:41:10] "GET /javascripts/jquery-ui-1.8.custom.min.js HTTP/1.1" 304 - 0.0006
+127.0.0.1 - - [25/Jun/2010 09:41:10] "GET /javascripts/jquery-ui-1.8.custom.min.js HTTP/1.1" 304 - 0.0020
+127.0.0.1 - - [25/Jun/2010 09:41:10] "GET /javascripts/coffee-script.js HTTP/1.1" 304 - 0.0015
+127.0.0.1 - - [25/Jun/2010 09:41:10] "GET /javascripts/coffee-script.js HTTP/1.1" 304 - 0.0030
+127.0.0.1 - - [25/Jun/2010 10:36:31] "GET / HTTP/1.1" 200 3220 0.0750
+127.0.0.1 - - [25/Jun/2010 10:36:31] "GET / HTTP/1.1" 200 3220 0.4544
+127.0.0.1 - - [25/Jun/2010 10:36:31] "GET /stylesheets/reset.css HTTP/1.1" 200 648 0.0177
+127.0.0.1 - - [25/Jun/2010 10:36:31] "GET /stylesheets/reset.css HTTP/1.1" 200 648 0.0215
+127.0.0.1 - - [25/Jun/2010 10:36:31] "GET /stylesheets/text.css HTTP/1.1" 200 418 0.0012
+127.0.0.1 - - [25/Jun/2010 10:36:31] "GET /stylesheets/text.css HTTP/1.1" 200 418 0.0030
+127.0.0.1 - - [25/Jun/2010 10:36:31] "GET /stylesheets/960.css HTTP/1.1" 200 5961 0.0009
+127.0.0.1 - - [25/Jun/2010 10:36:31] "GET /stylesheets/960.css HTTP/1.1" 200 5961 0.0029
+127.0.0.1 - - [25/Jun/2010 10:36:31] "GET /stylesheets/smoothness/jquery-ui-1.8.custom.css HTTP/1.1" 200 30797 0.0008
+127.0.0.1 - - [25/Jun/2010 10:36:31] "GET /stylesheets/smoothness/jquery-ui-1.8.custom.css HTTP/1.1" 200 30797 0.0029
+127.0.0.1 - - [25/Jun/2010 10:36:31] "GET /stylesheets/app.css HTTP/1.1" 200 581 0.0018
+127.0.0.1 - - [25/Jun/2010 10:36:31] "GET /stylesheets/app.css HTTP/1.1" 200 581 0.0043
+127.0.0.1 - - [25/Jun/2010 10:36:31] "GET /javascripts/jquery-1.4.2.min.js HTTP/1.1" 200 72174 0.0010
+127.0.0.1 - - [25/Jun/2010 10:36:31] "GET /javascripts/jquery-1.4.2.min.js HTTP/1.1" 200 72174 0.0029
+127.0.0.1 - - [25/Jun/2010 10:36:31] "GET /javascripts/jquery-ui-1.8.custom.min.js HTTP/1.1" 200 215547 0.0009
+127.0.0.1 - - [25/Jun/2010 10:36:31] "GET /javascripts/jquery-ui-1.8.custom.min.js HTTP/1.1" 200 215547 0.0049
+127.0.0.1 - - [25/Jun/2010 10:36:31] "GET /javascripts/coffee-script.js HTTP/1.1" 200 293720 0.0009
+127.0.0.1 - - [25/Jun/2010 10:36:31] "GET /javascripts/coffee-script.js HTTP/1.1" 200 293720 0.0027
+127.0.0.1 - - [25/Jun/2010 10:36:32] "GET /favicon.ico HTTP/1.1" 200 3494 0.0043
+127.0.0.1 - - [25/Jun/2010 10:36:32] "GET /favicon.ico HTTP/1.1" 200 3494 0.0063
+127.0.0.1 - - [25/Jun/2010 10:36:54] "GET / HTTP/1.1" 200 3220 0.0584
+127.0.0.1 - - [25/Jun/2010 10:36:54] "GET / HTTP/1.1" 200 3220 0.0598
+127.0.0.1 - - [25/Jun/2010 10:36:54] "GET /javascripts/jquery-1.4.2.min.js HTTP/1.1" 200 72174 0.0008
+127.0.0.1 - - [25/Jun/2010 10:36:54] "GET /javascripts/jquery-1.4.2.min.js HTTP/1.1" 200 72174 0.0411
+127.0.0.1 - - [25/Jun/2010 10:36:54] "GET /stylesheets/960.css HTTP/1.1" 200 5961 0.0013
+127.0.0.1 - - [25/Jun/2010 10:36:54] "GET /stylesheets/960.css HTTP/1.1" 200 5961 0.0032
+127.0.0.1 - - [25/Jun/2010 10:36:54] "GET /stylesheets/reset.css HTTP/1.1" 200 648 0.0007
+127.0.0.1 - - [25/Jun/2010 10:36:54] "GET /stylesheets/reset.css HTTP/1.1" 200 648 0.0023
+127.0.0.1 - - [25/Jun/2010 10:36:54] "GET /stylesheets/app.css HTTP/1.1" 200 581 0.0007
+127.0.0.1 - - [25/Jun/2010 10:36:54] "GET /stylesheets/app.css HTTP/1.1" 200 581 0.0024
+127.0.0.1 - - [25/Jun/2010 10:36:54] "GET /stylesheets/text.css HTTP/1.1" 200 418 0.0024
+127.0.0.1 - - [25/Jun/2010 10:36:54] "GET /stylesheets/text.css HTTP/1.1" 200 418 0.0040
+127.0.0.1 - - [25/Jun/2010 10:36:54] "GET /stylesheets/smoothness/jquery-ui-1.8.custom.css HTTP/1.1" 200 30797 0.0009
+127.0.0.1 - - [25/Jun/2010 10:36:54] "GET /stylesheets/smoothness/jquery-ui-1.8.custom.css HTTP/1.1" 200 30797 0.0029
+127.0.0.1 - - [25/Jun/2010 10:36:55] "GET /javascripts/jquery-ui-1.8.custom.min.js HTTP/1.1" 200 215547 0.0008
+127.0.0.1 - - [25/Jun/2010 10:36:55] "GET /javascripts/jquery-ui-1.8.custom.min.js HTTP/1.1" 200 215547 0.0027
+127.0.0.1 - - [25/Jun/2010 10:36:55] "GET /javascripts/coffee-script.js HTTP/1.1" 200 293720 0.0007
+127.0.0.1 - - [25/Jun/2010 10:36:55] "GET /javascripts/coffee-script.js HTTP/1.1" 200 293720 0.0025
+127.0.0.1 - - [25/Jun/2010 10:36:55] "GET /favicon.ico HTTP/1.1" 200 3494 0.0008
+127.0.0.1 - - [25/Jun/2010 10:36:55] "GET /favicon.ico HTTP/1.1" 200 3494 0.0023
+127.0.0.1 - - [25/Jun/2010 10:37:22] "GET / HTTP/1.1" 200 3323 0.0622
+127.0.0.1 - - [25/Jun/2010 10:37:22] "GET / HTTP/1.1" 200 3323 0.0639
+127.0.0.1 - - [25/Jun/2010 10:37:22] "GET /stylesheets/smoothness/jquery-ui-1.8.custom.css HTTP/1.1" 304 - 0.0007
+127.0.0.1 - - [25/Jun/2010 10:37:22] "GET /stylesheets/smoothness/jquery-ui-1.8.custom.css HTTP/1.1" 304 - 0.0026
+127.0.0.1 - - [25/Jun/2010 10:37:22] "GET /stylesheets/reset.css HTTP/1.1" 304 - 0.0006
+127.0.0.1 - - [25/Jun/2010 10:37:22] "GET /stylesheets/reset.css HTTP/1.1" 304 - 0.0025
+127.0.0.1 - - [25/Jun/2010 10:37:22] "GET /stylesheets/960.css HTTP/1.1" 304 - 0.0009
+127.0.0.1 - - [25/Jun/2010 10:37:22] "GET /stylesheets/960.css HTTP/1.1" 304 - 0.0028
+127.0.0.1 - - [25/Jun/2010 10:37:22] "GET /javascripts/jquery-1.4.2.min.js HTTP/1.1" 304 - 0.0006
+127.0.0.1 - - [25/Jun/2010 10:37:22] "GET /javascripts/jquery-1.4.2.min.js HTTP/1.1" 304 - 0.0021
+127.0.0.1 - - [25/Jun/2010 10:37:22] "GET /stylesheets/text.css HTTP/1.1" 304 - 0.0015
+127.0.0.1 - - [25/Jun/2010 10:37:22] "GET /stylesheets/text.css HTTP/1.1" 304 - 0.0031
+127.0.0.1 - - [25/Jun/2010 10:37:22] "GET /stylesheets/app.css HTTP/1.1" 304 - 0.0006
+127.0.0.1 - - [25/Jun/2010 10:37:22] "GET /stylesheets/app.css HTTP/1.1" 304 - 0.0023
+127.0.0.1 - - [25/Jun/2010 10:37:22] "GET /javascripts/jquery-ui-1.8.custom.min.js HTTP/1.1" 304 - 0.0006
+127.0.0.1 - - [25/Jun/2010 10:37:22] "GET /javascripts/jquery-ui-1.8.custom.min.js HTTP/1.1" 304 - 0.0021
+127.0.0.1 - - [25/Jun/2010 10:37:22] "GET /javascripts/coffee-script.js HTTP/1.1" 304 - 0.0006
+127.0.0.1 - - [25/Jun/2010 10:37:22] "GET /javascripts/coffee-script.js HTTP/1.1" 304 - 0.0021
+127.0.0.1 - - [25/Jun/2010 10:37:22] "GET /favicon.ico HTTP/1.1" 200 3494 0.0011
+127.0.0.1 - - [25/Jun/2010 10:37:22] "GET /favicon.ico HTTP/1.1" 200 3494 0.0035
+127.0.0.1 - - [25/Jun/2010 10:37:44] "GET / HTTP/1.1" 200 3193 0.0562
+127.0.0.1 - - [25/Jun/2010 10:37:44] "GET / HTTP/1.1" 200 3193 0.0578
+127.0.0.1 - - [25/Jun/2010 10:37:44] "GET /stylesheets/smoothness/jquery-ui-1.8.custom.css HTTP/1.1" 304 - 0.0006
+127.0.0.1 - - [25/Jun/2010 10:37:44] "GET /stylesheets/smoothness/jquery-ui-1.8.custom.css HTTP/1.1" 304 - 0.0027
+127.0.0.1 - - [25/Jun/2010 10:37:44] "GET /stylesheets/app.css HTTP/1.1" 304 - 0.0005
+127.0.0.1 - - [25/Jun/2010 10:37:44] "GET /stylesheets/app.css HTTP/1.1" 304 - 0.0019
+127.0.0.1 - - [25/Jun/2010 10:37:44] "GET /javascripts/jquery-1.4.2.min.js HTTP/1.1" 304 - 0.0005
+127.0.0.1 - - [25/Jun/2010 10:37:44] "GET /javascripts/jquery-1.4.2.min.js HTTP/1.1" 304 - 0.0019
+127.0.0.1 - - [25/Jun/2010 10:37:44] "GET /stylesheets/text.css HTTP/1.1" 304 - 0.0006
+127.0.0.1 - - [25/Jun/2010 10:37:44] "GET /stylesheets/text.css HTTP/1.1" 304 - 0.0019
+127.0.0.1 - - [25/Jun/2010 10:37:44] "GET /stylesheets/reset.css HTTP/1.1" 304 - 0.0006
+127.0.0.1 - - [25/Jun/2010 10:37:44] "GET /stylesheets/reset.css HTTP/1.1" 304 - 0.0034
+127.0.0.1 - - [25/Jun/2010 10:37:44] "GET /stylesheets/960.css HTTP/1.1" 304 - 0.0005
+127.0.0.1 - - [25/Jun/2010 10:37:44] "GET /stylesheets/960.css HTTP/1.1" 304 - 0.0018
+127.0.0.1 - - [25/Jun/2010 10:37:44] "GET /javascripts/jquery-ui-1.8.custom.min.js HTTP/1.1" 304 - 0.0006
+127.0.0.1 - - [25/Jun/2010 10:37:44] "GET /javascripts/jquery-ui-1.8.custom.min.js HTTP/1.1" 304 - 0.0020
+127.0.0.1 - - [25/Jun/2010 10:37:44] "GET /javascripts/coffee-script.js HTTP/1.1" 304 - 0.0006
+127.0.0.1 - - [25/Jun/2010 10:37:44] "GET /javascripts/coffee-script.js HTTP/1.1" 304 - 0.0020
+127.0.0.1 - - [25/Jun/2010 10:37:44] "GET /favicon.ico HTTP/1.1" 200 3494 0.0008
+127.0.0.1 - - [25/Jun/2010 10:37:44] "GET /favicon.ico HTTP/1.1" 200 3494 0.0024
+127.0.0.1 - - [25/Jun/2010 10:38:15] "GET / HTTP/1.1" 200 3289 0.0622
+127.0.0.1 - - [25/Jun/2010 10:38:15] "GET / HTTP/1.1" 200 3289 0.0643
+127.0.0.1 - - [25/Jun/2010 10:38:15] "GET /stylesheets/text.css HTTP/1.1" 304 - 0.0006
+127.0.0.1 - - [25/Jun/2010 10:38:15] "GET /stylesheets/text.css HTTP/1.1" 304 - 0.0024
+127.0.0.1 - - [25/Jun/2010 10:38:15] "GET /stylesheets/app.css HTTP/1.1" 304 - 0.0006
+127.0.0.1 - - [25/Jun/2010 10:38:15] "GET /stylesheets/app.css HTTP/1.1" 304 - 0.0567
+127.0.0.1 - - [25/Jun/2010 10:38:15] "GET /stylesheets/960.css HTTP/1.1" 304 - 0.0006
+127.0.0.1 - - [25/Jun/2010 10:38:15] "GET /stylesheets/960.css HTTP/1.1" 304 - 0.0020
+127.0.0.1 - - [25/Jun/2010 10:38:15] "GET /stylesheets/reset.css HTTP/1.1" 304 - 0.0006
+127.0.0.1 - - [25/Jun/2010 10:38:15] "GET /stylesheets/reset.css HTTP/1.1" 304 - 0.0020
+127.0.0.1 - - [25/Jun/2010 10:38:15] "GET /stylesheets/smoothness/jquery-ui-1.8.custom.css HTTP/1.1" 304 - 0.0006
+127.0.0.1 - - [25/Jun/2010 10:38:15] "GET /stylesheets/smoothness/jquery-ui-1.8.custom.css HTTP/1.1" 304 - 0.0029
+127.0.0.1 - - [25/Jun/2010 10:38:15] "GET /javascripts/jquery-1.4.2.min.js HTTP/1.1" 304 - 0.0006
+127.0.0.1 - - [25/Jun/2010 10:38:15] "GET /javascripts/jquery-1.4.2.min.js HTTP/1.1" 304 - 0.0018
+127.0.0.1 - - [25/Jun/2010 10:38:15] "GET /javascripts/jquery-ui-1.8.custom.min.js HTTP/1.1" 304 - 0.0006
+127.0.0.1 - - [25/Jun/2010 10:38:15] "GET /javascripts/jquery-ui-1.8.custom.min.js HTTP/1.1" 304 - 0.0020
+127.0.0.1 - - [25/Jun/2010 10:38:15] "GET /javascripts/coffee-script.js HTTP/1.1" 304 - 0.0006
+127.0.0.1 - - [25/Jun/2010 10:38:15] "GET /javascripts/coffee-script.js HTTP/1.1" 304 - 0.0019
+127.0.0.1 - - [25/Jun/2010 10:38:15] "GET /favicon.ico HTTP/1.1" 200 3494 0.0010
+127.0.0.1 - - [25/Jun/2010 10:38:15] "GET /favicon.ico HTTP/1.1" 200 3494 0.0028
+127.0.0.1 - - [25/Jun/2010 10:38:53] "GET / HTTP/1.1" 200 3193 0.0565
+127.0.0.1 - - [25/Jun/2010 10:38:53] "GET / HTTP/1.1" 200 3193 0.0588
+127.0.0.1 - - [25/Jun/2010 10:38:53] "GET /stylesheets/app.css HTTP/1.1" 304 - 0.0006
+127.0.0.1 - - [25/Jun/2010 10:38:53] "GET /stylesheets/app.css HTTP/1.1" 304 - 0.0020
+127.0.0.1 - - [25/Jun/2010 10:38:53] "GET /stylesheets/text.css HTTP/1.1" 304 - 0.0006
+127.0.0.1 - - [25/Jun/2010 10:38:53] "GET /stylesheets/text.css HTTP/1.1" 304 - 0.0052
+127.0.0.1 - - [25/Jun/2010 10:38:53] "GET /stylesheets/smoothness/jquery-ui-1.8.custom.css HTTP/1.1" 304 - 0.0006
+127.0.0.1 - - [25/Jun/2010 10:38:53] "GET /stylesheets/smoothness/jquery-ui-1.8.custom.css HTTP/1.1" 304 - 0.0019
+127.0.0.1 - - [25/Jun/2010 10:38:53] "GET /stylesheets/960.css HTTP/1.1" 304 - 0.0006
+127.0.0.1 - - [25/Jun/2010 10:38:53] "GET /stylesheets/960.css HTTP/1.1" 304 - 0.0019
+127.0.0.1 - - [25/Jun/2010 10:38:53] "GET /stylesheets/reset.css HTTP/1.1" 304 - 0.0007
+127.0.0.1 - - [25/Jun/2010 10:38:53] "GET /stylesheets/reset.css HTTP/1.1" 304 - 0.0031
+127.0.0.1 - - [25/Jun/2010 10:38:53] "GET /javascripts/jquery-1.4.2.min.js HTTP/1.1" 304 - 0.0006
+127.0.0.1 - - [25/Jun/2010 10:38:53] "GET /javascripts/jquery-1.4.2.min.js HTTP/1.1" 304 - 0.0019
+127.0.0.1 - - [25/Jun/2010 10:38:53] "GET /javascripts/jquery-ui-1.8.custom.min.js HTTP/1.1" 304 - 0.0006
+127.0.0.1 - - [25/Jun/2010 10:38:53] "GET /javascripts/jquery-ui-1.8.custom.min.js HTTP/1.1" 304 - 0.0023
+127.0.0.1 - - [25/Jun/2010 10:38:53] "GET /javascripts/coffee-script.js HTTP/1.1" 304 - 0.0006
+127.0.0.1 - - [25/Jun/2010 10:38:53] "GET /javascripts/coffee-script.js HTTP/1.1" 304 - 0.0020
+127.0.0.1 - - [25/Jun/2010 10:38:53] "GET /favicon.ico HTTP/1.1" 200 3494 0.0008
+127.0.0.1 - - [25/Jun/2010 10:38:53] "GET /favicon.ico HTTP/1.1" 200 3494 0.0023
+127.0.0.1 - - [25/Jun/2010 10:39:10] "GET / HTTP/1.1" 200 3212 0.0579
+127.0.0.1 - - [25/Jun/2010 10:39:10] "GET / HTTP/1.1" 200 3212 0.0595
+127.0.0.1 - - [25/Jun/2010 10:39:10] "GET /stylesheets/app.css HTTP/1.1" 304 - 0.0006
+127.0.0.1 - - [25/Jun/2010 10:39:10] "GET /stylesheets/app.css HTTP/1.1" 304 - 0.0018
+127.0.0.1 - - [25/Jun/2010 10:39:10] "GET /stylesheets/960.css HTTP/1.1" 304 - 0.0030
+127.0.0.1 - - [25/Jun/2010 10:39:10] "GET /stylesheets/960.css HTTP/1.1" 304 - 0.0047
+127.0.0.1 - - [25/Jun/2010 10:39:10] "GET /stylesheets/reset.css HTTP/1.1" 304 - 0.0005
+127.0.0.1 - - [25/Jun/2010 10:39:10] "GET /stylesheets/reset.css HTTP/1.1" 304 - 0.0018
+127.0.0.1 - - [25/Jun/2010 10:39:10] "GET /javascripts/jquery-1.4.2.min.js HTTP/1.1" 304 - 0.0005
+127.0.0.1 - - [25/Jun/2010 10:39:10] "GET /javascripts/jquery-1.4.2.min.js HTTP/1.1" 304 - 0.0018
+127.0.0.1 - - [25/Jun/2010 10:39:10] "GET /stylesheets/smoothness/jquery-ui-1.8.custom.css HTTP/1.1" 304 - 0.0007
+127.0.0.1 - - [25/Jun/2010 10:39:10] "GET /stylesheets/smoothness/jquery-ui-1.8.custom.css HTTP/1.1" 304 - 0.0028
+127.0.0.1 - - [25/Jun/2010 10:39:10] "GET /stylesheets/text.css HTTP/1.1" 304 - 0.0005
+127.0.0.1 - - [25/Jun/2010 10:39:10] "GET /stylesheets/text.css HTTP/1.1" 304 - 0.0018
+127.0.0.1 - - [25/Jun/2010 10:39:10] "GET /javascripts/jquery-ui-1.8.custom.min.js HTTP/1.1" 304 - 0.0006
+127.0.0.1 - - [25/Jun/2010 10:39:10] "GET /javascripts/jquery-ui-1.8.custom.min.js HTTP/1.1" 304 - 0.0019
+127.0.0.1 - - [25/Jun/2010 10:39:10] "GET /javascripts/coffee-script.js HTTP/1.1" 304 - 0.0006
+127.0.0.1 - - [25/Jun/2010 10:39:10] "GET /javascripts/coffee-script.js HTTP/1.1" 304 - 0.0023
+127.0.0.1 - - [25/Jun/2010 10:39:11] "GET /favicon.ico HTTP/1.1" 200 3494 0.0008
+127.0.0.1 - - [25/Jun/2010 10:39:11] "GET /favicon.ico HTTP/1.1" 200 3494 0.0574
+127.0.0.1 - - [25/Jun/2010 10:39:22] "GET / HTTP/1.1" 200 3232 0.0590
+127.0.0.1 - - [25/Jun/2010 10:39:22] "GET / HTTP/1.1" 200 3232 0.0606
+127.0.0.1 - - [25/Jun/2010 10:39:22] "GET /stylesheets/app.css HTTP/1.1" 304 - 0.0006
+127.0.0.1 - - [25/Jun/2010 10:39:22] "GET /stylesheets/app.css HTTP/1.1" 304 - 0.0024
+127.0.0.1 - - [25/Jun/2010 10:39:22] "GET /stylesheets/smoothness/jquery-ui-1.8.custom.css HTTP/1.1" 304 - 0.0007
+127.0.0.1 - - [25/Jun/2010 10:39:22] "GET /stylesheets/smoothness/jquery-ui-1.8.custom.css HTTP/1.1" 304 - 0.0027
+127.0.0.1 - - [25/Jun/2010 10:39:22] "GET /stylesheets/reset.css HTTP/1.1" 304 - 0.0006
+127.0.0.1 - - [25/Jun/2010 10:39:22] "GET /stylesheets/reset.css HTTP/1.1" 304 - 0.0025
+127.0.0.1 - - [25/Jun/2010 10:39:22] "GET /javascripts/jquery-1.4.2.min.js HTTP/1.1" 304 - 0.0007
+127.0.0.1 - - [25/Jun/2010 10:39:22] "GET /javascripts/jquery-1.4.2.min.js HTTP/1.1" 304 - 0.0030
+127.0.0.1 - - [25/Jun/2010 10:39:22] "GET /stylesheets/960.css HTTP/1.1" 304 - 0.0007
+127.0.0.1 - - [25/Jun/2010 10:39:22] "GET /stylesheets/960.css HTTP/1.1" 304 - 0.0024
+127.0.0.1 - - [25/Jun/2010 10:39:22] "GET /stylesheets/text.css HTTP/1.1" 304 - 0.0007
+127.0.0.1 - - [25/Jun/2010 10:39:22] "GET /stylesheets/text.css HTTP/1.1" 304 - 0.0033
+127.0.0.1 - - [25/Jun/2010 10:39:22] "GET /javascripts/jquery-ui-1.8.custom.min.js HTTP/1.1" 304 - 0.0007
+127.0.0.1 - - [25/Jun/2010 10:39:22] "GET /javascripts/jquery-ui-1.8.custom.min.js HTTP/1.1" 304 - 0.0021
+127.0.0.1 - - [25/Jun/2010 10:39:22] "GET /javascripts/coffee-script.js HTTP/1.1" 304 - 0.0006
+127.0.0.1 - - [25/Jun/2010 10:39:22] "GET /javascripts/coffee-script.js HTTP/1.1" 304 - 0.0024
+127.0.0.1 - - [25/Jun/2010 10:39:22] "GET /favicon.ico HTTP/1.1" 200 3494 0.0008
+127.0.0.1 - - [25/Jun/2010 10:39:22] "GET /favicon.ico HTTP/1.1" 200 3494 0.0025
+127.0.0.1 - - [25/Jun/2010 10:39:40] "GET / HTTP/1.1" 200 3212 0.0592
+127.0.0.1 - - [25/Jun/2010 10:39:40] "GET / HTTP/1.1" 200 3212 0.0609
+127.0.0.1 - - [25/Jun/2010 10:39:40] "GET /stylesheets/app.css HTTP/1.1" 304 - 0.0006
+127.0.0.1 - - [25/Jun/2010 10:39:40] "GET /stylesheets/app.css HTTP/1.1" 304 - 0.0024
+127.0.0.1 - - [25/Jun/2010 10:39:40] "GET /javascripts/jquery-1.4.2.min.js HTTP/1.1" 304 - 0.0005
+127.0.0.1 - - [25/Jun/2010 10:39:40] "GET /javascripts/jquery-1.4.2.min.js HTTP/1.1" 304 - 0.0018
+127.0.0.1 - - [25/Jun/2010 10:39:40] "GET /stylesheets/960.css HTTP/1.1" 304 - 0.0006
+127.0.0.1 - - [25/Jun/2010 10:39:40] "GET /stylesheets/960.css HTTP/1.1" 304 - 0.0022
+127.0.0.1 - - [25/Jun/2010 10:39:40] "GET /stylesheets/text.css HTTP/1.1" 304 - 0.0006
+127.0.0.1 - - [25/Jun/2010 10:39:40] "GET /stylesheets/text.css HTTP/1.1" 304 - 0.0019
+127.0.0.1 - - [25/Jun/2010 10:39:40] "GET /stylesheets/reset.css HTTP/1.1" 304 - 0.0006
+127.0.0.1 - - [25/Jun/2010 10:39:40] "GET /stylesheets/reset.css HTTP/1.1" 304 - 0.0019
+127.0.0.1 - - [25/Jun/2010 10:39:40] "GET /stylesheets/smoothness/jquery-ui-1.8.custom.css HTTP/1.1" 304 - 0.0007
+127.0.0.1 - - [25/Jun/2010 10:39:40] "GET /stylesheets/smoothness/jquery-ui-1.8.custom.css HTTP/1.1" 304 - 0.0025
+127.0.0.1 - - [25/Jun/2010 10:39:40] "GET /javascripts/jquery-ui-1.8.custom.min.js HTTP/1.1" 304 - 0.0006
+127.0.0.1 - - [25/Jun/2010 10:39:40] "GET /javascripts/jquery-ui-1.8.custom.min.js HTTP/1.1" 304 - 0.0019
+127.0.0.1 - - [25/Jun/2010 10:39:40] "GET /javascripts/coffee-script.js HTTP/1.1" 304 - 0.0006
+127.0.0.1 - - [25/Jun/2010 10:39:40] "GET /javascripts/coffee-script.js HTTP/1.1" 304 - 0.0019
+127.0.0.1 - - [25/Jun/2010 10:39:41] "GET /favicon.ico HTTP/1.1" 200 3494 0.0008
+127.0.0.1 - - [25/Jun/2010 10:39:41] "GET /favicon.ico HTTP/1.1" 200 3494 0.0023
+127.0.0.1 - - [25/Jun/2010 10:39:46] "GET / HTTP/1.1" 200 3173 0.0559
+127.0.0.1 - - [25/Jun/2010 10:39:46] "GET / HTTP/1.1" 200 3173 0.0573
+127.0.0.1 - - [25/Jun/2010 10:39:46] "GET /stylesheets/text.css HTTP/1.1" 304 - 0.0006
+127.0.0.1 - - [25/Jun/2010 10:39:46] "GET /stylesheets/text.css HTTP/1.1" 304 - 0.0020
+127.0.0.1 - - [25/Jun/2010 10:39:46] "GET /stylesheets/app.css HTTP/1.1" 304 - 0.0005
+127.0.0.1 - - [25/Jun/2010 10:39:46] "GET /stylesheets/app.css HTTP/1.1" 304 - 0.0611
+127.0.0.1 - - [25/Jun/2010 10:39:46] "GET /stylesheets/reset.css HTTP/1.1" 304 - 0.0011
+127.0.0.1 - - [25/Jun/2010 10:39:46] "GET /stylesheets/reset.css HTTP/1.1" 304 - 0.0025
+127.0.0.1 - - [25/Jun/2010 10:39:46] "GET /stylesheets/960.css HTTP/1.1" 304 - 0.0006
+127.0.0.1 - - [25/Jun/2010 10:39:46] "GET /stylesheets/960.css HTTP/1.1" 304 - 0.0022
+127.0.0.1 - - [25/Jun/2010 10:39:46] "GET /javascripts/jquery-1.4.2.min.js HTTP/1.1" 304 - 0.0006
+127.0.0.1 - - [25/Jun/2010 10:39:46] "GET /javascripts/jquery-1.4.2.min.js HTTP/1.1" 304 - 0.0020
+127.0.0.1 - - [25/Jun/2010 10:39:46] "GET /stylesheets/smoothness/jquery-ui-1.8.custom.css HTTP/1.1" 304 - 0.0008
+127.0.0.1 - - [25/Jun/2010 10:39:46] "GET /stylesheets/smoothness/jquery-ui-1.8.custom.css HTTP/1.1" 304 - 0.0028
+127.0.0.1 - - [25/Jun/2010 10:39:46] "GET /javascripts/jquery-ui-1.8.custom.min.js HTTP/1.1" 304 - 0.0006
+127.0.0.1 - - [25/Jun/2010 10:39:46] "GET /javascripts/jquery-ui-1.8.custom.min.js HTTP/1.1" 304 - 0.0020
+127.0.0.1 - - [25/Jun/2010 10:39:46] "GET /javascripts/coffee-script.js HTTP/1.1" 304 - 0.0008
+127.0.0.1 - - [25/Jun/2010 10:39:46] "GET /javascripts/coffee-script.js HTTP/1.1" 304 - 0.0023
+127.0.0.1 - - [25/Jun/2010 10:39:46] "GET /favicon.ico HTTP/1.1" 200 3494 0.0013
+127.0.0.1 - - [25/Jun/2010 10:39:46] "GET /favicon.ico HTTP/1.1" 200 3494 0.0031
+127.0.0.1 - - [25/Jun/2010 10:41:24] "GET / HTTP/1.1" 200 3275 0.0581
+127.0.0.1 - - [25/Jun/2010 10:41:24] "GET / HTTP/1.1" 200 3275 0.0606
+127.0.0.1 - - [25/Jun/2010 10:41:24] "GET /stylesheets/reset.css HTTP/1.1" 304 - 0.0006
+127.0.0.1 - - [25/Jun/2010 10:41:24] "GET /stylesheets/reset.css HTTP/1.1" 304 - 0.0023
+127.0.0.1 - - [25/Jun/2010 10:41:24] "GET /stylesheets/960.css HTTP/1.1" 304 - 0.0006
+127.0.0.1 - - [25/Jun/2010 10:41:24] "GET /stylesheets/960.css HTTP/1.1" 304 - 0.0018
+127.0.0.1 - - [25/Jun/2010 10:41:24] "GET /stylesheets/smoothness/jquery-ui-1.8.custom.css HTTP/1.1" 304 - 0.0005
+127.0.0.1 - - [25/Jun/2010 10:41:24] "GET /stylesheets/smoothness/jquery-ui-1.8.custom.css HTTP/1.1" 304 - 0.0017
+127.0.0.1 - - [25/Jun/2010 10:41:24] "GET /stylesheets/app.css HTTP/1.1" 304 - 0.0006
+127.0.0.1 - - [25/Jun/2010 10:41:24] "GET /stylesheets/app.css HTTP/1.1" 304 - 0.0027
+127.0.0.1 - - [25/Jun/2010 10:41:24] "GET /javascripts/jquery-1.4.2.min.js HTTP/1.1" 304 - 0.0007
+127.0.0.1 - - [25/Jun/2010 10:41:24] "GET /javascripts/jquery-1.4.2.min.js HTTP/1.1" 304 - 0.0021
+127.0.0.1 - - [25/Jun/2010 10:41:24] "GET /stylesheets/text.css HTTP/1.1" 304 - 0.0006
+127.0.0.1 - - [25/Jun/2010 10:41:24] "GET /stylesheets/text.css HTTP/1.1" 304 - 0.0021
+127.0.0.1 - - [25/Jun/2010 10:41:24] "GET /javascripts/jquery-ui-1.8.custom.min.js HTTP/1.1" 304 - 0.0006
+127.0.0.1 - - [25/Jun/2010 10:41:24] "GET /javascripts/jquery-ui-1.8.custom.min.js HTTP/1.1" 304 - 0.0019
+127.0.0.1 - - [25/Jun/2010 10:41:24] "GET /javascripts/coffee-script.js HTTP/1.1" 304 - 0.0006
+127.0.0.1 - - [25/Jun/2010 10:41:24] "GET /javascripts/coffee-script.js HTTP/1.1" 304 - 0.0019
+127.0.0.1 - - [25/Jun/2010 10:41:25] "GET /favicon.ico HTTP/1.1" 200 3494 0.0008
+127.0.0.1 - - [25/Jun/2010 10:41:25] "GET /favicon.ico HTTP/1.1" 200 3494 0.0026
+127.0.0.1 - - [25/Jun/2010 10:41:57] "GET / HTTP/1.1" 200 3275 0.0576
+127.0.0.1 - - [25/Jun/2010 10:41:57] "GET / HTTP/1.1" 200 3275 0.0596
+127.0.0.1 - - [25/Jun/2010 10:41:57] "GET /stylesheets/reset.css HTTP/1.1" 304 - 0.0011
+127.0.0.1 - - [25/Jun/2010 10:41:57] "GET /stylesheets/reset.css HTTP/1.1" 304 - 0.0044
+127.0.0.1 - - [25/Jun/2010 10:41:57] "GET /stylesheets/text.css HTTP/1.1" 304 - 0.0008
+127.0.0.1 - - [25/Jun/2010 10:41:57] "GET /stylesheets/text.css HTTP/1.1" 304 - 0.0024
+127.0.0.1 - - [25/Jun/2010 10:41:57] "GET /stylesheets/960.css HTTP/1.1" 304 - 0.0008
+127.0.0.1 - - [25/Jun/2010 10:41:57] "GET /stylesheets/960.css HTTP/1.1" 304 - 0.0028
+127.0.0.1 - - [25/Jun/2010 10:41:57] "GET /stylesheets/smoothness/jquery-ui-1.8.custom.css HTTP/1.1" 304 - 0.0006
+127.0.0.1 - - [25/Jun/2010 10:41:57] "GET /stylesheets/smoothness/jquery-ui-1.8.custom.css HTTP/1.1" 304 - 0.0023
+127.0.0.1 - - [25/Jun/2010 10:41:57] "GET /stylesheets/app.css HTTP/1.1" 304 - 0.0008
+127.0.0.1 - - [25/Jun/2010 10:41:57] "GET /stylesheets/app.css HTTP/1.1" 304 - 0.0036
+127.0.0.1 - - [25/Jun/2010 10:41:57] "GET /javascripts/jquery-1.4.2.min.js HTTP/1.1" 304 - 0.0006
+127.0.0.1 - - [25/Jun/2010 10:41:57] "GET /javascripts/jquery-1.4.2.min.js HTTP/1.1" 304 - 0.0022
+127.0.0.1 - - [25/Jun/2010 10:41:57] "GET /javascripts/jquery-ui-1.8.custom.min.js HTTP/1.1" 304 - 0.0007
+127.0.0.1 - - [25/Jun/2010 10:41:57] "GET /javascripts/jquery-ui-1.8.custom.min.js HTTP/1.1" 304 - 0.0027
+127.0.0.1 - - [25/Jun/2010 10:41:57] "GET /javascripts/coffee-script.js HTTP/1.1" 304 - 0.0007
+127.0.0.1 - - [25/Jun/2010 10:41:57] "GET /javascripts/coffee-script.js HTTP/1.1" 304 - 0.0668
+127.0.0.1 - - [25/Jun/2010 10:42:27] "GET / HTTP/1.1" 200 3299 0.0608
+127.0.0.1 - - [25/Jun/2010 10:42:27] "GET / HTTP/1.1" 200 3299 0.0626
+127.0.0.1 - - [25/Jun/2010 10:42:27] "GET /stylesheets/reset.css HTTP/1.1" 304 - 0.0011
+127.0.0.1 - - [25/Jun/2010 10:42:27] "GET /stylesheets/reset.css HTTP/1.1" 304 - 0.0045
+127.0.0.1 - - [25/Jun/2010 10:42:27] "GET /stylesheets/text.css HTTP/1.1" 304 - 0.0008
+127.0.0.1 - - [25/Jun/2010 10:42:27] "GET /stylesheets/text.css HTTP/1.1" 304 - 0.0025
+127.0.0.1 - - [25/Jun/2010 10:42:27] "GET /stylesheets/960.css HTTP/1.1" 304 - 0.0008
+127.0.0.1 - - [25/Jun/2010 10:42:27] "GET /stylesheets/960.css HTTP/1.1" 304 - 0.0024
+127.0.0.1 - - [25/Jun/2010 10:42:27] "GET /stylesheets/smoothness/jquery-ui-1.8.custom.css HTTP/1.1" 304 - 0.0006
+127.0.0.1 - - [25/Jun/2010 10:42:27] "GET /stylesheets/smoothness/jquery-ui-1.8.custom.css HTTP/1.1" 304 - 0.0028
+127.0.0.1 - - [25/Jun/2010 10:42:27] "GET /stylesheets/app.css HTTP/1.1" 304 - 0.0007
+127.0.0.1 - - [25/Jun/2010 10:42:27] "GET /stylesheets/app.css HTTP/1.1" 304 - 0.0021
+127.0.0.1 - - [25/Jun/2010 10:42:27] "GET /javascripts/jquery-1.4.2.min.js HTTP/1.1" 304 - 0.0014
+127.0.0.1 - - [25/Jun/2010 10:42:27] "GET /javascripts/jquery-1.4.2.min.js HTTP/1.1" 304 - 0.0030
+127.0.0.1 - - [25/Jun/2010 10:42:27] "GET /javascripts/jquery-ui-1.8.custom.min.js HTTP/1.1" 304 - 0.0020
+127.0.0.1 - - [25/Jun/2010 10:42:27] "GET /javascripts/jquery-ui-1.8.custom.min.js HTTP/1.1" 304 - 0.0040
+127.0.0.1 - - [25/Jun/2010 10:42:27] "GET /javascripts/coffee-script.js HTTP/1.1" 304 - 0.0006
+127.0.0.1 - - [25/Jun/2010 10:42:27] "GET /javascripts/coffee-script.js HTTP/1.1" 304 - 0.0021
+127.0.0.1 - - [25/Jun/2010 10:45:41] "GET / HTTP/1.1" 200 3301 0.0615
+127.0.0.1 - - [25/Jun/2010 10:45:41] "GET / HTTP/1.1" 200 3301 0.0631
+127.0.0.1 - - [25/Jun/2010 10:45:41] "GET /stylesheets/reset.css HTTP/1.1" 304 - 0.0011
+127.0.0.1 - - [25/Jun/2010 10:45:41] "GET /stylesheets/reset.css HTTP/1.1" 304 - 0.0044
+127.0.0.1 - - [25/Jun/2010 10:45:41] "GET /stylesheets/text.css HTTP/1.1" 304 - 0.0010
+127.0.0.1 - - [25/Jun/2010 10:45:41] "GET /stylesheets/text.css HTTP/1.1" 304 - 0.0027
+127.0.0.1 - - [25/Jun/2010 10:45:41] "GET /stylesheets/960.css HTTP/1.1" 304 - 0.0007
+127.0.0.1 - - [25/Jun/2010 10:45:41] "GET /stylesheets/960.css HTTP/1.1" 304 - 0.0023
+127.0.0.1 - - [25/Jun/2010 10:45:41] "GET /stylesheets/smoothness/jquery-ui-1.8.custom.css HTTP/1.1" 304 - 0.0007
+127.0.0.1 - - [25/Jun/2010 10:45:41] "GET /stylesheets/smoothness/jquery-ui-1.8.custom.css HTTP/1.1" 304 - 0.0025
+127.0.0.1 - - [25/Jun/2010 10:45:41] "GET /stylesheets/app.css HTTP/1.1" 304 - 0.0006
+127.0.0.1 - - [25/Jun/2010 10:45:41] "GET /stylesheets/app.css HTTP/1.1" 304 - 0.0020
+127.0.0.1 - - [25/Jun/2010 10:45:41] "GET /javascripts/jquery-1.4.2.min.js HTTP/1.1" 304 - 0.0006
+127.0.0.1 - - [25/Jun/2010 10:45:41] "GET /javascripts/jquery-1.4.2.min.js HTTP/1.1" 304 - 0.0022
+127.0.0.1 - - [25/Jun/2010 10:45:41] "GET /javascripts/jquery-ui-1.8.custom.min.js HTTP/1.1" 304 - 0.0007
+127.0.0.1 - - [25/Jun/2010 10:45:41] "GET /javascripts/jquery-ui-1.8.custom.min.js HTTP/1.1" 304 - 0.0025
+127.0.0.1 - - [25/Jun/2010 10:45:41] "GET /javascripts/coffee-script.js HTTP/1.1" 304 - 0.0007
+127.0.0.1 - - [25/Jun/2010 10:45:41] "GET /javascripts/coffee-script.js HTTP/1.1" 304 - 0.0022
+127.0.0.1 - - [25/Jun/2010 10:46:01] "GET / HTTP/1.1" 200 3300 0.0599
+127.0.0.1 - - [25/Jun/2010 10:46:01] "GET / HTTP/1.1" 200 3300 0.0617
+127.0.0.1 - - [25/Jun/2010 10:46:01] "GET /stylesheets/reset.css HTTP/1.1" 304 - 0.0006
+127.0.0.1 - - [25/Jun/2010 10:46:01] "GET /stylesheets/reset.css HTTP/1.1" 304 - 0.0027
+127.0.0.1 - - [25/Jun/2010 10:46:01] "GET /stylesheets/text.css HTTP/1.1" 304 - 0.0006
+127.0.0.1 - - [25/Jun/2010 10:46:01] "GET /stylesheets/text.css HTTP/1.1" 304 - 0.0020
+127.0.0.1 - - [25/Jun/2010 10:46:01] "GET /stylesheets/960.css HTTP/1.1" 304 - 0.0007
+127.0.0.1 - - [25/Jun/2010 10:46:01] "GET /stylesheets/960.css HTTP/1.1" 304 - 0.0028
+127.0.0.1 - - [25/Jun/2010 10:46:01] "GET /stylesheets/smoothness/jquery-ui-1.8.custom.css HTTP/1.1" 304 - 0.0007
+127.0.0.1 - - [25/Jun/2010 10:46:01] "GET /stylesheets/smoothness/jquery-ui-1.8.custom.css HTTP/1.1" 304 - 0.0656
+127.0.0.1 - - [25/Jun/2010 10:46:01] "GET /stylesheets/app.css HTTP/1.1" 304 - 0.0006
+127.0.0.1 - - [25/Jun/2010 10:46:01] "GET /stylesheets/app.css HTTP/1.1" 304 - 0.0022
+127.0.0.1 - - [25/Jun/2010 10:46:01] "GET /javascripts/jquery-1.4.2.min.js HTTP/1.1" 304 - 0.0006
+127.0.0.1 - - [25/Jun/2010 10:46:01] "GET /javascripts/jquery-1.4.2.min.js HTTP/1.1" 304 - 0.0021
+127.0.0.1 - - [25/Jun/2010 10:46:01] "GET /javascripts/jquery-ui-1.8.custom.min.js HTTP/1.1" 304 - 0.0006
+127.0.0.1 - - [25/Jun/2010 10:46:01] "GET /javascripts/jquery-ui-1.8.custom.min.js HTTP/1.1" 304 - 0.0029
+127.0.0.1 - - [25/Jun/2010 10:46:01] "GET /javascripts/coffee-script.js HTTP/1.1" 304 - 0.0006
+127.0.0.1 - - [25/Jun/2010 10:46:01] "GET /javascripts/coffee-script.js HTTP/1.1" 304 - 0.0021
+127.0.0.1 - - [25/Jun/2010 10:46:47] "GET / HTTP/1.1" 200 3449 0.0598
+127.0.0.1 - - [25/Jun/2010 10:46:47] "GET / HTTP/1.1" 200 3449 0.0636
+127.0.0.1 - - [25/Jun/2010 10:46:47] "GET /stylesheets/reset.css HTTP/1.1" 304 - 0.0011
+127.0.0.1 - - [25/Jun/2010 10:46:47] "GET /stylesheets/reset.css HTTP/1.1" 304 - 0.0043
+127.0.0.1 - - [25/Jun/2010 10:46:47] "GET /stylesheets/text.css HTTP/1.1" 304 - 0.0008
+127.0.0.1 - - [25/Jun/2010 10:46:47] "GET /stylesheets/text.css HTTP/1.1" 304 - 0.0027
+127.0.0.1 - - [25/Jun/2010 10:46:47] "GET /stylesheets/960.css HTTP/1.1" 304 - 0.0008
+127.0.0.1 - - [25/Jun/2010 10:46:47] "GET /stylesheets/960.css HTTP/1.1" 304 - 0.0032
+127.0.0.1 - - [25/Jun/2010 10:46:47] "GET /stylesheets/smoothness/jquery-ui-1.8.custom.css HTTP/1.1" 304 - 0.0007
+127.0.0.1 - - [25/Jun/2010 10:46:47] "GET /stylesheets/smoothness/jquery-ui-1.8.custom.css HTTP/1.1" 304 - 0.0023
+127.0.0.1 - - [25/Jun/2010 10:46:47] "GET /stylesheets/app.css HTTP/1.1" 304 - 0.0006
+127.0.0.1 - - [25/Jun/2010 10:46:47] "GET /stylesheets/app.css HTTP/1.1" 304 - 0.0021
+127.0.0.1 - - [25/Jun/2010 10:46:47] "GET /javascripts/jquery-1.4.2.min.js HTTP/1.1" 304 - 0.0006
+127.0.0.1 - - [25/Jun/2010 10:46:47] "GET /javascripts/jquery-1.4.2.min.js HTTP/1.1" 304 - 0.0026
+127.0.0.1 - - [25/Jun/2010 10:46:47] "GET /javascripts/jquery-ui-1.8.custom.min.js HTTP/1.1" 304 - 0.0006
+127.0.0.1 - - [25/Jun/2010 10:46:47] "GET /javascripts/jquery-ui-1.8.custom.min.js HTTP/1.1" 304 - 0.0021
+127.0.0.1 - - [25/Jun/2010 10:46:47] "GET /javascripts/coffee-script.js HTTP/1.1" 304 - 0.0007
+127.0.0.1 - - [25/Jun/2010 10:46:47] "GET /javascripts/coffee-script.js HTTP/1.1" 304 - 0.0023
+127.0.0.1 - - [25/Jun/2010 10:47:08] "GET / HTTP/1.1" 200 3475 0.0641
+127.0.0.1 - - [25/Jun/2010 10:47:08] "GET / HTTP/1.1" 200 3475 0.0656
+127.0.0.1 - - [25/Jun/2010 10:47:08] "GET /stylesheets/reset.css HTTP/1.1" 304 - 0.0009
+127.0.0.1 - - [25/Jun/2010 10:47:08] "GET /stylesheets/reset.css HTTP/1.1" 304 - 0.0050
+127.0.0.1 - - [25/Jun/2010 10:47:08] "GET /stylesheets/text.css HTTP/1.1" 304 - 0.0007
+127.0.0.1 - - [25/Jun/2010 10:47:08] "GET /stylesheets/text.css HTTP/1.1" 304 - 0.0028
+127.0.0.1 - - [25/Jun/2010 10:47:08] "GET /stylesheets/960.css HTTP/1.1" 304 - 0.0007
+127.0.0.1 - - [25/Jun/2010 10:47:08] "GET /stylesheets/960.css HTTP/1.1" 304 - 0.0026
+127.0.0.1 - - [25/Jun/2010 10:47:08] "GET /stylesheets/smoothness/jquery-ui-1.8.custom.css HTTP/1.1" 304 - 0.0006
+127.0.0.1 - - [25/Jun/2010 10:47:08] "GET /stylesheets/smoothness/jquery-ui-1.8.custom.css HTTP/1.1" 304 - 0.0021
+127.0.0.1 - - [25/Jun/2010 10:47:08] "GET /stylesheets/app.css HTTP/1.1" 304 - 0.0006
+127.0.0.1 - - [25/Jun/2010 10:47:08] "GET /stylesheets/app.css HTTP/1.1" 304 - 0.0022
+127.0.0.1 - - [25/Jun/2010 10:47:08] "GET /javascripts/jquery-1.4.2.min.js HTTP/1.1" 304 - 0.0008
+127.0.0.1 - - [25/Jun/2010 10:47:08] "GET /javascripts/jquery-1.4.2.min.js HTTP/1.1" 304 - 0.0024
+127.0.0.1 - - [25/Jun/2010 10:47:08] "GET /javascripts/jquery-ui-1.8.custom.min.js HTTP/1.1" 304 - 0.0010
+127.0.0.1 - - [25/Jun/2010 10:47:08] "GET /javascripts/jquery-ui-1.8.custom.min.js HTTP/1.1" 304 - 0.0027
+127.0.0.1 - - [25/Jun/2010 10:47:08] "GET /javascripts/coffee-script.js HTTP/1.1" 304 - 0.0007
+127.0.0.1 - - [25/Jun/2010 10:47:08] "GET /javascripts/coffee-script.js HTTP/1.1" 304 - 0.0023
+127.0.0.1 - - [25/Jun/2010 10:47:14] "GET / HTTP/1.1" 200 3474 0.1193
+127.0.0.1 - - [25/Jun/2010 10:47:14] "GET / HTTP/1.1" 200 3474 0.1216
+127.0.0.1 - - [25/Jun/2010 10:47:14] "GET /stylesheets/reset.css HTTP/1.1" 304 - 0.0013
+127.0.0.1 - - [25/Jun/2010 10:47:14] "GET /stylesheets/reset.css HTTP/1.1" 304 - 0.0051
+127.0.0.1 - - [25/Jun/2010 10:47:14] "GET /stylesheets/text.css HTTP/1.1" 304 - 0.0008
+127.0.0.1 - - [25/Jun/2010 10:47:14] "GET /stylesheets/text.css HTTP/1.1" 304 - 0.0023
+127.0.0.1 - - [25/Jun/2010 10:47:14] "GET /stylesheets/960.css HTTP/1.1" 304 - 0.0008
+127.0.0.1 - - [25/Jun/2010 10:47:14] "GET /stylesheets/960.css HTTP/1.1" 304 - 0.0026
+127.0.0.1 - - [25/Jun/2010 10:47:14] "GET /stylesheets/smoothness/jquery-ui-1.8.custom.css HTTP/1.1" 304 - 0.0006
+127.0.0.1 - - [25/Jun/2010 10:47:14] "GET /stylesheets/smoothness/jquery-ui-1.8.custom.css HTTP/1.1" 304 - 0.0023
+127.0.0.1 - - [25/Jun/2010 10:47:14] "GET /stylesheets/app.css HTTP/1.1" 304 - 0.0006
+127.0.0.1 - - [25/Jun/2010 10:47:14] "GET /stylesheets/app.css HTTP/1.1" 304 - 0.0020
+127.0.0.1 - - [25/Jun/2010 10:47:14] "GET /javascripts/jquery-1.4.2.min.js HTTP/1.1" 304 - 0.0006
+127.0.0.1 - - [25/Jun/2010 10:47:14] "GET /javascripts/jquery-1.4.2.min.js HTTP/1.1" 304 - 0.0026
+127.0.0.1 - - [25/Jun/2010 10:47:14] "GET /javascripts/jquery-ui-1.8.custom.min.js HTTP/1.1" 304 - 0.0006
+127.0.0.1 - - [25/Jun/2010 10:47:14] "GET /javascripts/jquery-ui-1.8.custom.min.js HTTP/1.1" 304 - 0.0026
+127.0.0.1 - - [25/Jun/2010 10:47:14] "GET /javascripts/coffee-script.js HTTP/1.1" 304 - 0.0007
+127.0.0.1 - - [25/Jun/2010 10:47:14] "GET /javascripts/coffee-script.js HTTP/1.1" 304 - 0.0029
+127.0.0.1 - - [25/Jun/2010 10:47:56] "GET / HTTP/1.1" 200 3580 0.0694
+127.0.0.1 - - [25/Jun/2010 10:47:56] "GET / HTTP/1.1" 200 3580 0.0711
+127.0.0.1 - - [25/Jun/2010 10:47:56] "GET /stylesheets/reset.css HTTP/1.1" 304 - 0.0013
+127.0.0.1 - - [25/Jun/2010 10:47:56] "GET /stylesheets/reset.css HTTP/1.1" 304 - 0.0042
+127.0.0.1 - - [25/Jun/2010 10:47:56] "GET /stylesheets/text.css HTTP/1.1" 304 - 0.0010
+127.0.0.1 - - [25/Jun/2010 10:47:56] "GET /stylesheets/text.css HTTP/1.1" 304 - 0.0026
+127.0.0.1 - - [25/Jun/2010 10:47:56] "GET /stylesheets/960.css HTTP/1.1" 304 - 0.0008
+127.0.0.1 - - [25/Jun/2010 10:47:56] "GET /stylesheets/960.css HTTP/1.1" 304 - 0.0053
+127.0.0.1 - - [25/Jun/2010 10:47:56] "GET /stylesheets/smoothness/jquery-ui-1.8.custom.css HTTP/1.1" 304 - 0.0007
+127.0.0.1 - - [25/Jun/2010 10:47:56] "GET /stylesheets/smoothness/jquery-ui-1.8.custom.css HTTP/1.1" 304 - 0.0022
+127.0.0.1 - - [25/Jun/2010 10:47:56] "GET /stylesheets/app.css HTTP/1.1" 304 - 0.0007
+127.0.0.1 - - [25/Jun/2010 10:47:56] "GET /stylesheets/app.css HTTP/1.1" 304 - 0.0023
+127.0.0.1 - - [25/Jun/2010 10:47:56] "GET /javascripts/jquery-1.4.2.min.js HTTP/1.1" 304 - 0.0006
+127.0.0.1 - - [25/Jun/2010 10:47:56] "GET /javascripts/jquery-1.4.2.min.js HTTP/1.1" 304 - 0.0026
+127.0.0.1 - - [25/Jun/2010 10:47:56] "GET /javascripts/jquery-ui-1.8.custom.min.js HTTP/1.1" 304 - 0.0007
+127.0.0.1 - - [25/Jun/2010 10:47:56] "GET /javascripts/jquery-ui-1.8.custom.min.js HTTP/1.1" 304 - 0.0022
+127.0.0.1 - - [25/Jun/2010 10:47:56] "GET /javascripts/coffee-script.js HTTP/1.1" 304 - 0.0007
+127.0.0.1 - - [25/Jun/2010 10:47:56] "GET /javascripts/coffee-script.js HTTP/1.1" 304 - 0.0022
+127.0.0.1 - - [25/Jun/2010 10:48:14] "GET / HTTP/1.1" 200 3587 0.0673
+127.0.0.1 - - [25/Jun/2010 10:48:14] "GET / HTTP/1.1" 200 3587 0.0706
+127.0.0.1 - - [25/Jun/2010 10:48:14] "GET /stylesheets/reset.css HTTP/1.1" 304 - 0.0011
+127.0.0.1 - - [25/Jun/2010 10:48:14] "GET /stylesheets/reset.css HTTP/1.1" 304 - 0.0040
+127.0.0.1 - - [25/Jun/2010 10:48:14] "GET /stylesheets/text.css HTTP/1.1" 304 - 0.0007
+127.0.0.1 - - [25/Jun/2010 10:48:14] "GET /stylesheets/text.css HTTP/1.1" 304 - 0.0022
+127.0.0.1 - - [25/Jun/2010 10:48:14] "GET /stylesheets/960.css HTTP/1.1" 304 - 0.0006
+127.0.0.1 - - [25/Jun/2010 10:48:14] "GET /stylesheets/960.css HTTP/1.1" 304 - 0.0022
+127.0.0.1 - - [25/Jun/2010 10:48:14] "GET /stylesheets/smoothness/jquery-ui-1.8.custom.css HTTP/1.1" 304 - 0.0009
+127.0.0.1 - - [25/Jun/2010 10:48:14] "GET /stylesheets/smoothness/jquery-ui-1.8.custom.css HTTP/1.1" 304 - 0.0027
+127.0.0.1 - - [25/Jun/2010 10:48:14] "GET /stylesheets/app.css HTTP/1.1" 304 - 0.0007
+127.0.0.1 - - [25/Jun/2010 10:48:14] "GET /stylesheets/app.css HTTP/1.1" 304 - 0.0026
+127.0.0.1 - - [25/Jun/2010 10:48:14] "GET /javascripts/jquery-1.4.2.min.js HTTP/1.1" 304 - 0.0006
+127.0.0.1 - - [25/Jun/2010 10:48:14] "GET /javascripts/jquery-1.4.2.min.js HTTP/1.1" 304 - 0.0020
+127.0.0.1 - - [25/Jun/2010 10:48:14] "GET /javascripts/jquery-ui-1.8.custom.min.js HTTP/1.1" 304 - 0.0007
+127.0.0.1 - - [25/Jun/2010 10:48:14] "GET /javascripts/jquery-ui-1.8.custom.min.js HTTP/1.1" 304 - 0.0649
+127.0.0.1 - - [25/Jun/2010 10:48:14] "GET /javascripts/coffee-script.js HTTP/1.1" 304 - 0.0008
+127.0.0.1 - - [25/Jun/2010 10:48:14] "GET /javascripts/coffee-script.js HTTP/1.1" 304 - 0.0023
+127.0.0.1 - - [25/Jun/2010 10:48:50] "GET / HTTP/1.1" 200 3633 0.0702
+127.0.0.1 - - [25/Jun/2010 10:48:50] "GET / HTTP/1.1" 200 3633 0.0724
+127.0.0.1 - - [25/Jun/2010 10:48:50] "GET /stylesheets/reset.css HTTP/1.1" 304 - 0.0011
+127.0.0.1 - - [25/Jun/2010 10:48:50] "GET /stylesheets/reset.css HTTP/1.1" 304 - 0.0039
+127.0.0.1 - - [25/Jun/2010 10:48:50] "GET /stylesheets/text.css HTTP/1.1" 304 - 0.0009
+127.0.0.1 - - [25/Jun/2010 10:48:50] "GET /stylesheets/text.css HTTP/1.1" 304 - 0.0023
+127.0.0.1 - - [25/Jun/2010 10:48:50] "GET /stylesheets/960.css HTTP/1.1" 304 - 0.0006
+127.0.0.1 - - [25/Jun/2010 10:48:50] "GET /stylesheets/960.css HTTP/1.1" 304 - 0.0022
+127.0.0.1 - - [25/Jun/2010 10:48:50] "GET /stylesheets/smoothness/jquery-ui-1.8.custom.css HTTP/1.1" 304 - 0.0008
+127.0.0.1 - - [25/Jun/2010 10:48:50] "GET /stylesheets/smoothness/jquery-ui-1.8.custom.css HTTP/1.1" 304 - 0.0025
+127.0.0.1 - - [25/Jun/2010 10:48:50] "GET /stylesheets/app.css HTTP/1.1" 304 - 0.0017
+127.0.0.1 - - [25/Jun/2010 10:48:50] "GET /stylesheets/app.css HTTP/1.1" 304 - 0.0033
+127.0.0.1 - - [25/Jun/2010 10:48:50] "GET /javascripts/jquery-1.4.2.min.js HTTP/1.1" 304 - 0.0006
+127.0.0.1 - - [25/Jun/2010 10:48:50] "GET /javascripts/jquery-1.4.2.min.js HTTP/1.1" 304 - 0.0023
+127.0.0.1 - - [25/Jun/2010 10:48:50] "GET /javascripts/jquery-ui-1.8.custom.min.js HTTP/1.1" 304 - 0.0007
+127.0.0.1 - - [25/Jun/2010 10:48:50] "GET /javascripts/jquery-ui-1.8.custom.min.js HTTP/1.1" 304 - 0.0021
+127.0.0.1 - - [25/Jun/2010 10:48:50] "GET /javascripts/coffee-script.js HTTP/1.1" 304 - 0.0006
+127.0.0.1 - - [25/Jun/2010 10:48:50] "GET /javascripts/coffee-script.js HTTP/1.1" 304 - 0.0022
+127.0.0.1 - - [25/Jun/2010 10:49:15] "GET / HTTP/1.1" 200 3633 0.0690
+127.0.0.1 - - [25/Jun/2010 10:49:15] "GET / HTTP/1.1" 200 3633 0.0709
+127.0.0.1 - - [25/Jun/2010 10:49:15] "GET /stylesheets/text.css HTTP/1.1" 304 - 0.0006
+127.0.0.1 - - [25/Jun/2010 10:49:15] "GET /stylesheets/text.css HTTP/1.1" 304 - 0.0032
+127.0.0.1 - - [25/Jun/2010 10:49:15] "GET /stylesheets/reset.css HTTP/1.1" 304 - 0.0006
+127.0.0.1 - - [25/Jun/2010 10:49:15] "GET /stylesheets/reset.css HTTP/1.1" 304 - 0.0019
+127.0.0.1 - - [25/Jun/2010 10:49:15] "GET /stylesheets/smoothness/jquery-ui-1.8.custom.css HTTP/1.1" 304 - 0.0005
+127.0.0.1 - - [25/Jun/2010 10:49:15] "GET /stylesheets/smoothness/jquery-ui-1.8.custom.css HTTP/1.1" 304 - 0.0019
+127.0.0.1 - - [25/Jun/2010 10:49:15] "GET /stylesheets/app.css HTTP/1.1" 304 - 0.0013
+127.0.0.1 - - [25/Jun/2010 10:49:15] "GET /stylesheets/app.css HTTP/1.1" 304 - 0.0028
+127.0.0.1 - - [25/Jun/2010 10:49:15] "GET /javascripts/jquery-1.4.2.min.js HTTP/1.1" 304 - 0.0006
+127.0.0.1 - - [25/Jun/2010 10:49:15] "GET /javascripts/jquery-1.4.2.min.js HTTP/1.1" 304 - 0.0019
+127.0.0.1 - - [25/Jun/2010 10:49:15] "GET /stylesheets/960.css HTTP/1.1" 304 - 0.0008
+127.0.0.1 - - [25/Jun/2010 10:49:15] "GET /stylesheets/960.css HTTP/1.1" 304 - 0.0025
+127.0.0.1 - - [25/Jun/2010 10:49:15] "GET /javascripts/jquery-ui-1.8.custom.min.js HTTP/1.1" 304 - 0.0006
+127.0.0.1 - - [25/Jun/2010 10:49:15] "GET /javascripts/jquery-ui-1.8.custom.min.js HTTP/1.1" 304 - 0.0020
+127.0.0.1 - - [25/Jun/2010 10:49:15] "GET /javascripts/coffee-script.js HTTP/1.1" 304 - 0.0006
+127.0.0.1 - - [25/Jun/2010 10:49:15] "GET /javascripts/coffee-script.js HTTP/1.1" 304 - 0.0020
+127.0.0.1 - - [25/Jun/2010 10:49:16] "GET /favicon.ico HTTP/1.1" 200 3494 0.0008
+127.0.0.1 - - [25/Jun/2010 10:49:16] "GET /favicon.ico HTTP/1.1" 200 3494 0.0023
+127.0.0.1 - - [25/Jun/2010 11:00:25] "GET / HTTP/1.1" 200 3676 0.1288
+127.0.0.1 - - [25/Jun/2010 11:00:25] "GET / HTTP/1.1" 200 3676 0.1306
+127.0.0.1 - - [25/Jun/2010 11:00:25] "GET /stylesheets/reset.css HTTP/1.1" 304 - 0.0013
+127.0.0.1 - - [25/Jun/2010 11:00:25] "GET /stylesheets/reset.css HTTP/1.1" 304 - 0.0034
+127.0.0.1 - - [25/Jun/2010 11:00:25] "GET /stylesheets/text.css HTTP/1.1" 304 - 0.0009
+127.0.0.1 - - [25/Jun/2010 11:00:25] "GET /stylesheets/text.css HTTP/1.1" 304 - 0.0030
+127.0.0.1 - - [25/Jun/2010 11:00:25] "GET /stylesheets/960.css HTTP/1.1" 304 - 0.0022
+127.0.0.1 - - [25/Jun/2010 11:00:25] "GET /stylesheets/960.css HTTP/1.1" 304 - 0.0041
+127.0.0.1 - - [25/Jun/2010 11:00:25] "GET /stylesheets/smoothness/jquery-ui-1.8.custom.css HTTP/1.1" 304 - 0.0007
+127.0.0.1 - - [25/Jun/2010 11:00:25] "GET /stylesheets/smoothness/jquery-ui-1.8.custom.css HTTP/1.1" 304 - 0.0023
+127.0.0.1 - - [25/Jun/2010 11:00:25] "GET /stylesheets/app.css HTTP/1.1" 304 - 0.0006
+127.0.0.1 - - [25/Jun/2010 11:00:25] "GET /stylesheets/app.css HTTP/1.1" 304 - 0.0022
+127.0.0.1 - - [25/Jun/2010 11:00:25] "GET /javascripts/jquery-1.4.2.min.js HTTP/1.1" 304 - 0.0006
+127.0.0.1 - - [25/Jun/2010 11:00:25] "GET /javascripts/jquery-1.4.2.min.js HTTP/1.1" 304 - 0.0026
+127.0.0.1 - - [25/Jun/2010 11:00:25] "GET /javascripts/jquery-ui-1.8.custom.min.js HTTP/1.1" 304 - 0.0007
+127.0.0.1 - - [25/Jun/2010 11:00:25] "GET /javascripts/jquery-ui-1.8.custom.min.js HTTP/1.1" 304 - 0.0027
+127.0.0.1 - - [25/Jun/2010 11:00:25] "GET /javascripts/coffee-script.js HTTP/1.1" 304 - 0.0008
+127.0.0.1 - - [25/Jun/2010 11:00:25] "GET /javascripts/coffee-script.js HTTP/1.1" 304 - 0.0037
+127.0.0.1 - - [25/Jun/2010 11:00:38] "GET / HTTP/1.1" 200 3701 0.0737
+127.0.0.1 - - [25/Jun/2010 11:00:38] "GET / HTTP/1.1" 200 3701 0.0753
+127.0.0.1 - - [25/Jun/2010 11:00:38] "GET /stylesheets/reset.css HTTP/1.1" 304 - 0.0006
+127.0.0.1 - - [25/Jun/2010 11:00:38] "GET /stylesheets/reset.css HTTP/1.1" 304 - 0.0034
+127.0.0.1 - - [25/Jun/2010 11:00:38] "GET /stylesheets/text.css HTTP/1.1" 304 - 0.0012
+127.0.0.1 - - [25/Jun/2010 11:00:38] "GET /stylesheets/text.css HTTP/1.1" 304 - 0.0041
+127.0.0.1 - - [25/Jun/2010 11:00:38] "GET /stylesheets/960.css HTTP/1.1" 304 - 0.0008
+127.0.0.1 - - [25/Jun/2010 11:00:38] "GET /stylesheets/960.css HTTP/1.1" 304 - 0.0025
+127.0.0.1 - - [25/Jun/2010 11:00:38] "GET /stylesheets/smoothness/jquery-ui-1.8.custom.css HTTP/1.1" 304 - 0.0007
+127.0.0.1 - - [25/Jun/2010 11:00:38] "GET /stylesheets/smoothness/jquery-ui-1.8.custom.css HTTP/1.1" 304 - 0.0023
+127.0.0.1 - - [25/Jun/2010 11:00:38] "GET /stylesheets/app.css HTTP/1.1" 304 - 0.0007
+127.0.0.1 - - [25/Jun/2010 11:00:38] "GET /stylesheets/app.css HTTP/1.1" 304 - 0.0024
+127.0.0.1 - - [25/Jun/2010 11:00:38] "GET /javascripts/jquery-1.4.2.min.js HTTP/1.1" 304 - 0.0006
+127.0.0.1 - - [25/Jun/2010 11:00:38] "GET /javascripts/jquery-1.4.2.min.js HTTP/1.1" 304 - 0.0021
+127.0.0.1 - - [25/Jun/2010 11:00:38] "GET /javascripts/jquery-ui-1.8.custom.min.js HTTP/1.1" 304 - 0.0007
+127.0.0.1 - - [25/Jun/2010 11:00:38] "GET /javascripts/jquery-ui-1.8.custom.min.js HTTP/1.1" 304 - 0.0029
+127.0.0.1 - - [25/Jun/2010 11:00:38] "GET /javascripts/coffee-script.js HTTP/1.1" 304 - 0.0006
+127.0.0.1 - - [25/Jun/2010 11:00:38] "GET /javascripts/coffee-script.js HTTP/1.1" 304 - 0.0033
+127.0.0.1 - - [25/Jun/2010 11:00:49] "GET / HTTP/1.1" 200 3722 0.0764
+127.0.0.1 - - [25/Jun/2010 11:00:49] "GET / HTTP/1.1" 200 3722 0.0780
+127.0.0.1 - - [25/Jun/2010 11:00:49] "GET /stylesheets/reset.css HTTP/1.1" 304 - 0.0011
+127.0.0.1 - - [25/Jun/2010 11:00:49] "GET /stylesheets/reset.css HTTP/1.1" 304 - 0.0037
+127.0.0.1 - - [25/Jun/2010 11:00:49] "GET /stylesheets/text.css HTTP/1.1" 304 - 0.0006
+127.0.0.1 - - [25/Jun/2010 11:00:49] "GET /stylesheets/text.css HTTP/1.1" 304 - 0.0025
+127.0.0.1 - - [25/Jun/2010 11:00:49] "GET /stylesheets/960.css HTTP/1.1" 304 - 0.0007
+127.0.0.1 - - [25/Jun/2010 11:00:49] "GET /stylesheets/960.css HTTP/1.1" 304 - 0.0022
+127.0.0.1 - - [25/Jun/2010 11:00:49] "GET /stylesheets/smoothness/jquery-ui-1.8.custom.css HTTP/1.1" 304 - 0.0017
+127.0.0.1 - - [25/Jun/2010 11:00:49] "GET /stylesheets/smoothness/jquery-ui-1.8.custom.css HTTP/1.1" 304 - 0.0033
+127.0.0.1 - - [25/Jun/2010 11:00:49] "GET /stylesheets/app.css HTTP/1.1" 304 - 0.0010
+127.0.0.1 - - [25/Jun/2010 11:00:49] "GET /stylesheets/app.css HTTP/1.1" 304 - 0.0030
+127.0.0.1 - - [25/Jun/2010 11:00:49] "GET /javascripts/jquery-1.4.2.min.js HTTP/1.1" 304 - 0.0006
+127.0.0.1 - - [25/Jun/2010 11:00:49] "GET /javascripts/jquery-1.4.2.min.js HTTP/1.1" 304 - 0.0022
+127.0.0.1 - - [25/Jun/2010 11:00:49] "GET /javascripts/coffee-script.js HTTP/1.1" 304 - 0.0006
+127.0.0.1 - - [25/Jun/2010 11:00:49] "GET /javascripts/coffee-script.js HTTP/1.1" 304 - 0.0023
+127.0.0.1 - - [25/Jun/2010 11:00:49] "GET /javascripts/jquery-ui-1.8.custom.min.js HTTP/1.1" 304 - 0.0007
+127.0.0.1 - - [25/Jun/2010 11:00:49] "GET /javascripts/jquery-ui-1.8.custom.min.js HTTP/1.1" 304 - 0.0671
+127.0.0.1 - - [25/Jun/2010 11:01:04] "GET / HTTP/1.1" 200 3813 0.0800
+127.0.0.1 - - [25/Jun/2010 11:01:04] "GET / HTTP/1.1" 200 3813 0.0820
+127.0.0.1 - - [25/Jun/2010 11:01:04] "GET /stylesheets/reset.css HTTP/1.1" 304 - 0.0006
+127.0.0.1 - - [25/Jun/2010 11:01:04] "GET /stylesheets/reset.css HTTP/1.1" 304 - 0.0035
+127.0.0.1 - - [25/Jun/2010 11:01:04] "GET /stylesheets/text.css HTTP/1.1" 304 - 0.0006
+127.0.0.1 - - [25/Jun/2010 11:01:04] "GET /stylesheets/text.css HTTP/1.1" 304 - 0.0040
+127.0.0.1 - - [25/Jun/2010 11:01:04] "GET /stylesheets/960.css HTTP/1.1" 304 - 0.0007
+127.0.0.1 - - [25/Jun/2010 11:01:04] "GET /stylesheets/960.css HTTP/1.1" 304 - 0.0022
+127.0.0.1 - - [25/Jun/2010 11:01:04] "GET /stylesheets/smoothness/jquery-ui-1.8.custom.css HTTP/1.1" 304 - 0.0008
+127.0.0.1 - - [25/Jun/2010 11:01:04] "GET /stylesheets/smoothness/jquery-ui-1.8.custom.css HTTP/1.1" 304 - 0.0025
+127.0.0.1 - - [25/Jun/2010 11:01:04] "GET /stylesheets/app.css HTTP/1.1" 304 - 0.0008
+127.0.0.1 - - [25/Jun/2010 11:01:04] "GET /stylesheets/app.css HTTP/1.1" 304 - 0.0024
+127.0.0.1 - - [25/Jun/2010 11:01:04] "GET /javascripts/jquery-1.4.2.min.js HTTP/1.1" 304 - 0.0011
+127.0.0.1 - - [25/Jun/2010 11:01:04] "GET /javascripts/jquery-1.4.2.min.js HTTP/1.1" 304 - 0.0026
+127.0.0.1 - - [25/Jun/2010 11:01:04] "GET /javascripts/jquery-ui-1.8.custom.min.js HTTP/1.1" 304 - 0.0007
+127.0.0.1 - - [25/Jun/2010 11:01:04] "GET /javascripts/jquery-ui-1.8.custom.min.js HTTP/1.1" 304 - 0.0021
+127.0.0.1 - - [25/Jun/2010 11:01:04] "GET /javascripts/coffee-script.js HTTP/1.1" 304 - 0.0009
+127.0.0.1 - - [25/Jun/2010 11:01:04] "GET /javascripts/coffee-script.js HTTP/1.1" 304 - 0.0024
+127.0.0.1 - - [25/Jun/2010 11:01:23] "GET / HTTP/1.1" 200 3833 0.0784
+127.0.0.1 - - [25/Jun/2010 11:01:23] "GET / HTTP/1.1" 200 3833 0.0814
+127.0.0.1 - - [25/Jun/2010 11:01:23] "GET /stylesheets/reset.css HTTP/1.1" 304 - 0.0007
+127.0.0.1 - - [25/Jun/2010 11:01:23] "GET /stylesheets/reset.css HTTP/1.1" 304 - 0.0036
+127.0.0.1 - - [25/Jun/2010 11:01:23] "GET /stylesheets/text.css HTTP/1.1" 304 - 0.0009
+127.0.0.1 - - [25/Jun/2010 11:01:23] "GET /stylesheets/text.css HTTP/1.1" 304 - 0.0038
+127.0.0.1 - - [25/Jun/2010 11:01:23] "GET /stylesheets/960.css HTTP/1.1" 304 - 0.0009
+127.0.0.1 - - [25/Jun/2010 11:01:23] "GET /stylesheets/960.css HTTP/1.1" 304 - 0.0025
+127.0.0.1 - - [25/Jun/2010 11:01:23] "GET /stylesheets/smoothness/jquery-ui-1.8.custom.css HTTP/1.1" 304 - 0.0007
+127.0.0.1 - - [25/Jun/2010 11:01:23] "GET /stylesheets/smoothness/jquery-ui-1.8.custom.css HTTP/1.1" 304 - 0.0029
+127.0.0.1 - - [25/Jun/2010 11:01:23] "GET /stylesheets/app.css HTTP/1.1" 304 - 0.0008
+127.0.0.1 - - [25/Jun/2010 11:01:23] "GET /stylesheets/app.css HTTP/1.1" 304 - 0.0024
+127.0.0.1 - - [25/Jun/2010 11:01:23] "GET /javascripts/jquery-1.4.2.min.js HTTP/1.1" 304 - 0.0006
+127.0.0.1 - - [25/Jun/2010 11:01:23] "GET /javascripts/jquery-1.4.2.min.js HTTP/1.1" 304 - 0.0022
+127.0.0.1 - - [25/Jun/2010 11:01:23] "GET /javascripts/jquery-ui-1.8.custom.min.js HTTP/1.1" 304 - 0.0008
+127.0.0.1 - - [25/Jun/2010 11:01:23] "GET /javascripts/jquery-ui-1.8.custom.min.js HTTP/1.1" 304 - 0.0030
+127.0.0.1 - - [25/Jun/2010 11:01:23] "GET /javascripts/coffee-script.js HTTP/1.1" 304 - 0.0006
+127.0.0.1 - - [25/Jun/2010 11:01:23] "GET /javascripts/coffee-script.js HTTP/1.1" 304 - 0.0022
+127.0.0.1 - - [25/Jun/2010 11:01:28] "GET / HTTP/1.1" 200 3833 0.1355
+127.0.0.1 - - [25/Jun/2010 11:01:28] "GET / HTTP/1.1" 200 3833 0.1372
+127.0.0.1 - - [25/Jun/2010 11:01:28] "GET /stylesheets/reset.css HTTP/1.1" 304 - 0.0012
+127.0.0.1 - - [25/Jun/2010 11:01:28] "GET /stylesheets/reset.css HTTP/1.1" 304 - 0.0037
+127.0.0.1 - - [25/Jun/2010 11:01:28] "GET /stylesheets/text.css HTTP/1.1" 304 - 0.0017
+127.0.0.1 - - [25/Jun/2010 11:01:28] "GET /stylesheets/text.css HTTP/1.1" 304 - 0.0039
+127.0.0.1 - - [25/Jun/2010 11:01:28] "GET /stylesheets/960.css HTTP/1.1" 304 - 0.0007
+127.0.0.1 - - [25/Jun/2010 11:01:28] "GET /stylesheets/960.css HTTP/1.1" 304 - 0.0022
+127.0.0.1 - - [25/Jun/2010 11:01:28] "GET /stylesheets/smoothness/jquery-ui-1.8.custom.css HTTP/1.1" 304 - 0.0007
+127.0.0.1 - - [25/Jun/2010 11:01:28] "GET /stylesheets/smoothness/jquery-ui-1.8.custom.css HTTP/1.1" 304 - 0.0023
+127.0.0.1 - - [25/Jun/2010 11:01:28] "GET /stylesheets/app.css HTTP/1.1" 304 - 0.0007
+127.0.0.1 - - [25/Jun/2010 11:01:28] "GET /stylesheets/app.css HTTP/1.1" 304 - 0.0021
+127.0.0.1 - - [25/Jun/2010 11:01:28] "GET /javascripts/jquery-1.4.2.min.js HTTP/1.1" 304 - 0.0006
+127.0.0.1 - - [25/Jun/2010 11:01:28] "GET /javascripts/jquery-1.4.2.min.js HTTP/1.1" 304 - 0.0020
+127.0.0.1 - - [25/Jun/2010 11:01:28] "GET /javascripts/jquery-ui-1.8.custom.min.js HTTP/1.1" 304 - 0.0007
+127.0.0.1 - - [25/Jun/2010 11:01:28] "GET /javascripts/jquery-ui-1.8.custom.min.js HTTP/1.1" 304 - 0.0031
+127.0.0.1 - - [25/Jun/2010 11:01:28] "GET /javascripts/coffee-script.js HTTP/1.1" 304 - 0.0007
+127.0.0.1 - - [25/Jun/2010 11:01:28] "GET /javascripts/coffee-script.js HTTP/1.1" 304 - 0.0025
+127.0.0.1 - - [25/Jun/2010 11:01:51] "GET / HTTP/1.1" 200 3833 0.0799
+127.0.0.1 - - [25/Jun/2010 11:01:51] "GET / HTTP/1.1" 200 3833 0.0816
+127.0.0.1 - - [25/Jun/2010 11:01:51] "GET /stylesheets/text.css HTTP/1.1" 304 - 0.0007
+127.0.0.1 - - [25/Jun/2010 11:01:51] "GET /stylesheets/text.css HTTP/1.1" 304 - 0.0026
+127.0.0.1 - - [25/Jun/2010 11:01:51] "GET /stylesheets/reset.css HTTP/1.1" 304 - 0.0006
+127.0.0.1 - - [25/Jun/2010 11:01:51] "GET /stylesheets/reset.css HTTP/1.1" 304 - 0.0022
+127.0.0.1 - - [25/Jun/2010 11:01:51] "GET /stylesheets/app.css HTTP/1.1" 304 - 0.0005
+127.0.0.1 - - [25/Jun/2010 11:01:51] "GET /stylesheets/app.css HTTP/1.1" 304 - 0.0018
+127.0.0.1 - - [25/Jun/2010 11:01:51] "GET /stylesheets/smoothness/jquery-ui-1.8.custom.css HTTP/1.1" 304 - 0.0006
+127.0.0.1 - - [25/Jun/2010 11:01:51] "GET /stylesheets/smoothness/jquery-ui-1.8.custom.css HTTP/1.1" 304 - 0.0019
+127.0.0.1 - - [25/Jun/2010 11:01:51] "GET /stylesheets/960.css HTTP/1.1" 304 - 0.0006
+127.0.0.1 - - [25/Jun/2010 11:01:51] "GET /stylesheets/960.css HTTP/1.1" 304 - 0.0021
+127.0.0.1 - - [25/Jun/2010 11:01:51] "GET /javascripts/jquery-1.4.2.min.js HTTP/1.1" 304 - 0.0006
+127.0.0.1 - - [25/Jun/2010 11:01:51] "GET /javascripts/jquery-1.4.2.min.js HTTP/1.1" 304 - 0.0020
+127.0.0.1 - - [25/Jun/2010 11:01:51] "GET /javascripts/jquery-ui-1.8.custom.min.js HTTP/1.1" 304 - 0.0006
+127.0.0.1 - - [25/Jun/2010 11:01:51] "GET /javascripts/jquery-ui-1.8.custom.min.js HTTP/1.1" 304 - 0.0020
+127.0.0.1 - - [25/Jun/2010 11:01:51] "GET /javascripts/coffee-script.js HTTP/1.1" 304 - 0.0006
+127.0.0.1 - - [25/Jun/2010 11:01:51] "GET /javascripts/coffee-script.js HTTP/1.1" 304 - 0.0020
+127.0.0.1 - - [25/Jun/2010 11:01:51] "GET /favicon.ico HTTP/1.1" 200 3494 0.0008
+127.0.0.1 - - [25/Jun/2010 11:01:51] "GET /favicon.ico HTTP/1.1" 200 3494 0.0472
+127.0.0.1 - - [25/Jun/2010 11:03:56] "GET / HTTP/1.1" 200 3931 0.0788
+127.0.0.1 - - [25/Jun/2010 11:03:56] "GET / HTTP/1.1" 200 3931 0.0802
+127.0.0.1 - - [25/Jun/2010 11:03:56] "GET /javascripts/jquery-1.4.2.min.js HTTP/1.1" 304 - 0.0006
+127.0.0.1 - - [25/Jun/2010 11:03:56] "GET /javascripts/jquery-1.4.2.min.js HTTP/1.1" 304 - 0.0022
+127.0.0.1 - - [25/Jun/2010 11:03:56] "GET /stylesheets/reset.css HTTP/1.1" 304 - 0.0005
+127.0.0.1 - - [25/Jun/2010 11:03:56] "GET /stylesheets/reset.css HTTP/1.1" 304 - 0.0021
+127.0.0.1 - - [25/Jun/2010 11:03:56] "GET /stylesheets/app.css HTTP/1.1" 304 - 0.0005
+127.0.0.1 - - [25/Jun/2010 11:03:56] "GET /stylesheets/app.css HTTP/1.1" 304 - 0.0018
+127.0.0.1 - - [25/Jun/2010 11:03:56] "GET /stylesheets/text.css HTTP/1.1" 304 - 0.0005
+127.0.0.1 - - [25/Jun/2010 11:03:56] "GET /stylesheets/text.css HTTP/1.1" 304 - 0.0019
+127.0.0.1 - - [25/Jun/2010 11:03:56] "GET /stylesheets/960.css HTTP/1.1" 304 - 0.0006
+127.0.0.1 - - [25/Jun/2010 11:03:56] "GET /stylesheets/960.css HTTP/1.1" 304 - 0.0595
+127.0.0.1 - - [25/Jun/2010 11:03:56] "GET /stylesheets/smoothness/jquery-ui-1.8.custom.css HTTP/1.1" 304 - 0.0012
+127.0.0.1 - - [25/Jun/2010 11:03:56] "GET /stylesheets/smoothness/jquery-ui-1.8.custom.css HTTP/1.1" 304 - 0.0030
+127.0.0.1 - - [25/Jun/2010 11:03:56] "GET /javascripts/jquery-ui-1.8.custom.min.js HTTP/1.1" 304 - 0.0006
+127.0.0.1 - - [25/Jun/2010 11:03:56] "GET /javascripts/jquery-ui-1.8.custom.min.js HTTP/1.1" 304 - 0.0021
+127.0.0.1 - - [25/Jun/2010 11:03:56] "GET /javascripts/coffee-script.js HTTP/1.1" 304 - 0.0006
+127.0.0.1 - - [25/Jun/2010 11:03:56] "GET /javascripts/coffee-script.js HTTP/1.1" 304 - 0.0021
+127.0.0.1 - - [25/Jun/2010 11:03:57] "GET /favicon.ico HTTP/1.1" 200 3494 0.0008
+127.0.0.1 - - [25/Jun/2010 11:03:57] "GET /favicon.ico HTTP/1.1" 200 3494 0.0024
+127.0.0.1 - - [25/Jun/2010 11:13:38] "GET / HTTP/1.1" 200 4085 0.0845
+127.0.0.1 - - [25/Jun/2010 11:13:38] "GET / HTTP/1.1" 200 4085 0.0861
+127.0.0.1 - - [25/Jun/2010 11:13:38] "GET /stylesheets/960.css HTTP/1.1" 304 - 0.0006
+127.0.0.1 - - [25/Jun/2010 11:13:38] "GET /stylesheets/960.css HTTP/1.1" 304 - 0.0023
+127.0.0.1 - - [25/Jun/2010 11:13:38] "GET /stylesheets/app.css HTTP/1.1" 304 - 0.0005
+127.0.0.1 - - [25/Jun/2010 11:13:38] "GET /stylesheets/app.css HTTP/1.1" 304 - 0.0018
+127.0.0.1 - - [25/Jun/2010 11:13:38] "GET /javascripts/jquery-1.4.2.min.js HTTP/1.1" 304 - 0.0006
+127.0.0.1 - - [25/Jun/2010 11:13:38] "GET /javascripts/jquery-1.4.2.min.js HTTP/1.1" 304 - 0.0019
+127.0.0.1 - - [25/Jun/2010 11:13:38] "GET /stylesheets/text.css HTTP/1.1" 304 - 0.0007
+127.0.0.1 - - [25/Jun/2010 11:13:38] "GET /stylesheets/text.css HTTP/1.1" 304 - 0.0028
+127.0.0.1 - - [25/Jun/2010 11:13:38] "GET /stylesheets/smoothness/jquery-ui-1.8.custom.css HTTP/1.1" 304 - 0.0006
+127.0.0.1 - - [25/Jun/2010 11:13:38] "GET /stylesheets/smoothness/jquery-ui-1.8.custom.css HTTP/1.1" 304 - 0.0019
+127.0.0.1 - - [25/Jun/2010 11:13:38] "GET /stylesheets/reset.css HTTP/1.1" 304 - 0.0006
+127.0.0.1 - - [25/Jun/2010 11:13:38] "GET /stylesheets/reset.css HTTP/1.1" 304 - 0.0019
+127.0.0.1 - - [25/Jun/2010 11:13:38] "GET /javascripts/jquery-ui-1.8.custom.min.js HTTP/1.1" 304 - 0.0006
+127.0.0.1 - - [25/Jun/2010 11:13:38] "GET /javascripts/jquery-ui-1.8.custom.min.js HTTP/1.1" 304 - 0.0021
+127.0.0.1 - - [25/Jun/2010 11:13:38] "GET /javascripts/coffee-script.js HTTP/1.1" 304 - 0.0006
+127.0.0.1 - - [25/Jun/2010 11:13:38] "GET /javascripts/coffee-script.js HTTP/1.1" 304 - 0.0019
+127.0.0.1 - - [25/Jun/2010 11:13:39] "GET /favicon.ico HTTP/1.1" 200 3494 0.0011
+127.0.0.1 - - [25/Jun/2010 11:13:39] "GET /favicon.ico HTTP/1.1" 200 3494 0.0032
+127.0.0.1 - - [25/Jun/2010 11:13:52] "GET / HTTP/1.1" 200 4132 0.0849
+127.0.0.1 - - [25/Jun/2010 11:13:52] "GET / HTTP/1.1" 200 4132 0.0865
+127.0.0.1 - - [25/Jun/2010 11:13:52] "GET /javascripts/jquery-1.4.2.min.js HTTP/1.1" 304 - 0.0006
+127.0.0.1 - - [25/Jun/2010 11:13:52] "GET /javascripts/jquery-1.4.2.min.js HTTP/1.1" 304 - 0.0024
+127.0.0.1 - - [25/Jun/2010 11:13:52] "GET /stylesheets/reset.css HTTP/1.1" 304 - 0.0006
+127.0.0.1 - - [25/Jun/2010 11:13:52] "GET /stylesheets/reset.css HTTP/1.1" 304 - 0.0019
+127.0.0.1 - - [25/Jun/2010 11:13:52] "GET /stylesheets/app.css HTTP/1.1" 304 - 0.0006
+127.0.0.1 - - [25/Jun/2010 11:13:52] "GET /stylesheets/app.css HTTP/1.1" 304 - 0.0028
+127.0.0.1 - - [25/Jun/2010 11:13:52] "GET /stylesheets/text.css HTTP/1.1" 304 - 0.0005
+127.0.0.1 - - [25/Jun/2010 11:13:52] "GET /stylesheets/text.css HTTP/1.1" 304 - 0.0018
+127.0.0.1 - - [25/Jun/2010 11:13:52] "GET /stylesheets/960.css HTTP/1.1" 304 - 0.0006
+127.0.0.1 - - [25/Jun/2010 11:13:52] "GET /stylesheets/960.css HTTP/1.1" 304 - 0.0020
+127.0.0.1 - - [25/Jun/2010 11:13:52] "GET /stylesheets/smoothness/jquery-ui-1.8.custom.css HTTP/1.1" 304 - 0.0011
+127.0.0.1 - - [25/Jun/2010 11:13:52] "GET /stylesheets/smoothness/jquery-ui-1.8.custom.css HTTP/1.1" 304 - 0.0025
+127.0.0.1 - - [25/Jun/2010 11:13:52] "GET /javascripts/jquery-ui-1.8.custom.min.js HTTP/1.1" 304 - 0.0006
+127.0.0.1 - - [25/Jun/2010 11:13:52] "GET /javascripts/jquery-ui-1.8.custom.min.js HTTP/1.1" 304 - 0.0019
+127.0.0.1 - - [25/Jun/2010 11:13:52] "GET /javascripts/coffee-script.js HTTP/1.1" 304 - 0.0006
+127.0.0.1 - - [25/Jun/2010 11:13:52] "GET /javascripts/coffee-script.js HTTP/1.1" 304 - 0.0564
+127.0.0.1 - - [25/Jun/2010 11:13:52] "GET /favicon.ico HTTP/1.1" 200 3494 0.0008
+127.0.0.1 - - [25/Jun/2010 11:13:52] "GET /favicon.ico HTTP/1.1" 200 3494 0.0030
+127.0.0.1 - - [25/Jun/2010 11:14:00] "GET / HTTP/1.1" 200 4131 0.0858
+127.0.0.1 - - [25/Jun/2010 11:14:00] "GET / HTTP/1.1" 200 4131 0.0874
+127.0.0.1 - - [25/Jun/2010 11:14:00] "GET /stylesheets/960.css HTTP/1.1" 304 - 0.0006
+127.0.0.1 - - [25/Jun/2010 11:14:00] "GET /stylesheets/960.css HTTP/1.1" 304 - 0.0023
+127.0.0.1 - - [25/Jun/2010 11:14:00] "GET /stylesheets/app.css HTTP/1.1" 304 - 0.0005
+127.0.0.1 - - [25/Jun/2010 11:14:00] "GET /stylesheets/app.css HTTP/1.1" 304 - 0.0018
+127.0.0.1 - - [25/Jun/2010 11:14:00] "GET /stylesheets/text.css HTTP/1.1" 304 - 0.0005
+127.0.0.1 - - [25/Jun/2010 11:14:00] "GET /stylesheets/text.css HTTP/1.1" 304 - 0.0018
+127.0.0.1 - - [25/Jun/2010 11:14:00] "GET /javascripts/jquery-1.4.2.min.js HTTP/1.1" 304 - 0.0019
+127.0.0.1 - - [25/Jun/2010 11:14:00] "GET /javascripts/jquery-1.4.2.min.js HTTP/1.1" 304 - 0.0033
+127.0.0.1 - - [25/Jun/2010 11:14:00] "GET /stylesheets/smoothness/jquery-ui-1.8.custom.css HTTP/1.1" 304 - 0.0006
+127.0.0.1 - - [25/Jun/2010 11:14:00] "GET /stylesheets/smoothness/jquery-ui-1.8.custom.css HTTP/1.1" 304 - 0.0020
+127.0.0.1 - - [25/Jun/2010 11:14:00] "GET /stylesheets/reset.css HTTP/1.1" 304 - 0.0006
+127.0.0.1 - - [25/Jun/2010 11:14:00] "GET /stylesheets/reset.css HTTP/1.1" 304 - 0.0021
+127.0.0.1 - - [25/Jun/2010 11:14:00] "GET /javascripts/jquery-ui-1.8.custom.min.js HTTP/1.1" 304 - 0.0006
+127.0.0.1 - - [25/Jun/2010 11:14:00] "GET /javascripts/jquery-ui-1.8.custom.min.js HTTP/1.1" 304 - 0.0020
+127.0.0.1 - - [25/Jun/2010 11:14:00] "GET /javascripts/coffee-script.js HTTP/1.1" 304 - 0.0006
+127.0.0.1 - - [25/Jun/2010 11:14:00] "GET /javascripts/coffee-script.js HTTP/1.1" 304 - 0.0019
+127.0.0.1 - - [25/Jun/2010 11:14:00] "GET /favicon.ico HTTP/1.1" 200 3494 0.0008
+127.0.0.1 - - [25/Jun/2010 11:14:00] "GET /favicon.ico HTTP/1.1" 200 3494 0.0024
+127.0.0.1 - - [25/Jun/2010 11:14:35] "GET / HTTP/1.1" 200 4146 0.0856
+127.0.0.1 - - [25/Jun/2010 11:14:35] "GET / HTTP/1.1" 200 4146 0.0871
+127.0.0.1 - - [25/Jun/2010 11:14:35] "GET /stylesheets/text.css HTTP/1.1" 304 - 0.0006
+127.0.0.1 - - [25/Jun/2010 11:14:35] "GET /stylesheets/text.css HTTP/1.1" 304 - 0.0025
+127.0.0.1 - - [25/Jun/2010 11:14:35] "GET /stylesheets/smoothness/jquery-ui-1.8.custom.css HTTP/1.1" 304 - 0.0005
+127.0.0.1 - - [25/Jun/2010 11:14:35] "GET /stylesheets/smoothness/jquery-ui-1.8.custom.css HTTP/1.1" 304 - 0.0018
+127.0.0.1 - - [25/Jun/2010 11:14:35] "GET /stylesheets/app.css HTTP/1.1" 304 - 0.0005
+127.0.0.1 - - [25/Jun/2010 11:14:35] "GET /stylesheets/app.css HTTP/1.1" 304 - 0.0018
+127.0.0.1 - - [25/Jun/2010 11:14:35] "GET /stylesheets/960.css HTTP/1.1" 304 - 0.0006
+127.0.0.1 - - [25/Jun/2010 11:14:35] "GET /stylesheets/960.css HTTP/1.1" 304 - 0.0019
+127.0.0.1 - - [25/Jun/2010 11:14:35] "GET /javascripts/jquery-1.4.2.min.js HTTP/1.1" 304 - 0.0010
+127.0.0.1 - - [25/Jun/2010 11:14:35] "GET /javascripts/jquery-1.4.2.min.js HTTP/1.1" 304 - 0.0023
+127.0.0.1 - - [25/Jun/2010 11:14:35] "GET /stylesheets/reset.css HTTP/1.1" 304 - 0.0018
+127.0.0.1 - - [25/Jun/2010 11:14:35] "GET /stylesheets/reset.css HTTP/1.1" 304 - 0.0036
+127.0.0.1 - - [25/Jun/2010 11:14:35] "GET /javascripts/jquery-ui-1.8.custom.min.js HTTP/1.1" 304 - 0.0006
+127.0.0.1 - - [25/Jun/2010 11:14:35] "GET /javascripts/jquery-ui-1.8.custom.min.js HTTP/1.1" 304 - 0.0020
+127.0.0.1 - - [25/Jun/2010 11:14:35] "GET /javascripts/coffee-script.js HTTP/1.1" 304 - 0.0007
+127.0.0.1 - - [25/Jun/2010 11:14:35] "GET /javascripts/coffee-script.js HTTP/1.1" 304 - 0.0021
+127.0.0.1 - - [25/Jun/2010 11:14:36] "GET /favicon.ico HTTP/1.1" 200 3494 0.0009
+127.0.0.1 - - [25/Jun/2010 11:14:36] "GET /favicon.ico HTTP/1.1" 200 3494 0.0027
+127.0.0.1 - - [25/Jun/2010 11:15:12] "GET / HTTP/1.1" 200 4246 0.1434
+127.0.0.1 - - [25/Jun/2010 11:15:12] "GET / HTTP/1.1" 200 4246 0.1451
+127.0.0.1 - - [25/Jun/2010 11:15:12] "GET /stylesheets/text.css HTTP/1.1" 304 - 0.0006
+127.0.0.1 - - [25/Jun/2010 11:15:12] "GET /stylesheets/text.css HTTP/1.1" 304 - 0.0028
+127.0.0.1 - - [25/Jun/2010 11:15:12] "GET /javascripts/jquery-1.4.2.min.js HTTP/1.1" 304 - 0.0005
+127.0.0.1 - - [25/Jun/2010 11:15:12] "GET /javascripts/jquery-1.4.2.min.js HTTP/1.1" 304 - 0.0019
+127.0.0.1 - - [25/Jun/2010 11:15:12] "GET /stylesheets/app.css HTTP/1.1" 304 - 0.0007
+127.0.0.1 - - [25/Jun/2010 11:15:12] "GET /stylesheets/app.css HTTP/1.1" 304 - 0.0020
+127.0.0.1 - - [25/Jun/2010 11:15:12] "GET /stylesheets/smoothness/jquery-ui-1.8.custom.css HTTP/1.1" 304 - 0.0006
+127.0.0.1 - - [25/Jun/2010 11:15:12] "GET /stylesheets/smoothness/jquery-ui-1.8.custom.css HTTP/1.1" 304 - 0.0021
+127.0.0.1 - - [25/Jun/2010 11:15:12] "GET /stylesheets/960.css HTTP/1.1" 304 - 0.0006
+127.0.0.1 - - [25/Jun/2010 11:15:12] "GET /stylesheets/960.css HTTP/1.1" 304 - 0.0019
+127.0.0.1 - - [25/Jun/2010 11:15:12] "GET /stylesheets/reset.css HTTP/1.1" 304 - 0.0006
+127.0.0.1 - - [25/Jun/2010 11:15:12] "GET /stylesheets/reset.css HTTP/1.1" 304 - 0.0021
+127.0.0.1 - - [25/Jun/2010 11:15:12] "GET /javascripts/jquery-ui-1.8.custom.min.js HTTP/1.1" 304 - 0.0006
+127.0.0.1 - - [25/Jun/2010 11:15:12] "GET /javascripts/jquery-ui-1.8.custom.min.js HTTP/1.1" 304 - 0.0021
+127.0.0.1 - - [25/Jun/2010 11:15:12] "GET /javascripts/coffee-script.js HTTP/1.1" 304 - 0.0006
+127.0.0.1 - - [25/Jun/2010 11:15:12] "GET /javascripts/coffee-script.js HTTP/1.1" 304 - 0.0020
+127.0.0.1 - - [25/Jun/2010 11:15:13] "GET /favicon.ico HTTP/1.1" 200 3494 0.0008
+127.0.0.1 - - [25/Jun/2010 11:15:13] "GET /favicon.ico HTTP/1.1" 200 3494 0.0024
+127.0.0.1 - - [25/Jun/2010 11:15:47] "GET / HTTP/1.1" 200 4309 0.0913
+127.0.0.1 - - [25/Jun/2010 11:15:47] "GET / HTTP/1.1" 200 4309 0.0929
+127.0.0.1 - - [25/Jun/2010 11:15:47] "GET /stylesheets/text.css HTTP/1.1" 304 - 0.0007
+127.0.0.1 - - [25/Jun/2010 11:15:47] "GET /stylesheets/text.css HTTP/1.1" 304 - 0.0023
+127.0.0.1 - - [25/Jun/2010 11:15:47] "GET /stylesheets/960.css HTTP/1.1" 304 - 0.0006
+127.0.0.1 - - [25/Jun/2010 11:15:47] "GET /stylesheets/960.css HTTP/1.1" 304 - 0.0021
+127.0.0.1 - - [25/Jun/2010 11:15:47] "GET /javascripts/jquery-1.4.2.min.js HTTP/1.1" 304 - 0.0007
+127.0.0.1 - - [25/Jun/2010 11:15:47] "GET /javascripts/jquery-1.4.2.min.js HTTP/1.1" 304 - 0.0020
+127.0.0.1 - - [25/Jun/2010 11:15:47] "GET /stylesheets/smoothness/jquery-ui-1.8.custom.css HTTP/1.1" 304 - 0.0006
+127.0.0.1 - - [25/Jun/2010 11:15:47] "GET /stylesheets/smoothness/jquery-ui-1.8.custom.css HTTP/1.1" 304 - 0.0019
+127.0.0.1 - - [25/Jun/2010 11:15:47] "GET /stylesheets/reset.css HTTP/1.1" 304 - 0.0013
+127.0.0.1 - - [25/Jun/2010 11:15:47] "GET /stylesheets/reset.css HTTP/1.1" 304 - 0.0026
+127.0.0.1 - - [25/Jun/2010 11:15:47] "GET /stylesheets/app.css HTTP/1.1" 304 - 0.0006
+127.0.0.1 - - [25/Jun/2010 11:15:47] "GET /stylesheets/app.css HTTP/1.1" 304 - 0.0022
+127.0.0.1 - - [25/Jun/2010 11:15:47] "GET /javascripts/jquery-ui-1.8.custom.min.js HTTP/1.1" 304 - 0.0006
+127.0.0.1 - - [25/Jun/2010 11:15:47] "GET /javascripts/jquery-ui-1.8.custom.min.js HTTP/1.1" 304 - 0.0019
+127.0.0.1 - - [25/Jun/2010 11:15:47] "GET /javascripts/coffee-script.js HTTP/1.1" 304 - 0.0006
+127.0.0.1 - - [25/Jun/2010 11:15:47] "GET /javascripts/coffee-script.js HTTP/1.1" 304 - 0.0022
+127.0.0.1 - - [25/Jun/2010 11:15:48] "GET /favicon.ico HTTP/1.1" 200 3494 0.0008
+127.0.0.1 - - [25/Jun/2010 11:15:48] "GET /favicon.ico HTTP/1.1" 200 3494 0.0025
+127.0.0.1 - - [25/Jun/2010 11:16:29] "GET / HTTP/1.1" 200 4344 0.1508
+127.0.0.1 - - [25/Jun/2010 11:16:29] "GET / HTTP/1.1" 200 4344 0.1523
+127.0.0.1 - - [25/Jun/2010 11:16:29] "GET /stylesheets/app.css HTTP/1.1" 304 - 0.0006
+127.0.0.1 - - [25/Jun/2010 11:16:29] "GET /stylesheets/app.css HTTP/1.1" 304 - 0.0024
+127.0.0.1 - - [25/Jun/2010 11:16:29] "GET /stylesheets/reset.css HTTP/1.1" 304 - 0.0005
+127.0.0.1 - - [25/Jun/2010 11:16:29] "GET /stylesheets/reset.css HTTP/1.1" 304 - 0.0019
+127.0.0.1 - - [25/Jun/2010 11:16:29] "GET /stylesheets/text.css HTTP/1.1" 304 - 0.0006
+127.0.0.1 - - [25/Jun/2010 11:16:29] "GET /stylesheets/text.css HTTP/1.1" 304 - 0.0020
+127.0.0.1 - - [25/Jun/2010 11:16:29] "GET /javascripts/jquery-1.4.2.min.js HTTP/1.1" 304 - 0.0006
+127.0.0.1 - - [25/Jun/2010 11:16:29] "GET /javascripts/jquery-1.4.2.min.js HTTP/1.1" 304 - 0.0019
+127.0.0.1 - - [25/Jun/2010 11:16:29] "GET /stylesheets/960.css HTTP/1.1" 304 - 0.0006
+127.0.0.1 - - [25/Jun/2010 11:16:29] "GET /stylesheets/960.css HTTP/1.1" 304 - 0.0020
+127.0.0.1 - - [25/Jun/2010 11:16:29] "GET /stylesheets/smoothness/jquery-ui-1.8.custom.css HTTP/1.1" 304 - 0.0006
+127.0.0.1 - - [25/Jun/2010 11:16:29] "GET /stylesheets/smoothness/jquery-ui-1.8.custom.css HTTP/1.1" 304 - 0.0027
+127.0.0.1 - - [25/Jun/2010 11:16:29] "GET /javascripts/jquery-ui-1.8.custom.min.js HTTP/1.1" 304 - 0.0006
+127.0.0.1 - - [25/Jun/2010 11:16:29] "GET /javascripts/jquery-ui-1.8.custom.min.js HTTP/1.1" 304 - 0.0021
+127.0.0.1 - - [25/Jun/2010 11:16:29] "GET /javascripts/coffee-script.js HTTP/1.1" 304 - 0.0006
+127.0.0.1 - - [25/Jun/2010 11:16:29] "GET /javascripts/coffee-script.js HTTP/1.1" 304 - 0.0024
+127.0.0.1 - - [25/Jun/2010 11:16:30] "GET /favicon.ico HTTP/1.1" 200 3494 0.0008
+127.0.0.1 - - [25/Jun/2010 11:16:30] "GET /favicon.ico HTTP/1.1" 200 3494 0.0024
+127.0.0.1 - - [25/Jun/2010 14:20:04] "GET / HTTP/1.1" 200 4389 0.0939
+127.0.0.1 - - [25/Jun/2010 14:20:04] "GET / HTTP/1.1" 200 4389 0.0956
+127.0.0.1 - - [25/Jun/2010 14:20:04] "GET /stylesheets/reset.css HTTP/1.1" 304 - 0.0006
+127.0.0.1 - - [25/Jun/2010 14:20:04] "GET /stylesheets/reset.css HTTP/1.1" 304 - 0.0027
+127.0.0.1 - - [25/Jun/2010 14:20:04] "GET /stylesheets/app.css HTTP/1.1" 304 - 0.0005
+127.0.0.1 - - [25/Jun/2010 14:20:04] "GET /stylesheets/app.css HTTP/1.1" 304 - 0.0018
+127.0.0.1 - - [25/Jun/2010 14:20:04] "GET /stylesheets/text.css HTTP/1.1" 304 - 0.0005
+127.0.0.1 - - [25/Jun/2010 14:20:04] "GET /stylesheets/text.css HTTP/1.1" 304 - 0.0021
+127.0.0.1 - - [25/Jun/2010 14:20:04] "GET /javascripts/jquery-1.4.2.min.js HTTP/1.1" 304 - 0.0006
+127.0.0.1 - - [25/Jun/2010 14:20:04] "GET /javascripts/jquery-1.4.2.min.js HTTP/1.1" 304 - 0.0019
+127.0.0.1 - - [25/Jun/2010 14:20:04] "GET /stylesheets/960.css HTTP/1.1" 304 - 0.0011
+127.0.0.1 - - [25/Jun/2010 14:20:04] "GET /stylesheets/960.css HTTP/1.1" 304 - 0.0025
+127.0.0.1 - - [25/Jun/2010 14:20:04] "GET /stylesheets/smoothness/jquery-ui-1.8.custom.css HTTP/1.1" 304 - 0.0005
+127.0.0.1 - - [25/Jun/2010 14:20:04] "GET /stylesheets/smoothness/jquery-ui-1.8.custom.css HTTP/1.1" 304 - 0.0018
+127.0.0.1 - - [25/Jun/2010 14:20:04] "GET /javascripts/jquery-ui-1.8.custom.min.js HTTP/1.1" 304 - 0.0006
+127.0.0.1 - - [25/Jun/2010 14:20:04] "GET /javascripts/jquery-ui-1.8.custom.min.js HTTP/1.1" 304 - 0.0019
+127.0.0.1 - - [25/Jun/2010 14:20:04] "GET /javascripts/coffee-script.js HTTP/1.1" 304 - 0.0006
+127.0.0.1 - - [25/Jun/2010 14:20:04] "GET /javascripts/coffee-script.js HTTP/1.1" 304 - 0.0022
+127.0.0.1 - - [25/Jun/2010 14:20:05] "GET /favicon.ico HTTP/1.1" 200 3494 0.0009
+127.0.0.1 - - [25/Jun/2010 14:20:05] "GET /favicon.ico HTTP/1.1" 200 3494 0.0027
+127.0.0.1 - - [25/Jun/2010 14:20:13] "GET / HTTP/1.1" 200 4388 0.1485
+127.0.0.1 - - [25/Jun/2010 14:20:13] "GET / HTTP/1.1" 200 4388 0.1501
+127.0.0.1 - - [25/Jun/2010 14:20:13] "GET /stylesheets/reset.css HTTP/1.1" 304 - 0.0006
+127.0.0.1 - - [25/Jun/2010 14:20:13] "GET /stylesheets/reset.css HTTP/1.1" 304 - 0.0025
+127.0.0.1 - - [25/Jun/2010 14:20:13] "GET /javascripts/jquery-1.4.2.min.js HTTP/1.1" 304 - 0.0005
+127.0.0.1 - - [25/Jun/2010 14:20:13] "GET /javascripts/jquery-1.4.2.min.js HTTP/1.1" 304 - 0.0018
+127.0.0.1 - - [25/Jun/2010 14:20:13] "GET /stylesheets/text.css HTTP/1.1" 304 - 0.0005
+127.0.0.1 - - [25/Jun/2010 14:20:13] "GET /stylesheets/text.css HTTP/1.1" 304 - 0.0019
+127.0.0.1 - - [25/Jun/2010 14:20:13] "GET /stylesheets/smoothness/jquery-ui-1.8.custom.css HTTP/1.1" 304 - 0.0006
+127.0.0.1 - - [25/Jun/2010 14:20:13] "GET /stylesheets/smoothness/jquery-ui-1.8.custom.css HTTP/1.1" 304 - 0.0026
+127.0.0.1 - - [25/Jun/2010 14:20:13] "GET /stylesheets/app.css HTTP/1.1" 304 - 0.0005
+127.0.0.1 - - [25/Jun/2010 14:20:13] "GET /stylesheets/app.css HTTP/1.1" 304 - 0.0019
+127.0.0.1 - - [25/Jun/2010 14:20:13] "GET /stylesheets/960.css HTTP/1.1" 304 - 0.0006
+127.0.0.1 - - [25/Jun/2010 14:20:13] "GET /stylesheets/960.css HTTP/1.1" 304 - 0.0019
+127.0.0.1 - - [25/Jun/2010 14:20:13] "GET /javascripts/jquery-ui-1.8.custom.min.js HTTP/1.1" 304 - 0.0006
+127.0.0.1 - - [25/Jun/2010 14:20:13] "GET /javascripts/jquery-ui-1.8.custom.min.js HTTP/1.1" 304 - 0.0022
+127.0.0.1 - - [25/Jun/2010 14:20:13] "GET /javascripts/coffee-script.js HTTP/1.1" 304 - 0.0006
+127.0.0.1 - - [25/Jun/2010 14:20:13] "GET /javascripts/coffee-script.js HTTP/1.1" 304 - 0.0019
+127.0.0.1 - - [25/Jun/2010 14:20:13] "GET /favicon.ico HTTP/1.1" 200 3494 0.0008
+127.0.0.1 - - [25/Jun/2010 14:20:13] "GET /favicon.ico HTTP/1.1" 200 3494 0.0023
+127.0.0.1 - - [25/Jun/2010 14:20:19] "GET / HTTP/1.1" 200 4392 0.0942
+127.0.0.1 - - [25/Jun/2010 14:20:19] "GET / HTTP/1.1" 200 4392 0.0959
+127.0.0.1 - - [25/Jun/2010 14:20:19] "GET /stylesheets/app.css HTTP/1.1" 304 - 0.0009
+127.0.0.1 - - [25/Jun/2010 14:20:19] "GET /stylesheets/app.css HTTP/1.1" 304 - 0.0023
+127.0.0.1 - - [25/Jun/2010 14:20:19] "GET /stylesheets/smoothness/jquery-ui-1.8.custom.css HTTP/1.1" 304 - 0.0005
+127.0.0.1 - - [25/Jun/2010 14:20:19] "GET /stylesheets/smoothness/jquery-ui-1.8.custom.css HTTP/1.1" 304 - 0.0018
+127.0.0.1 - - [25/Jun/2010 14:20:19] "GET /stylesheets/960.css HTTP/1.1" 304 - 0.0005
+127.0.0.1 - - [25/Jun/2010 14:20:19] "GET /stylesheets/960.css HTTP/1.1" 304 - 0.0018
+127.0.0.1 - - [25/Jun/2010 14:20:19] "GET /stylesheets/reset.css HTTP/1.1" 304 - 0.0008
+127.0.0.1 - - [25/Jun/2010 14:20:19] "GET /stylesheets/reset.css HTTP/1.1" 304 - 0.0022
+127.0.0.1 - - [25/Jun/2010 14:20:19] "GET /stylesheets/text.css HTTP/1.1" 304 - 0.0006
+127.0.0.1 - - [25/Jun/2010 14:20:19] "GET /stylesheets/text.css HTTP/1.1" 304 - 0.0020
+127.0.0.1 - - [25/Jun/2010 14:20:19] "GET /javascripts/jquery-1.4.2.min.js HTTP/1.1" 304 - 0.0013
+127.0.0.1 - - [25/Jun/2010 14:20:19] "GET /javascripts/jquery-1.4.2.min.js HTTP/1.1" 304 - 0.0026
+127.0.0.1 - - [25/Jun/2010 14:20:19] "GET /javascripts/jquery-ui-1.8.custom.min.js HTTP/1.1" 304 - 0.0006
+127.0.0.1 - - [25/Jun/2010 14:20:19] "GET /javascripts/jquery-ui-1.8.custom.min.js HTTP/1.1" 304 - 0.0019
+127.0.0.1 - - [25/Jun/2010 14:20:19] "GET /javascripts/coffee-script.js HTTP/1.1" 304 - 0.0006
+127.0.0.1 - - [25/Jun/2010 14:20:19] "GET /javascripts/coffee-script.js HTTP/1.1" 304 - 0.0021
+127.0.0.1 - - [25/Jun/2010 14:20:19] "GET /favicon.ico HTTP/1.1" 200 3494 0.0008
+127.0.0.1 - - [25/Jun/2010 14:20:19] "GET /favicon.ico HTTP/1.1" 200 3494 0.0023
+127.0.0.1 - - [25/Jun/2010 14:20:25] "GET / HTTP/1.1" 200 4392 0.1497
+127.0.0.1 - - [25/Jun/2010 14:20:25] "GET / HTTP/1.1" 200 4392 0.1514
+127.0.0.1 - - [25/Jun/2010 14:20:25] "GET /stylesheets/960.css HTTP/1.1" 304 - 0.0006
+127.0.0.1 - - [25/Jun/2010 14:20:25] "GET /stylesheets/960.css HTTP/1.1" 304 - 0.0021
+127.0.0.1 - - [25/Jun/2010 14:20:25] "GET /stylesheets/reset.css HTTP/1.1" 304 - 0.0005
+127.0.0.1 - - [25/Jun/2010 14:20:25] "GET /stylesheets/reset.css HTTP/1.1" 304 - 0.0046
+127.0.0.1 - - [25/Jun/2010 14:20:25] "GET /stylesheets/smoothness/jquery-ui-1.8.custom.css HTTP/1.1" 304 - 0.0005
+127.0.0.1 - - [25/Jun/2010 14:20:25] "GET /stylesheets/smoothness/jquery-ui-1.8.custom.css HTTP/1.1" 304 - 0.0019
+127.0.0.1 - - [25/Jun/2010 14:20:25] "GET /stylesheets/app.css HTTP/1.1" 304 - 0.0006
+127.0.0.1 - - [25/Jun/2010 14:20:25] "GET /stylesheets/app.css HTTP/1.1" 304 - 0.0020
+127.0.0.1 - - [25/Jun/2010 14:20:25] "GET /javascripts/jquery-1.4.2.min.js HTTP/1.1" 304 - 0.0007
+127.0.0.1 - - [25/Jun/2010 14:20:25] "GET /javascripts/jquery-1.4.2.min.js HTTP/1.1" 304 - 0.0027
+127.0.0.1 - - [25/Jun/2010 14:20:25] "GET /stylesheets/text.css HTTP/1.1" 304 - 0.0006
+127.0.0.1 - - [25/Jun/2010 14:20:25] "GET /stylesheets/text.css HTTP/1.1" 304 - 0.0019
+127.0.0.1 - - [25/Jun/2010 14:20:25] "GET /javascripts/jquery-ui-1.8.custom.min.js HTTP/1.1" 304 - 0.0006
+127.0.0.1 - - [25/Jun/2010 14:20:25] "GET /javascripts/jquery-ui-1.8.custom.min.js HTTP/1.1" 304 - 0.0021
+127.0.0.1 - - [25/Jun/2010 14:20:25] "GET /javascripts/coffee-script.js HTTP/1.1" 304 - 0.0006
+127.0.0.1 - - [25/Jun/2010 14:20:25] "GET /javascripts/coffee-script.js HTTP/1.1" 304 - 0.0020
+127.0.0.1 - - [25/Jun/2010 14:20:25] "GET /favicon.ico HTTP/1.1" 200 3494 0.0008
+127.0.0.1 - - [25/Jun/2010 14:20:25] "GET /favicon.ico HTTP/1.1" 200 3494 0.0028
+127.0.0.1 - - [25/Jun/2010 14:20:35] "GET / HTTP/1.1" 200 4394 0.0937
+127.0.0.1 - - [25/Jun/2010 14:20:35] "GET / HTTP/1.1" 200 4394 0.0954
+127.0.0.1 - - [25/Jun/2010 14:20:35] "GET /stylesheets/smoothness/jquery-ui-1.8.custom.css HTTP/1.1" 304 - 0.0006
+127.0.0.1 - - [25/Jun/2010 14:20:35] "GET /stylesheets/smoothness/jquery-ui-1.8.custom.css HTTP/1.1" 304 - 0.0022
+127.0.0.1 - - [25/Jun/2010 14:20:35] "GET /stylesheets/960.css HTTP/1.1" 304 - 0.0005
+127.0.0.1 - - [25/Jun/2010 14:20:35] "GET /stylesheets/960.css HTTP/1.1" 304 - 0.0018
+127.0.0.1 - - [25/Jun/2010 14:20:35] "GET /stylesheets/app.css HTTP/1.1" 304 - 0.0006
+127.0.0.1 - - [25/Jun/2010 14:20:35] "GET /stylesheets/app.css HTTP/1.1" 304 - 0.0020
+127.0.0.1 - - [25/Jun/2010 14:20:35] "GET /stylesheets/text.css HTTP/1.1" 304 - 0.0006
+127.0.0.1 - - [25/Jun/2010 14:20:35] "GET /stylesheets/text.css HTTP/1.1" 304 - 0.0021
+127.0.0.1 - - [25/Jun/2010 14:20:35] "GET /stylesheets/reset.css HTTP/1.1" 304 - 0.0013
+127.0.0.1 - - [25/Jun/2010 14:20:35] "GET /stylesheets/reset.css HTTP/1.1" 304 - 0.0027
+127.0.0.1 - - [25/Jun/2010 14:20:35] "GET /javascripts/jquery-1.4.2.min.js HTTP/1.1" 304 - 0.0006
+127.0.0.1 - - [25/Jun/2010 14:20:35] "GET /javascripts/jquery-1.4.2.min.js HTTP/1.1" 304 - 0.0018
+127.0.0.1 - - [25/Jun/2010 14:20:35] "GET /javascripts/jquery-ui-1.8.custom.min.js HTTP/1.1" 304 - 0.0006
+127.0.0.1 - - [25/Jun/2010 14:20:35] "GET /javascripts/jquery-ui-1.8.custom.min.js HTTP/1.1" 304 - 0.0019
+127.0.0.1 - - [25/Jun/2010 14:20:36] "GET /javascripts/coffee-script.js HTTP/1.1" 304 - 0.0006
+127.0.0.1 - - [25/Jun/2010 14:20:36] "GET /javascripts/coffee-script.js HTTP/1.1" 304 - 0.0021
+127.0.0.1 - - [25/Jun/2010 14:20:36] "GET /favicon.ico HTTP/1.1" 200 3494 0.0009
+127.0.0.1 - - [25/Jun/2010 14:20:36] "GET /favicon.ico HTTP/1.1" 200 3494 0.0027
+127.0.0.1 - - [25/Jun/2010 14:20:59] "GET / HTTP/1.1" 200 4441 0.0958
+127.0.0.1 - - [25/Jun/2010 14:20:59] "GET / HTTP/1.1" 200 4441 0.0975
+127.0.0.1 - - [25/Jun/2010 14:20:59] "GET /stylesheets/reset.css HTTP/1.1" 304 - 0.0007
+127.0.0.1 - - [25/Jun/2010 14:20:59] "GET /stylesheets/reset.css HTTP/1.1" 304 - 0.0033
+127.0.0.1 - - [25/Jun/2010 14:20:59] "GET /stylesheets/text.css HTTP/1.1" 304 - 0.0006
+127.0.0.1 - - [25/Jun/2010 14:20:59] "GET /stylesheets/text.css HTTP/1.1" 304 - 0.0022
+127.0.0.1 - - [25/Jun/2010 14:20:59] "GET /stylesheets/960.css HTTP/1.1" 304 - 0.0005
+127.0.0.1 - - [25/Jun/2010 14:20:59] "GET /stylesheets/960.css HTTP/1.1" 304 - 0.0020
+127.0.0.1 - - [25/Jun/2010 14:20:59] "GET /stylesheets/smoothness/jquery-ui-1.8.custom.css HTTP/1.1" 304 - 0.0006
+127.0.0.1 - - [25/Jun/2010 14:20:59] "GET /stylesheets/smoothness/jquery-ui-1.8.custom.css HTTP/1.1" 304 - 0.0021
+127.0.0.1 - - [25/Jun/2010 14:20:59] "GET /stylesheets/app.css HTTP/1.1" 304 - 0.0007
+127.0.0.1 - - [25/Jun/2010 14:20:59] "GET /stylesheets/app.css HTTP/1.1" 304 - 0.0027
+127.0.0.1 - - [25/Jun/2010 14:20:59] "GET /javascripts/jquery-1.4.2.min.js HTTP/1.1" 304 - 0.0007
+127.0.0.1 - - [25/Jun/2010 14:20:59] "GET /javascripts/jquery-1.4.2.min.js HTTP/1.1" 304 - 0.0022
+127.0.0.1 - - [25/Jun/2010 14:20:59] "GET /javascripts/jquery-ui-1.8.custom.min.js HTTP/1.1" 304 - 0.0011
+127.0.0.1 - - [25/Jun/2010 14:20:59] "GET /javascripts/jquery-ui-1.8.custom.min.js HTTP/1.1" 304 - 0.0025
+127.0.0.1 - - [25/Jun/2010 14:20:59] "GET /javascripts/coffee-script.js HTTP/1.1" 304 - 0.0006
+127.0.0.1 - - [25/Jun/2010 14:20:59] "GET /javascripts/coffee-script.js HTTP/1.1" 304 - 0.0021
+127.0.0.1 - - [25/Jun/2010 14:21:13] "GET / HTTP/1.1" 200 4441 0.0966
+127.0.0.1 - - [25/Jun/2010 14:21:13] "GET / HTTP/1.1" 200 4441 0.0984
+127.0.0.1 - - [25/Jun/2010 14:21:13] "GET /stylesheets/reset.css HTTP/1.1" 304 - 0.0007
+127.0.0.1 - - [25/Jun/2010 14:21:13] "GET /stylesheets/reset.css HTTP/1.1" 304 - 0.0033
+127.0.0.1 - - [25/Jun/2010 14:21:13] "GET /stylesheets/text.css HTTP/1.1" 304 - 0.0006
+127.0.0.1 - - [25/Jun/2010 14:21:13] "GET /stylesheets/text.css HTTP/1.1" 304 - 0.0019
+127.0.0.1 - - [25/Jun/2010 14:21:13] "GET /stylesheets/960.css HTTP/1.1" 304 - 0.0009
+127.0.0.1 - - [25/Jun/2010 14:21:13] "GET /stylesheets/960.css HTTP/1.1" 304 - 0.0025
+127.0.0.1 - - [25/Jun/2010 14:21:13] "GET /stylesheets/smoothness/jquery-ui-1.8.custom.css HTTP/1.1" 304 - 0.0006
+127.0.0.1 - - [25/Jun/2010 14:21:13] "GET /stylesheets/smoothness/jquery-ui-1.8.custom.css HTTP/1.1" 304 - 0.0024
+127.0.0.1 - - [25/Jun/2010 14:21:13] "GET /stylesheets/app.css HTTP/1.1" 304 - 0.0007
+127.0.0.1 - - [25/Jun/2010 14:21:13] "GET /stylesheets/app.css HTTP/1.1" 304 - 0.0022
+127.0.0.1 - - [25/Jun/2010 14:21:13] "GET /javascripts/jquery-1.4.2.min.js HTTP/1.1" 304 - 0.0007
+127.0.0.1 - - [25/Jun/2010 14:21:13] "GET /javascripts/jquery-1.4.2.min.js HTTP/1.1" 304 - 0.0038
+127.0.0.1 - - [25/Jun/2010 14:21:13] "GET /javascripts/jquery-ui-1.8.custom.min.js HTTP/1.1" 304 - 0.0006
+127.0.0.1 - - [25/Jun/2010 14:21:13] "GET /javascripts/jquery-ui-1.8.custom.min.js HTTP/1.1" 304 - 0.0021
+127.0.0.1 - - [25/Jun/2010 14:21:13] "GET /javascripts/coffee-script.js HTTP/1.1" 304 - 0.0007
+127.0.0.1 - - [25/Jun/2010 14:21:13] "GET /javascripts/coffee-script.js HTTP/1.1" 304 - 0.0025
+127.0.0.1 - - [25/Jun/2010 14:21:39] "GET / HTTP/1.1" 200 4468 0.0954
+127.0.0.1 - - [25/Jun/2010 14:21:39] "GET / HTTP/1.1" 200 4468 0.0970
+127.0.0.1 - - [25/Jun/2010 14:21:39] "GET /stylesheets/reset.css HTTP/1.1" 304 - 0.0007
+127.0.0.1 - - [25/Jun/2010 14:21:39] "GET /stylesheets/reset.css HTTP/1.1" 304 - 0.0037
+127.0.0.1 - - [25/Jun/2010 14:21:39] "GET /stylesheets/text.css HTTP/1.1" 304 - 0.0006
+127.0.0.1 - - [25/Jun/2010 14:21:39] "GET /stylesheets/text.css HTTP/1.1" 304 - 0.0020
+127.0.0.1 - - [25/Jun/2010 14:21:39] "GET /stylesheets/960.css HTTP/1.1" 304 - 0.0009
+127.0.0.1 - - [25/Jun/2010 14:21:39] "GET /stylesheets/960.css HTTP/1.1" 304 - 0.0024
+127.0.0.1 - - [25/Jun/2010 14:21:39] "GET /stylesheets/smoothness/jquery-ui-1.8.custom.css HTTP/1.1" 304 - 0.0006
+127.0.0.1 - - [25/Jun/2010 14:21:39] "GET /stylesheets/smoothness/jquery-ui-1.8.custom.css HTTP/1.1" 304 - 0.0020
+127.0.0.1 - - [25/Jun/2010 14:21:39] "GET /stylesheets/app.css HTTP/1.1" 304 - 0.0006
+127.0.0.1 - - [25/Jun/2010 14:21:39] "GET /stylesheets/app.css HTTP/1.1" 304 - 0.0021
+127.0.0.1 - - [25/Jun/2010 14:21:39] "GET /javascripts/jquery-1.4.2.min.js HTTP/1.1" 304 - 0.0006
+127.0.0.1 - - [25/Jun/2010 14:21:39] "GET /javascripts/jquery-1.4.2.min.js HTTP/1.1" 304 - 0.0616
+127.0.0.1 - - [25/Jun/2010 14:21:40] "GET /javascripts/jquery-ui-1.8.custom.min.js HTTP/1.1" 304 - 0.0006
+127.0.0.1 - - [25/Jun/2010 14:21:40] "GET /javascripts/jquery-ui-1.8.custom.min.js HTTP/1.1" 304 - 0.0022
+127.0.0.1 - - [25/Jun/2010 14:21:40] "GET /javascripts/coffee-script.js HTTP/1.1" 304 - 0.0006
+127.0.0.1 - - [25/Jun/2010 14:21:40] "GET /javascripts/coffee-script.js HTTP/1.1" 304 - 0.0021
+127.0.0.1 - - [25/Jun/2010 14:22:42] "GET / HTTP/1.1" 200 4539 0.1024
+127.0.0.1 - - [25/Jun/2010 14:22:42] "GET / HTTP/1.1" 200 4539 0.1042
+127.0.0.1 - - [25/Jun/2010 14:22:42] "GET /stylesheets/reset.css HTTP/1.1" 304 - 0.0006
+127.0.0.1 - - [25/Jun/2010 14:22:42] "GET /stylesheets/reset.css HTTP/1.1" 304 - 0.0035
+127.0.0.1 - - [25/Jun/2010 14:22:42] "GET /stylesheets/text.css HTTP/1.1" 304 - 0.0009
+127.0.0.1 - - [25/Jun/2010 14:22:42] "GET /stylesheets/text.css HTTP/1.1" 304 - 0.0023
+127.0.0.1 - - [25/Jun/2010 14:22:42] "GET /stylesheets/960.css HTTP/1.1" 304 - 0.0007
+127.0.0.1 - - [25/Jun/2010 14:22:42] "GET /stylesheets/960.css HTTP/1.1" 304 - 0.0022
+127.0.0.1 - - [25/Jun/2010 14:22:42] "GET /stylesheets/smoothness/jquery-ui-1.8.custom.css HTTP/1.1" 304 - 0.0005
+127.0.0.1 - - [25/Jun/2010 14:22:42] "GET /stylesheets/smoothness/jquery-ui-1.8.custom.css HTTP/1.1" 304 - 0.0019
+127.0.0.1 - - [25/Jun/2010 14:22:42] "GET /stylesheets/app.css HTTP/1.1" 304 - 0.0006
+127.0.0.1 - - [25/Jun/2010 14:22:42] "GET /stylesheets/app.css HTTP/1.1" 304 - 0.0021
+127.0.0.1 - - [25/Jun/2010 14:22:42] "GET /javascripts/jquery-1.4.2.min.js HTTP/1.1" 304 - 0.0009
+127.0.0.1 - - [25/Jun/2010 14:22:42] "GET /javascripts/jquery-1.4.2.min.js HTTP/1.1" 304 - 0.0032
+127.0.0.1 - - [25/Jun/2010 14:22:42] "GET /javascripts/jquery-ui-1.8.custom.min.js HTTP/1.1" 304 - 0.0011
+127.0.0.1 - - [25/Jun/2010 14:22:42] "GET /javascripts/jquery-ui-1.8.custom.min.js HTTP/1.1" 304 - 0.0025
+127.0.0.1 - - [25/Jun/2010 14:22:42] "GET /javascripts/coffee-script.js HTTP/1.1" 304 - 0.0006
+127.0.0.1 - - [25/Jun/2010 14:22:42] "GET /javascripts/coffee-script.js HTTP/1.1" 304 - 0.0020
+127.0.0.1 - - [25/Jun/2010 14:23:00] "GET / HTTP/1.1" 200 4561 0.1045
+127.0.0.1 - - [25/Jun/2010 14:23:00] "GET / HTTP/1.1" 200 4561 0.1063
+127.0.0.1 - - [25/Jun/2010 14:23:00] "GET /stylesheets/reset.css HTTP/1.1" 304 - 0.0007
+127.0.0.1 - - [25/Jun/2010 14:23:00] "GET /stylesheets/reset.css HTTP/1.1" 304 - 0.0039
+127.0.0.1 - - [25/Jun/2010 14:23:00] "GET /stylesheets/text.css HTTP/1.1" 304 - 0.0006
+127.0.0.1 - - [25/Jun/2010 14:23:00] "GET /stylesheets/text.css HTTP/1.1" 304 - 0.0021
+127.0.0.1 - - [25/Jun/2010 14:23:00] "GET /stylesheets/960.css HTTP/1.1" 304 - 0.0005
+127.0.0.1 - - [25/Jun/2010 14:23:00] "GET /stylesheets/960.css HTTP/1.1" 304 - 0.0019
+127.0.0.1 - - [25/Jun/2010 14:23:00] "GET /stylesheets/smoothness/jquery-ui-1.8.custom.css HTTP/1.1" 304 - 0.0007
+127.0.0.1 - - [25/Jun/2010 14:23:00] "GET /stylesheets/smoothness/jquery-ui-1.8.custom.css HTTP/1.1" 304 - 0.0028
+127.0.0.1 - - [25/Jun/2010 14:23:00] "GET /stylesheets/app.css HTTP/1.1" 304 - 0.0008
+127.0.0.1 - - [25/Jun/2010 14:23:00] "GET /stylesheets/app.css HTTP/1.1" 304 - 0.0023
+127.0.0.1 - - [25/Jun/2010 14:23:00] "GET /javascripts/jquery-1.4.2.min.js HTTP/1.1" 304 - 0.0006
+127.0.0.1 - - [25/Jun/2010 14:23:00] "GET /javascripts/jquery-1.4.2.min.js HTTP/1.1" 304 - 0.0020
+127.0.0.1 - - [25/Jun/2010 14:23:00] "GET /javascripts/jquery-ui-1.8.custom.min.js HTTP/1.1" 304 - 0.0007
+127.0.0.1 - - [25/Jun/2010 14:23:00] "GET /javascripts/jquery-ui-1.8.custom.min.js HTTP/1.1" 304 - 0.0023
+127.0.0.1 - - [25/Jun/2010 14:23:00] "GET /javascripts/coffee-script.js HTTP/1.1" 304 - 0.0006
+127.0.0.1 - - [25/Jun/2010 14:23:00] "GET /javascripts/coffee-script.js HTTP/1.1" 304 - 0.0025
+127.0.0.1 - - [25/Jun/2010 14:23:21] "GET / HTTP/1.1" 200 4583 0.1030
+127.0.0.1 - - [25/Jun/2010 14:23:21] "GET / HTTP/1.1" 200 4583 0.1613
+127.0.0.1 - - [25/Jun/2010 14:23:21] "GET /stylesheets/reset.css HTTP/1.1" 304 - 0.0006
+127.0.0.1 - - [25/Jun/2010 14:23:21] "GET /stylesheets/reset.css HTTP/1.1" 304 - 0.0033
+127.0.0.1 - - [25/Jun/2010 14:23:21] "GET /stylesheets/text.css HTTP/1.1" 304 - 0.0006
+127.0.0.1 - - [25/Jun/2010 14:23:21] "GET /stylesheets/text.css HTTP/1.1" 304 - 0.0020
+127.0.0.1 - - [25/Jun/2010 14:23:21] "GET /stylesheets/960.css HTTP/1.1" 304 - 0.0006
+127.0.0.1 - - [25/Jun/2010 14:23:21] "GET /stylesheets/960.css HTTP/1.1" 304 - 0.0020
+127.0.0.1 - - [25/Jun/2010 14:23:21] "GET /stylesheets/smoothness/jquery-ui-1.8.custom.css HTTP/1.1" 304 - 0.0009
+127.0.0.1 - - [25/Jun/2010 14:23:21] "GET /stylesheets/smoothness/jquery-ui-1.8.custom.css HTTP/1.1" 304 - 0.0025
+127.0.0.1 - - [25/Jun/2010 14:23:21] "GET /stylesheets/app.css HTTP/1.1" 304 - 0.0006
+127.0.0.1 - - [25/Jun/2010 14:23:21] "GET /stylesheets/app.css HTTP/1.1" 304 - 0.0020
+127.0.0.1 - - [25/Jun/2010 14:23:21] "GET /javascripts/jquery-1.4.2.min.js HTTP/1.1" 304 - 0.0006
+127.0.0.1 - - [25/Jun/2010 14:23:21] "GET /javascripts/jquery-1.4.2.min.js HTTP/1.1" 304 - 0.0020
+127.0.0.1 - - [25/Jun/2010 14:23:21] "GET /javascripts/jquery-ui-1.8.custom.min.js HTTP/1.1" 304 - 0.0012
+127.0.0.1 - - [25/Jun/2010 14:23:21] "GET /javascripts/jquery-ui-1.8.custom.min.js HTTP/1.1" 304 - 0.0028
+127.0.0.1 - - [25/Jun/2010 14:23:21] "GET /javascripts/coffee-script.js HTTP/1.1" 304 - 0.0006
+127.0.0.1 - - [25/Jun/2010 14:23:21] "GET /javascripts/coffee-script.js HTTP/1.1" 304 - 0.0023
+127.0.0.1 - - [25/Jun/2010 14:23:29] "GET / HTTP/1.1" 200 4583 0.1035
+127.0.0.1 - - [25/Jun/2010 14:23:29] "GET / HTTP/1.1" 200 4583 0.1068
+127.0.0.1 - - [25/Jun/2010 14:23:29] "GET /stylesheets/reset.css HTTP/1.1" 304 - 0.0009
+127.0.0.1 - - [25/Jun/2010 14:23:29] "GET /stylesheets/reset.css HTTP/1.1" 304 - 0.0035
+127.0.0.1 - - [25/Jun/2010 14:23:29] "GET /stylesheets/text.css HTTP/1.1" 304 - 0.0006
+127.0.0.1 - - [25/Jun/2010 14:23:29] "GET /stylesheets/text.css HTTP/1.1" 304 - 0.0022
+127.0.0.1 - - [25/Jun/2010 14:23:29] "GET /stylesheets/960.css HTTP/1.1" 304 - 0.0005
+127.0.0.1 - - [25/Jun/2010 14:23:29] "GET /stylesheets/960.css HTTP/1.1" 304 - 0.0020
+127.0.0.1 - - [25/Jun/2010 14:23:29] "GET /stylesheets/smoothness/jquery-ui-1.8.custom.css HTTP/1.1" 304 - 0.0006
+127.0.0.1 - - [25/Jun/2010 14:23:29] "GET /stylesheets/smoothness/jquery-ui-1.8.custom.css HTTP/1.1" 304 - 0.0032
+127.0.0.1 - - [25/Jun/2010 14:23:29] "GET /stylesheets/app.css HTTP/1.1" 304 - 0.0008
+127.0.0.1 - - [25/Jun/2010 14:23:29] "GET /stylesheets/app.css HTTP/1.1" 304 - 0.0023
+127.0.0.1 - - [25/Jun/2010 14:23:29] "GET /javascripts/jquery-1.4.2.min.js HTTP/1.1" 304 - 0.0006
+127.0.0.1 - - [25/Jun/2010 14:23:29] "GET /javascripts/jquery-1.4.2.min.js HTTP/1.1" 304 - 0.0020
+127.0.0.1 - - [25/Jun/2010 14:23:29] "GET /javascripts/jquery-ui-1.8.custom.min.js HTTP/1.1" 304 - 0.0006
+127.0.0.1 - - [25/Jun/2010 14:23:29] "GET /javascripts/jquery-ui-1.8.custom.min.js HTTP/1.1" 304 - 0.0022
+127.0.0.1 - - [25/Jun/2010 14:23:29] "GET /javascripts/coffee-script.js HTTP/1.1" 304 - 0.0007
+127.0.0.1 - - [25/Jun/2010 14:23:29] "GET /javascripts/coffee-script.js HTTP/1.1" 304 - 0.0024
+127.0.0.1 - - [25/Jun/2010 14:23:47] "GET / HTTP/1.1" 200 4583 0.1607
+127.0.0.1 - - [25/Jun/2010 14:23:47] "GET / HTTP/1.1" 200 4583 0.1624
+127.0.0.1 - - [25/Jun/2010 14:23:47] "GET /javascripts/jquery-1.4.2.min.js HTTP/1.1" 304 - 0.0006
+127.0.0.1 - - [25/Jun/2010 14:23:47] "GET /javascripts/jquery-1.4.2.min.js HTTP/1.1" 304 - 0.0024
+127.0.0.1 - - [25/Jun/2010 14:23:47] "GET /stylesheets/reset.css HTTP/1.1" 304 - 0.0005
+127.0.0.1 - - [25/Jun/2010 14:23:47] "GET /stylesheets/reset.css HTTP/1.1" 304 - 0.0020
+127.0.0.1 - - [25/Jun/2010 14:23:47] "GET /stylesheets/smoothness/jquery-ui-1.8.custom.css HTTP/1.1" 304 - 0.0005
+127.0.0.1 - - [25/Jun/2010 14:23:47] "GET /stylesheets/smoothness/jquery-ui-1.8.custom.css HTTP/1.1" 304 - 0.0017
+127.0.0.1 - - [25/Jun/2010 14:23:47] "GET /stylesheets/app.css HTTP/1.1" 304 - 0.0005
+127.0.0.1 - - [25/Jun/2010 14:23:47] "GET /stylesheets/app.css HTTP/1.1" 304 - 0.0025
+127.0.0.1 - - [25/Jun/2010 14:23:47] "GET /stylesheets/text.css HTTP/1.1" 304 - 0.0006
+127.0.0.1 - - [25/Jun/2010 14:23:47] "GET /stylesheets/text.css HTTP/1.1" 304 - 0.0021
+127.0.0.1 - - [25/Jun/2010 14:23:47] "GET /stylesheets/960.css HTTP/1.1" 304 - 0.0006
+127.0.0.1 - - [25/Jun/2010 14:23:47] "GET /stylesheets/960.css HTTP/1.1" 304 - 0.0020
+127.0.0.1 - - [25/Jun/2010 14:23:47] "GET /javascripts/jquery-ui-1.8.custom.min.js HTTP/1.1" 304 - 0.0006
+127.0.0.1 - - [25/Jun/2010 14:23:47] "GET /javascripts/jquery-ui-1.8.custom.min.js HTTP/1.1" 304 - 0.0026
+127.0.0.1 - - [25/Jun/2010 14:23:47] "GET /javascripts/coffee-script.js HTTP/1.1" 304 - 0.0006
+127.0.0.1 - - [25/Jun/2010 14:23:47] "GET /javascripts/coffee-script.js HTTP/1.1" 304 - 0.0019
+127.0.0.1 - - [25/Jun/2010 14:23:48] "GET /favicon.ico HTTP/1.1" 200 3494 0.0010
+127.0.0.1 - - [25/Jun/2010 14:23:48] "GET /favicon.ico HTTP/1.1" 200 3494 0.0029
+127.0.0.1 - - [25/Jun/2010 14:24:56] "GET / HTTP/1.1" 200 4643 0.1078
+127.0.0.1 - - [25/Jun/2010 14:24:56] "GET / HTTP/1.1" 200 4643 0.1098
+127.0.0.1 - - [25/Jun/2010 14:24:56] "GET /stylesheets/960.css HTTP/1.1" 304 - 0.0006
+127.0.0.1 - - [25/Jun/2010 14:24:56] "GET /stylesheets/960.css HTTP/1.1" 304 - 0.0027
+127.0.0.1 - - [25/Jun/2010 14:24:56] "GET /stylesheets/smoothness/jquery-ui-1.8.custom.css HTTP/1.1" 304 - 0.0005
+127.0.0.1 - - [25/Jun/2010 14:24:56] "GET /stylesheets/smoothness/jquery-ui-1.8.custom.css HTTP/1.1" 304 - 0.0017
+127.0.0.1 - - [25/Jun/2010 14:24:56] "GET /stylesheets/reset.css HTTP/1.1" 304 - 0.0006
+127.0.0.1 - - [25/Jun/2010 14:24:56] "GET /stylesheets/reset.css HTTP/1.1" 304 - 0.0020
+127.0.0.1 - - [25/Jun/2010 14:24:56] "GET /stylesheets/text.css HTTP/1.1" 304 - 0.0006
+127.0.0.1 - - [25/Jun/2010 14:24:56] "GET /stylesheets/text.css HTTP/1.1" 304 - 0.0019
+127.0.0.1 - - [25/Jun/2010 14:24:56] "GET /javascripts/jquery-1.4.2.min.js HTTP/1.1" 304 - 0.0007
+127.0.0.1 - - [25/Jun/2010 14:24:56] "GET /javascripts/jquery-1.4.2.min.js HTTP/1.1" 304 - 0.0029
+127.0.0.1 - - [25/Jun/2010 14:24:56] "GET /stylesheets/app.css HTTP/1.1" 304 - 0.0008
+127.0.0.1 - - [25/Jun/2010 14:24:56] "GET /stylesheets/app.css HTTP/1.1" 304 - 0.0025
+127.0.0.1 - - [25/Jun/2010 14:24:56] "GET /javascripts/jquery-ui-1.8.custom.min.js HTTP/1.1" 304 - 0.0006
+127.0.0.1 - - [25/Jun/2010 14:24:56] "GET /javascripts/jquery-ui-1.8.custom.min.js HTTP/1.1" 304 - 0.0019
+127.0.0.1 - - [25/Jun/2010 14:24:57] "GET /javascripts/coffee-script.js HTTP/1.1" 304 - 0.0006
+127.0.0.1 - - [25/Jun/2010 14:24:57] "GET /javascripts/coffee-script.js HTTP/1.1" 304 - 0.0021
+127.0.0.1 - - [25/Jun/2010 14:24:57] "GET /favicon.ico HTTP/1.1" 200 3494 0.0009
+127.0.0.1 - - [25/Jun/2010 14:24:57] "GET /favicon.ico HTTP/1.1" 200 3494 0.0027
+127.0.0.1 - - [25/Jun/2010 14:25:17] "GET / HTTP/1.1" 200 4687 0.1643
+127.0.0.1 - - [25/Jun/2010 14:25:17] "GET / HTTP/1.1" 200 4687 0.1664
+127.0.0.1 - - [25/Jun/2010 14:25:17] "GET /stylesheets/960.css HTTP/1.1" 304 - 0.0006
+127.0.0.1 - - [25/Jun/2010 14:25:17] "GET /stylesheets/960.css HTTP/1.1" 304 - 0.0021
+127.0.0.1 - - [25/Jun/2010 14:25:17] "GET /stylesheets/reset.css HTTP/1.1" 304 - 0.0005
+127.0.0.1 - - [25/Jun/2010 14:25:17] "GET /stylesheets/reset.css HTTP/1.1" 304 - 0.0053
+127.0.0.1 - - [25/Jun/2010 14:25:17] "GET /stylesheets/app.css HTTP/1.1" 304 - 0.0005
+127.0.0.1 - - [25/Jun/2010 14:25:17] "GET /stylesheets/app.css HTTP/1.1" 304 - 0.0019
+127.0.0.1 - - [25/Jun/2010 14:25:17] "GET /javascripts/jquery-1.4.2.min.js HTTP/1.1" 304 - 0.0006
+127.0.0.1 - - [25/Jun/2010 14:25:17] "GET /javascripts/jquery-1.4.2.min.js HTTP/1.1" 304 - 0.0019
+127.0.0.1 - - [25/Jun/2010 14:25:17] "GET /stylesheets/text.css HTTP/1.1" 304 - 0.0006
+127.0.0.1 - - [25/Jun/2010 14:25:17] "GET /stylesheets/text.css HTTP/1.1" 304 - 0.0026
+127.0.0.1 - - [25/Jun/2010 14:25:17] "GET /stylesheets/smoothness/jquery-ui-1.8.custom.css HTTP/1.1" 304 - 0.0006
+127.0.0.1 - - [25/Jun/2010 14:25:17] "GET /stylesheets/smoothness/jquery-ui-1.8.custom.css HTTP/1.1" 304 - 0.0019
+127.0.0.1 - - [25/Jun/2010 14:25:17] "GET /javascripts/jquery-ui-1.8.custom.min.js HTTP/1.1" 304 - 0.0006
+127.0.0.1 - - [25/Jun/2010 14:25:17] "GET /javascripts/jquery-ui-1.8.custom.min.js HTTP/1.1" 304 - 0.0021
+127.0.0.1 - - [25/Jun/2010 14:25:17] "GET /javascripts/coffee-script.js HTTP/1.1" 304 - 0.0006
+127.0.0.1 - - [25/Jun/2010 14:25:17] "GET /javascripts/coffee-script.js HTTP/1.1" 304 - 0.0022
+127.0.0.1 - - [25/Jun/2010 14:25:18] "GET /favicon.ico HTTP/1.1" 200 3494 0.0008
+127.0.0.1 - - [25/Jun/2010 14:25:18] "GET /favicon.ico HTTP/1.1" 200 3494 0.0024
+127.0.0.1 - - [25/Jun/2010 14:25:47] "GET / HTTP/1.1" 200 4693 0.1103
+127.0.0.1 - - [25/Jun/2010 14:25:47] "GET / HTTP/1.1" 200 4693 0.1121
+127.0.0.1 - - [25/Jun/2010 14:25:47] "GET /stylesheets/960.css HTTP/1.1" 304 - 0.0007
+127.0.0.1 - - [25/Jun/2010 14:25:47] "GET /stylesheets/960.css HTTP/1.1" 304 - 0.0028
+127.0.0.1 - - [25/Jun/2010 14:25:47] "GET /stylesheets/smoothness/jquery-ui-1.8.custom.css HTTP/1.1" 304 - 0.0005
+127.0.0.1 - - [25/Jun/2010 14:25:47] "GET /stylesheets/smoothness/jquery-ui-1.8.custom.css HTTP/1.1" 304 - 0.0018
+127.0.0.1 - - [25/Jun/2010 14:25:47] "GET /stylesheets/text.css HTTP/1.1" 304 - 0.0005
+127.0.0.1 - - [25/Jun/2010 14:25:47] "GET /stylesheets/text.css HTTP/1.1" 304 - 0.0018
+127.0.0.1 - - [25/Jun/2010 14:25:47] "GET /stylesheets/app.css HTTP/1.1" 304 - 0.0006
+127.0.0.1 - - [25/Jun/2010 14:25:47] "GET /stylesheets/app.css HTTP/1.1" 304 - 0.0024
+127.0.0.1 - - [25/Jun/2010 14:25:47] "GET /stylesheets/reset.css HTTP/1.1" 304 - 0.0006
+127.0.0.1 - - [25/Jun/2010 14:25:47] "GET /stylesheets/reset.css HTTP/1.1" 304 - 0.0019
+127.0.0.1 - - [25/Jun/2010 14:25:47] "GET /javascripts/jquery-1.4.2.min.js HTTP/1.1" 304 - 0.0006
+127.0.0.1 - - [25/Jun/2010 14:25:47] "GET /javascripts/jquery-1.4.2.min.js HTTP/1.1" 304 - 0.0022
+127.0.0.1 - - [25/Jun/2010 14:25:47] "GET /javascripts/jquery-ui-1.8.custom.min.js HTTP/1.1" 304 - 0.0006
+127.0.0.1 - - [25/Jun/2010 14:25:47] "GET /javascripts/jquery-ui-1.8.custom.min.js HTTP/1.1" 304 - 0.0021
+127.0.0.1 - - [25/Jun/2010 14:25:47] "GET /javascripts/coffee-script.js HTTP/1.1" 304 - 0.0006
+127.0.0.1 - - [25/Jun/2010 14:25:47] "GET /javascripts/coffee-script.js HTTP/1.1" 304 - 0.0021
+127.0.0.1 - - [25/Jun/2010 14:25:48] "GET /favicon.ico HTTP/1.1" 200 3494 0.0009
+127.0.0.1 - - [25/Jun/2010 14:25:48] "GET /favicon.ico HTTP/1.1" 200 3494 0.0029
+127.0.0.1 - - [25/Jun/2010 14:26:10] "GET / HTTP/1.1" 200 4693 0.1644
+127.0.0.1 - - [25/Jun/2010 14:26:10] "GET / HTTP/1.1" 200 4693 0.1659
+127.0.0.1 - - [25/Jun/2010 14:26:10] "GET /stylesheets/reset.css HTTP/1.1" 304 - 0.0006
+127.0.0.1 - - [25/Jun/2010 14:26:10] "GET /stylesheets/reset.css HTTP/1.1" 304 - 0.0029
+127.0.0.1 - - [25/Jun/2010 14:26:10] "GET /stylesheets/smoothness/jquery-ui-1.8.custom.css HTTP/1.1" 304 - 0.0006
+127.0.0.1 - - [25/Jun/2010 14:26:10] "GET /stylesheets/smoothness/jquery-ui-1.8.custom.css HTTP/1.1" 304 - 0.0022
+127.0.0.1 - - [25/Jun/2010 14:26:10] "GET /stylesheets/app.css HTTP/1.1" 304 - 0.0005
+127.0.0.1 - - [25/Jun/2010 14:26:10] "GET /stylesheets/app.css HTTP/1.1" 304 - 0.0018
+127.0.0.1 - - [25/Jun/2010 14:26:10] "GET /stylesheets/960.css HTTP/1.1" 304 - 0.0006
+127.0.0.1 - - [25/Jun/2010 14:26:10] "GET /stylesheets/960.css HTTP/1.1" 304 - 0.0020
+127.0.0.1 - - [25/Jun/2010 14:26:10] "GET /javascripts/jquery-1.4.2.min.js HTTP/1.1" 304 - 0.0006
+127.0.0.1 - - [25/Jun/2010 14:26:10] "GET /javascripts/jquery-1.4.2.min.js HTTP/1.1" 304 - 0.0024
+127.0.0.1 - - [25/Jun/2010 14:26:10] "GET /stylesheets/text.css HTTP/1.1" 304 - 0.0006
+127.0.0.1 - - [25/Jun/2010 14:26:10] "GET /stylesheets/text.css HTTP/1.1" 304 - 0.0024
+127.0.0.1 - - [25/Jun/2010 14:26:10] "GET /javascripts/jquery-ui-1.8.custom.min.js HTTP/1.1" 304 - 0.0006
+127.0.0.1 - - [25/Jun/2010 14:26:10] "GET /javascripts/jquery-ui-1.8.custom.min.js HTTP/1.1" 304 - 0.0021
+127.0.0.1 - - [25/Jun/2010 14:26:11] "GET /javascripts/coffee-script.js HTTP/1.1" 304 - 0.0006
+127.0.0.1 - - [25/Jun/2010 14:26:11] "GET /javascripts/coffee-script.js HTTP/1.1" 304 - 0.0021
+127.0.0.1 - - [25/Jun/2010 14:26:11] "GET /favicon.ico HTTP/1.1" 200 3494 0.0008
+127.0.0.1 - - [25/Jun/2010 14:26:11] "GET /favicon.ico HTTP/1.1" 200 3494 0.0024
+127.0.0.1 - - [25/Jun/2010 14:26:22] "GET / HTTP/1.1" 200 4693 0.1112
+127.0.0.1 - - [25/Jun/2010 14:26:22] "GET / HTTP/1.1" 200 4693 0.1130
+127.0.0.1 - - [25/Jun/2010 14:26:22] "GET /stylesheets/reset.css HTTP/1.1" 304 - 0.0009
+127.0.0.1 - - [25/Jun/2010 14:26:22] "GET /stylesheets/reset.css HTTP/1.1" 304 - 0.0049
+127.0.0.1 - - [25/Jun/2010 14:26:22] "GET /stylesheets/text.css HTTP/1.1" 304 - 0.0007
+127.0.0.1 - - [25/Jun/2010 14:26:22] "GET /stylesheets/text.css HTTP/1.1" 304 - 0.0027
+127.0.0.1 - - [25/Jun/2010 14:26:22] "GET /stylesheets/960.css HTTP/1.1" 304 - 0.0007
+127.0.0.1 - - [25/Jun/2010 14:26:22] "GET /stylesheets/960.css HTTP/1.1" 304 - 0.0030
+127.0.0.1 - - [25/Jun/2010 14:26:22] "GET /stylesheets/smoothness/jquery-ui-1.8.custom.css HTTP/1.1" 304 - 0.0006
+127.0.0.1 - - [25/Jun/2010 14:26:22] "GET /stylesheets/smoothness/jquery-ui-1.8.custom.css HTTP/1.1" 304 - 0.0024
+127.0.0.1 - - [25/Jun/2010 14:26:22] "GET /stylesheets/app.css HTTP/1.1" 304 - 0.0006
+127.0.0.1 - - [25/Jun/2010 14:26:22] "GET /stylesheets/app.css HTTP/1.1" 304 - 0.0021
+127.0.0.1 - - [25/Jun/2010 14:26:22] "GET /javascripts/jquery-1.4.2.min.js HTTP/1.1" 304 - 0.0006
+127.0.0.1 - - [25/Jun/2010 14:26:22] "GET /javascripts/jquery-1.4.2.min.js HTTP/1.1" 304 - 0.0020
+127.0.0.1 - - [25/Jun/2010 14:26:22] "GET /javascripts/jquery-ui-1.8.custom.min.js HTTP/1.1" 304 - 0.0006
+127.0.0.1 - - [25/Jun/2010 14:26:22] "GET /javascripts/jquery-ui-1.8.custom.min.js HTTP/1.1" 304 - 0.0020
+127.0.0.1 - - [25/Jun/2010 14:26:22] "GET /javascripts/coffee-script.js HTTP/1.1" 304 - 0.0011
+127.0.0.1 - - [25/Jun/2010 14:26:22] "GET /javascripts/coffee-script.js HTTP/1.1" 304 - 0.0032
+127.0.0.1 - - [25/Jun/2010 14:31:48] "GET / HTTP/1.1" 200 4753 0.1662
+127.0.0.1 - - [25/Jun/2010 14:31:48] "GET / HTTP/1.1" 200 4753 0.1679
+127.0.0.1 - - [25/Jun/2010 14:31:48] "GET /javascripts/jquery-1.4.2.min.js HTTP/1.1" 304 - 0.0006
+127.0.0.1 - - [25/Jun/2010 14:31:48] "GET /javascripts/jquery-1.4.2.min.js HTTP/1.1" 304 - 0.0026
+127.0.0.1 - - [25/Jun/2010 14:31:48] "GET /stylesheets/app.css HTTP/1.1" 304 - 0.0005
+127.0.0.1 - - [25/Jun/2010 14:31:48] "GET /stylesheets/app.css HTTP/1.1" 304 - 0.0018
+127.0.0.1 - - [25/Jun/2010 14:31:48] "GET /stylesheets/smoothness/jquery-ui-1.8.custom.css HTTP/1.1" 304 - 0.0005
+127.0.0.1 - - [25/Jun/2010 14:31:48] "GET /stylesheets/smoothness/jquery-ui-1.8.custom.css HTTP/1.1" 304 - 0.0019
+127.0.0.1 - - [25/Jun/2010 14:31:48] "GET /stylesheets/text.css HTTP/1.1" 304 - 0.0006
+127.0.0.1 - - [25/Jun/2010 14:31:48] "GET /stylesheets/text.css HTTP/1.1" 304 - 0.0021
+127.0.0.1 - - [25/Jun/2010 14:31:48] "GET /stylesheets/960.css HTTP/1.1" 304 - 0.0006
+127.0.0.1 - - [25/Jun/2010 14:31:48] "GET /stylesheets/960.css HTTP/1.1" 304 - 0.0019
+127.0.0.1 - - [25/Jun/2010 14:31:48] "GET /stylesheets/reset.css HTTP/1.1" 304 - 0.0006
+127.0.0.1 - - [25/Jun/2010 14:31:48] "GET /stylesheets/reset.css HTTP/1.1" 304 - 0.0020
+127.0.0.1 - - [25/Jun/2010 14:31:48] "GET /javascripts/jquery-ui-1.8.custom.min.js HTTP/1.1" 304 - 0.0006
+127.0.0.1 - - [25/Jun/2010 14:31:48] "GET /javascripts/jquery-ui-1.8.custom.min.js HTTP/1.1" 304 - 0.0022
+127.0.0.1 - - [25/Jun/2010 14:31:48] "GET /javascripts/coffee-script.js HTTP/1.1" 304 - 0.0006
+127.0.0.1 - - [25/Jun/2010 14:31:48] "GET /javascripts/coffee-script.js HTTP/1.1" 304 - 0.0023
+127.0.0.1 - - [25/Jun/2010 14:31:49] "GET /favicon.ico HTTP/1.1" 200 3494 0.0008
+127.0.0.1 - - [25/Jun/2010 14:31:49] "GET /favicon.ico HTTP/1.1" 200 3494 0.0024
+127.0.0.1 - - [25/Jun/2010 14:32:03] "GET / HTTP/1.1" 200 4753 0.1113
+127.0.0.1 - - [25/Jun/2010 14:32:03] "GET / HTTP/1.1" 200 4753 0.1131
+127.0.0.1 - - [25/Jun/2010 14:32:03] "GET /stylesheets/app.css HTTP/1.1" 304 - 0.0005
+127.0.0.1 - - [25/Jun/2010 14:32:03] "GET /stylesheets/app.css HTTP/1.1" 304 - 0.0018
+127.0.0.1 - - [25/Jun/2010 14:32:03] "GET /javascripts/jquery-1.4.2.min.js HTTP/1.1" 304 - 0.0029
+127.0.0.1 - - [25/Jun/2010 14:32:03] "GET /javascripts/jquery-1.4.2.min.js HTTP/1.1" 304 - 0.0043
+127.0.0.1 - - [25/Jun/2010 14:32:03] "GET /stylesheets/smoothness/jquery-ui-1.8.custom.css HTTP/1.1" 304 - 0.0005
+127.0.0.1 - - [25/Jun/2010 14:32:03] "GET /stylesheets/smoothness/jquery-ui-1.8.custom.css HTTP/1.1" 304 - 0.0018
+127.0.0.1 - - [25/Jun/2010 14:32:03] "GET /stylesheets/reset.css HTTP/1.1" 304 - 0.0006
+127.0.0.1 - - [25/Jun/2010 14:32:03] "GET /stylesheets/reset.css HTTP/1.1" 304 - 0.0018
+127.0.0.1 - - [25/Jun/2010 14:32:03] "GET /stylesheets/text.css HTTP/1.1" 304 - 0.0006
+127.0.0.1 - - [25/Jun/2010 14:32:03] "GET /stylesheets/text.css HTTP/1.1" 304 - 0.0027
+127.0.0.1 - - [25/Jun/2010 14:32:03] "GET /stylesheets/960.css HTTP/1.1" 304 - 0.0006
+127.0.0.1 - - [25/Jun/2010 14:32:03] "GET /stylesheets/960.css HTTP/1.1" 304 - 0.0019
+127.0.0.1 - - [25/Jun/2010 14:32:03] "GET /javascripts/jquery-ui-1.8.custom.min.js HTTP/1.1" 304 - 0.0006
+127.0.0.1 - - [25/Jun/2010 14:32:03] "GET /javascripts/jquery-ui-1.8.custom.min.js HTTP/1.1" 304 - 0.0019
+127.0.0.1 - - [25/Jun/2010 14:32:03] "GET /javascripts/coffee-script.js HTTP/1.1" 304 - 0.0006
+127.0.0.1 - - [25/Jun/2010 14:32:03] "GET /javascripts/coffee-script.js HTTP/1.1" 304 - 0.0021
+127.0.0.1 - - [25/Jun/2010 14:32:03] "GET /favicon.ico HTTP/1.1" 200 3494 0.0008
+127.0.0.1 - - [25/Jun/2010 14:32:03] "GET /favicon.ico HTTP/1.1" 200 3494 0.0024
+127.0.0.1 - - [25/Jun/2010 14:33:35] "GET / HTTP/1.1" 200 4810 0.1700
+127.0.0.1 - - [25/Jun/2010 14:33:35] "GET / HTTP/1.1" 200 4810 0.1717
+127.0.0.1 - - [25/Jun/2010 14:33:35] "GET /stylesheets/smoothness/jquery-ui-1.8.custom.css HTTP/1.1" 304 - 0.0007
+127.0.0.1 - - [25/Jun/2010 14:33:35] "GET /stylesheets/smoothness/jquery-ui-1.8.custom.css HTTP/1.1" 304 - 0.0023
+127.0.0.1 - - [25/Jun/2010 14:33:35] "GET /stylesheets/reset.css HTTP/1.1" 304 - 0.0006
+127.0.0.1 - - [25/Jun/2010 14:33:35] "GET /stylesheets/reset.css HTTP/1.1" 304 - 0.0019
+127.0.0.1 - - [25/Jun/2010 14:33:35] "GET /stylesheets/app.css HTTP/1.1" 304 - 0.0006
+127.0.0.1 - - [25/Jun/2010 14:33:35] "GET /stylesheets/app.css HTTP/1.1" 304 - 0.0025
+127.0.0.1 - - [25/Jun/2010 14:33:35] "GET /javascripts/jquery-1.4.2.min.js HTTP/1.1" 304 - 0.0006
+127.0.0.1 - - [25/Jun/2010 14:33:35] "GET /javascripts/jquery-1.4.2.min.js HTTP/1.1" 304 - 0.0020
+127.0.0.1 - - [25/Jun/2010 14:33:35] "GET /stylesheets/960.css HTTP/1.1" 304 - 0.0006
+127.0.0.1 - - [25/Jun/2010 14:33:35] "GET /stylesheets/960.css HTTP/1.1" 304 - 0.0020
+127.0.0.1 - - [25/Jun/2010 14:33:35] "GET /stylesheets/text.css HTTP/1.1" 304 - 0.0007
+127.0.0.1 - - [25/Jun/2010 14:33:35] "GET /stylesheets/text.css HTTP/1.1" 304 - 0.0021
+127.0.0.1 - - [25/Jun/2010 14:33:35] "GET /javascripts/jquery-ui-1.8.custom.min.js HTTP/1.1" 304 - 0.0006
+127.0.0.1 - - [25/Jun/2010 14:33:35] "GET /javascripts/jquery-ui-1.8.custom.min.js HTTP/1.1" 304 - 0.0019
+127.0.0.1 - - [25/Jun/2010 14:33:36] "GET /javascripts/coffee-script.js HTTP/1.1" 304 - 0.0006
+127.0.0.1 - - [25/Jun/2010 14:33:36] "GET /javascripts/coffee-script.js HTTP/1.1" 304 - 0.0021
+127.0.0.1 - - [25/Jun/2010 14:33:36] "GET /favicon.ico HTTP/1.1" 200 3494 0.0009
+127.0.0.1 - - [25/Jun/2010 14:33:36] "GET /favicon.ico HTTP/1.1" 200 3494 0.0029
+127.0.0.1 - - [25/Jun/2010 14:33:56] "GET / HTTP/1.1" 200 4810 0.1182
+127.0.0.1 - - [25/Jun/2010 14:33:56] "GET / HTTP/1.1" 200 4810 0.1200
+127.0.0.1 - - [25/Jun/2010 14:33:56] "GET /stylesheets/reset.css HTTP/1.1" 304 - 0.0007
+127.0.0.1 - - [25/Jun/2010 14:33:56] "GET /stylesheets/reset.css HTTP/1.1" 304 - 0.0033
+127.0.0.1 - - [25/Jun/2010 14:33:56] "GET /stylesheets/text.css HTTP/1.1" 304 - 0.0006
+127.0.0.1 - - [25/Jun/2010 14:33:56] "GET /stylesheets/text.css HTTP/1.1" 304 - 0.0020
+127.0.0.1 - - [25/Jun/2010 14:33:56] "GET /stylesheets/960.css HTTP/1.1" 304 - 0.0006
+127.0.0.1 - - [25/Jun/2010 14:33:56] "GET /stylesheets/960.css HTTP/1.1" 304 - 0.0021
+127.0.0.1 - - [25/Jun/2010 14:33:56] "GET /stylesheets/smoothness/jquery-ui-1.8.custom.css HTTP/1.1" 304 - 0.0010
+127.0.0.1 - - [25/Jun/2010 14:33:56] "GET /stylesheets/smoothness/jquery-ui-1.8.custom.css HTTP/1.1" 304 - 0.0030
+127.0.0.1 - - [25/Jun/2010 14:33:56] "GET /stylesheets/app.css HTTP/1.1" 304 - 0.0006
+127.0.0.1 - - [25/Jun/2010 14:33:56] "GET /stylesheets/app.css HTTP/1.1" 304 - 0.0020
+127.0.0.1 - - [25/Jun/2010 14:33:56] "GET /javascripts/jquery-1.4.2.min.js HTTP/1.1" 304 - 0.0006
+127.0.0.1 - - [25/Jun/2010 14:33:56] "GET /javascripts/jquery-1.4.2.min.js HTTP/1.1" 304 - 0.0019
+127.0.0.1 - - [25/Jun/2010 14:33:56] "GET /javascripts/jquery-ui-1.8.custom.min.js HTTP/1.1" 304 - 0.0007
+127.0.0.1 - - [25/Jun/2010 14:33:56] "GET /javascripts/jquery-ui-1.8.custom.min.js HTTP/1.1" 304 - 0.0028
+127.0.0.1 - - [25/Jun/2010 14:33:56] "GET /javascripts/coffee-script.js HTTP/1.1" 304 - 0.0006
+127.0.0.1 - - [25/Jun/2010 14:33:56] "GET /javascripts/coffee-script.js HTTP/1.1" 304 - 0.0026
+127.0.0.1 - - [25/Jun/2010 14:34:34] "GET / HTTP/1.1" 200 4836 0.1172
+127.0.0.1 - - [25/Jun/2010 14:34:34] "GET / HTTP/1.1" 200 4836 0.1190
+127.0.0.1 - - [25/Jun/2010 14:34:34] "GET /stylesheets/reset.css HTTP/1.1" 304 - 0.0009
+127.0.0.1 - - [25/Jun/2010 14:34:34] "GET /stylesheets/reset.css HTTP/1.1" 304 - 0.0038
+127.0.0.1 - - [25/Jun/2010 14:34:34] "GET /stylesheets/text.css HTTP/1.1" 304 - 0.0007
+127.0.0.1 - - [25/Jun/2010 14:34:34] "GET /stylesheets/text.css HTTP/1.1" 304 - 0.0026
+127.0.0.1 - - [25/Jun/2010 14:34:34] "GET /stylesheets/960.css HTTP/1.1" 304 - 0.0005
+127.0.0.1 - - [25/Jun/2010 14:34:34] "GET /stylesheets/960.css HTTP/1.1" 304 - 0.0020
+127.0.0.1 - - [25/Jun/2010 14:34:34] "GET /stylesheets/smoothness/jquery-ui-1.8.custom.css HTTP/1.1" 304 - 0.0006
+127.0.0.1 - - [25/Jun/2010 14:34:34] "GET /stylesheets/smoothness/jquery-ui-1.8.custom.css HTTP/1.1" 304 - 0.0022
+127.0.0.1 - - [25/Jun/2010 14:34:34] "GET /stylesheets/app.css HTTP/1.1" 304 - 0.0008
+127.0.0.1 - - [25/Jun/2010 14:34:34] "GET /stylesheets/app.css HTTP/1.1" 304 - 0.0024
+127.0.0.1 - - [25/Jun/2010 14:34:34] "GET /javascripts/jquery-1.4.2.min.js HTTP/1.1" 304 - 0.0007
+127.0.0.1 - - [25/Jun/2010 14:34:34] "GET /javascripts/jquery-1.4.2.min.js HTTP/1.1" 304 - 0.0022
+127.0.0.1 - - [25/Jun/2010 14:34:34] "GET /javascripts/jquery-ui-1.8.custom.min.js HTTP/1.1" 304 - 0.0011
+127.0.0.1 - - [25/Jun/2010 14:34:34] "GET /javascripts/jquery-ui-1.8.custom.min.js HTTP/1.1" 304 - 0.0026
+127.0.0.1 - - [25/Jun/2010 14:34:34] "GET /javascripts/coffee-script.js HTTP/1.1" 304 - 0.0007
+127.0.0.1 - - [25/Jun/2010 14:34:34] "GET /javascripts/coffee-script.js HTTP/1.1" 304 - 0.0021
+127.0.0.1 - - [25/Jun/2010 14:34:54] "GET / HTTP/1.1" 200 4847 0.1196
+127.0.0.1 - - [25/Jun/2010 14:34:54] "GET / HTTP/1.1" 200 4847 0.1212
+127.0.0.1 - - [25/Jun/2010 14:34:54] "GET /stylesheets/960.css HTTP/1.1" 304 - 0.0006
+127.0.0.1 - - [25/Jun/2010 14:34:54] "GET /stylesheets/960.css HTTP/1.1" 304 - 0.0027
+127.0.0.1 - - [25/Jun/2010 14:34:54] "GET /javascripts/jquery-1.4.2.min.js HTTP/1.1" 304 - 0.0005
+127.0.0.1 - - [25/Jun/2010 14:34:54] "GET /javascripts/jquery-1.4.2.min.js HTTP/1.1" 304 - 0.0018
+127.0.0.1 - - [25/Jun/2010 14:34:54] "GET /stylesheets/reset.css HTTP/1.1" 304 - 0.0006
+127.0.0.1 - - [25/Jun/2010 14:34:54] "GET /stylesheets/reset.css HTTP/1.1" 304 - 0.0019
+127.0.0.1 - - [25/Jun/2010 14:34:54] "GET /stylesheets/text.css HTTP/1.1" 304 - 0.0006
+127.0.0.1 - - [25/Jun/2010 14:34:54] "GET /stylesheets/text.css HTTP/1.1" 304 - 0.0020
+127.0.0.1 - - [25/Jun/2010 14:34:54] "GET /stylesheets/smoothness/jquery-ui-1.8.custom.css HTTP/1.1" 304 - 0.0006
+127.0.0.1 - - [25/Jun/2010 14:34:54] "GET /stylesheets/smoothness/jquery-ui-1.8.custom.css HTTP/1.1" 304 - 0.0023
+127.0.0.1 - - [25/Jun/2010 14:34:54] "GET /stylesheets/app.css HTTP/1.1" 304 - 0.0006
+127.0.0.1 - - [25/Jun/2010 14:34:54] "GET /stylesheets/app.css HTTP/1.1" 304 - 0.0020
+127.0.0.1 - - [25/Jun/2010 14:34:54] "GET /javascripts/jquery-ui-1.8.custom.min.js HTTP/1.1" 304 - 0.0006
+127.0.0.1 - - [25/Jun/2010 14:34:54] "GET /javascripts/jquery-ui-1.8.custom.min.js HTTP/1.1" 304 - 0.0019
+127.0.0.1 - - [25/Jun/2010 14:34:54] "GET /javascripts/coffee-script.js HTTP/1.1" 304 - 0.0006
+127.0.0.1 - - [25/Jun/2010 14:34:54] "GET /javascripts/coffee-script.js HTTP/1.1" 304 - 0.0023
+127.0.0.1 - - [25/Jun/2010 14:34:54] "GET /favicon.ico HTTP/1.1" 200 3494 0.0015
+127.0.0.1 - - [25/Jun/2010 14:34:54] "GET /favicon.ico HTTP/1.1" 200 3494 0.0031
+/usr/local/lib/ruby/gems/1.8/gems/rack-1.1.0/lib/rack/handler/mongrel.rb:38:in `join': Interrupt
+	from /usr/local/lib/ruby/gems/1.8/gems/rack-1.1.0/lib/rack/handler/mongrel.rb:38:in `run'
+	from /usr/local/lib/ruby/gems/1.8/gems/rack-1.1.0/lib/rack/server.rb:155:in `start'
+	from /usr/local/lib/ruby/gems/1.8/gems/rack-1.1.0/lib/rack/server.rb:83:in `start'
+	from /usr/local/lib/ruby/gems/1.8/gems/rack-1.1.0/bin/rackup:4
+	from /usr/local/lib/ruby/gems/1.8/gems/mercury-0.9.15/bin/mercury:34:in `load'
+	from /usr/local/lib/ruby/gems/1.8/gems/mercury-0.9.15/bin/mercury:34
+	from /usr/local/bin/mercury:19:in `load'
+	from /usr/local/bin/mercury:19
